@@ -16,8 +16,8 @@ MAX_VIDEOS = 800
 CHECKPOINT_INTERVAL = 5
 QUERY = "covilhã"
 
-VIDEOS_CSV = "videos.csv"
-COMMENTS_CSV = "comments.csv"
+VIDEOS_CSV = "youtube_videos.csv"
+COMMENTS_CSV = "youtube_comments.csv"
 
 colunas_comentarios = ["video_id", "comment_id", "parent_id", "author", "comment_text", "likes", "published_date"]
 colunas_videos = ["video_id", "video_url", "title", "description", "channel", "published_date", "views", "likes", "comments_count"]
