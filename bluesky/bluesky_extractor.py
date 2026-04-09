@@ -13,28 +13,51 @@ client.login(
     os.getenv("BLUESKY_APP_PASSWORD")
 )
 
+FICHEIRO_IDS = "bluesky_ids_vistos.json"
 
-def extrair_dados_bluesky(query, max_paginas=5):
+def carregar_ids_vistos():
+    """Carrega os IDs de posts já recolhidos em execuções anteriores."""
+    if os.path.exists(FICHEIRO_IDS):
+        with open(FICHEIRO_IDS, "r", encoding="utf-8") as f:
+            return set(json.load(f))
+    return set()
+
+def guardar_ids_vistos(ids):
+    """Guarda os IDs recolhidos para não repetir na próxima execução."""
+    with open(FICHEIRO_IDS, "w", encoding="utf-8") as f:
+        json.dump(list(ids), f)
+
+def extrair_dados_bluesky(query, max_paginas=20):
     todos_dados = []
+    ids_vistos = carregar_ids_vistos()
+    novos_ids = set()
     cursor = None
 
-    print(f"Iniciando busca por: {query}")
+    print(f"Posts já recolhidos em execuções anteriores: {len(ids_vistos)}")
+    print(f"A iniciar busca por: {query}")
 
     for i in range(max_paginas):
-        params = {'q': query, 'limit': 25}  # Limite menor para evitar timeouts
+        params = {'q': query, 'limit': 100}  # 100 é o máximo permitido pela API
         if cursor:
             params['cursor'] = cursor
 
-        # Busca os posts
         busca = client.app.bsky.feed.search_posts(params=params)
 
+        if not busca.posts:
+            print("Sem mais posts disponíveis.")
+            break
+
+        novos_nesta_pagina = 0
+
         for post in busca.posts:
-            # Obter a thread detalhada para ler os comentários (replies)
+            # Salta posts já recolhidos
+            if post.uri in ids_vistos:
+                continue
+
             try:
                 thread = client.app.bsky.feed.get_post_thread(params={'uri': post.uri})
                 comentarios_detalhes = []
 
-                # Verificar se existem respostas na thread
                 if hasattr(thread.thread, 'replies') and thread.thread.replies:
                     for reply in thread.thread.replies:
                         if hasattr(reply, 'post'):
@@ -44,7 +67,6 @@ def extrair_dados_bluesky(query, max_paginas=5):
                                 'likes_comentario': reply.post.like_count
                             })
 
-                # Estrutura do Post Principal
                 post_data = {
                     'post_id': post.uri,
                     'autor': post.author.handle,
@@ -54,50 +76,57 @@ def extrair_dados_bluesky(query, max_paginas=5):
                     'qtd_replies': post.reply_count,
                     'comentarios': comentarios_detalhes
                 }
+
                 todos_dados.append(post_data)
-                print(f"Extraído post de @{post.author.handle}")
+                novos_ids.add(post.uri)
+                novos_nesta_pagina += 1
+                print(f"  Extraído: @{post.author.handle}")
 
             except Exception as e:
-                print(f"Erro ao processar post {post.uri}: {e}")
+                print(f"  Erro no post {post.uri}: {e}")
 
-            # Pequena pausa para respeitar o rate limit
             time.sleep(0.1)
+
+        print(f"Página {i+1}: {novos_nesta_pagina} posts novos recolhidos")
+
+        # Se todos os posts desta página já foram vistos, não vale a pena continuar
+        if novos_nesta_pagina == 0:
+            print("Todos os posts desta página já foram recolhidos. A parar.")
+            break
 
         cursor = busca.cursor
         if not cursor:
+            print("Sem mais páginas disponíveis.")
             break
-        print(f"Página {i + 1} concluída...")
+
+        time.sleep(0.5)  # pausa entre páginas
+
+    # Guarda os novos IDs para a próxima execução
+    ids_vistos.update(novos_ids)
+    guardar_ids_vistos(ids_vistos)
+    print(f"\nTotal de posts novos recolhidos: {len(todos_dados)}")
 
     return todos_dados
 
-
-# 2. Execução
+# Execução
 query = "covilhã"
-dados_finais = extrair_dados_bluesky(query, max_paginas=2)
+dados_finais = extrair_dados_bluesky(query, max_paginas=20)
 
-# 3. Guardar em JSON (Melhor para dados hierárquicos como comentários)
+# Guardar JSON
 with open('bluesky_posts.json', 'w', encoding='utf-8') as f:
     json.dump(dados_finais, f, ensure_ascii=False, indent=4)
 
-# 4. Guardar em CSV
-# Nota: Como o CSV é plano, os comentários ficarão numa string formatada
-with open('bluesky_posts.csv', 'w', newline='', encoding='utf-8') as f:
+# Guardar CSV
+with open('bluesky_posts.csv', 'a', newline='', encoding='utf-8') as f:  # 'a' para acrescentar
     writer = csv.writer(f)
-    writer.writerow(['Data', 'Autor', 'Texto', 'Likes', 'Respostas', 'Conteúdo_Comentários'])
+    if not os.path.exists('bluesky_posts.csv') or os.path.getsize('bluesky_posts.csv') == 0:
+        writer.writerow(['Data', 'Autor', 'Texto', 'Likes', 'Respostas', 'Conteúdo_Comentários'])
 
     for p in dados_finais:
-        # Formata comentários para caber numa célula do CSV
-        txt_comentarios = " | ".join(
-            [f"[@{c['autor_comentario']}: {c['texto_comentario']} (Likes: {c['likes_comentario']})]" for c in
-             p['comentarios']])
-
-        writer.writerow([
-            p['data'],
-            p['autor'],
-            p['texto'],
-            p['qtd_likes'],
-            p['qtd_replies'],
-            txt_comentarios
+        txt_comentarios = " | ".join([
+            f"[@{c['autor_comentario']}: {c['texto_comentario']} (Likes: {c['likes_comentario']})]"
+            for c in p['comentarios']
         ])
+        writer.writerow([p['data'], p['autor'], p['texto'], p['qtd_likes'], p['qtd_replies'], txt_comentarios])
 
-print("Extração finalizada! Ficheiros 'bluesky_posts.json' e 'bluesky_posts.csv' criados.")
+print("Extração finalizada!")
