@@ -1,10 +1,14 @@
 import requests
 import json
 import csv
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # --- CONFIGURAÇÕES ---
 # Cole aqui o seu Token gerado no Graph API Explorer
-ACCESS_TOKEN = 'EAAUDQl6bPZCgBQ7lHhKHOWAZBQ60AcFZAAqBCm7sSMZBKPWm6L1m8FmOxP8uaE9InLZBrHaMZBuQKJVyMrRY4Py9ryQNpZAUELykAbIoOJkTzClzS1ZAORfNUZA5M32JozoEW7j6eytkmgtGpYm25ZCT1CIV76xyIn8oKQUjVTegaIQ1GTCWimhPAGWj39EDbFZC5D4LGmrsHG9vJZCBL85b04j96bByhMdM5Uh5HAZC05wVssqJYotPV574EwYzMZABfVWVUTi9KSrVVOpEiD479EWJE6qxFgxJ4LwzHH20qQZBxVAqkh7V70VP0dCG3gkqdU2o6MZD'
+ACCESS_TOKEN = os.getenv('facebook_token')
 API_VERSION = 'v25.0'
 
 def fetch_facebook_data():
