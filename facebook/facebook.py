@@ -8,7 +8,7 @@ load_dotenv()
 
 # --- CONFIGURAÇÕES ---
 # Cole aqui o seu Token gerado no Graph API Explorer
-ACCESS_TOKEN = os.getenv('facebook_token')
+ACCESS_TOKEN = os.getenv('FACEBOOK_TOKEN')
 API_VERSION = 'v25.0'
 
 def fetch_facebook_data():
