@@ -21,10 +21,9 @@ CSV_FILE = os.path.join(RAW_DIR, "news_posts.csv")
 JSON_FILE = os.path.join(RAW_DIR, "news_posts.json")
 
 QUERY_BASE = "covilhã"
-
 # True = extrai histórico desde janeiro 2025
 # False = extrai só notícias recentes
-BACKFILL = True
+BACKFILL = False
 
 DAYS_RECENT = 7
 
