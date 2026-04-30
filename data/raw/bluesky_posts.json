@@ -1,6 +1,36 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mkqhqefywm2h",
+        "author": "movebeiras.pt",
+        "text": "📸 Exposição “Linha da Beira Baixa: Troço Covilhã > Guarda no Século XXI”\n\nBelmonte recebe, de 5 de Maio a 5 de Junho de 2026 no Welcome Center, a exposição fotográfica de Antero Pires dedicada ao troço ferroviário entre a Covilhã e a Guarda.",
+        "created_at": "2026-04-30T20:36:52.418Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "movebeiras.pt",
+                "comment_text": "🛤 Através de imagens captadas desde 2008, podemos observar a evolução deste troço encerrado durante 12 anos para obras, revelando as transformações do território, das suas paisagens e comunidades ao longo do Século XXI!",
+                "comment_likes": 0
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:gp3a3ecz7iabeyfgyn52xojl/app.bsky.feed.post/3mkq2gkaumt2e",
+        "author": "dezanove.pt",
+        "text": "Covilhã volta a sair à rua pela igualdade: 5ª Marcha LGBTQIAP+ acontece a 5 de Junho",
+        "created_at": "2026-04-30T16:38:43+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:jsvjbqwnd4bzo7m6acc5xx6i/app.bsky.feed.post/3mjzhzl7n7h2r",
         "author": "idealistapt.bsky.social",
         "text": "Palacete abandonado na Covilhã está à venda por 1,3 milhões de euros ",
