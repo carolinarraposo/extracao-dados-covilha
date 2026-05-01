@@ -1,6 +1,90 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mkslk244gj2k",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 90' — SC Covilha. SC Covilha 1–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:50:14.238Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:vjtfrmm5mpvr57bnp5ez5cey/app.bsky.feed.post/3mkslghvvcq2h",
+        "author": "haha.yes.goalbot.dev",
+        "text": "🟥 Red Card 90' (SC Covilha). SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:48:14.762Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mksl25pexg2w",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 81' — M. Antunes scores for Amora. SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:41:21.230Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mkskyaotf523",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 80' — Amora. SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:40:16.383Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mkskwiblcb2x",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 81' — M. Antunes scores for Amora. SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:39:17.726Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mkskuwbokq2r",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 80' — Amora. SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:38:25.180Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:dwyvsabsyrmidc7oscjdamk6/app.bsky.feed.post/3mksbboqfhc2w",
+        "author": "reisdesk.nl",
+        "text": "#Vakantie Dagaanbieding 1 mei: Hotel Santa Eufemia 6 dagen #hotel #vliegreis #Portugal #Covilhã - Vandaag: € 429,00 #goedkoop! - Kijk voor deze #aanbieding en meer op: reisdesk.nl/",
+        "created_at": "2026-05-01T13:46:36+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mkqhqefywm2h",
         "author": "movebeiras.pt",
         "text": "📸 Exposição “Linha da Beira Baixa: Troço Covilhã > Guarda no Século XXI”\n\nBelmonte recebe, de 5 de Maio a 5 de Junho de 2026 no Welcome Center, a exposição fotográfica de Antero Pires dedicada ao troço ferroviário entre a Covilhã e a Guarda.",
