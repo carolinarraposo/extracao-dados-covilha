@@ -1,4 +1,513 @@
 source,platform_id,title,link,url,created_at,text,metrics,comments
+news,https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWp3MEN3VHEtUEtCSnBMS0tBWV9CWnNzcFhVLU96WmhWZ19ZcnJUMFFyX2xGaEJtWHVoeF9xV0pFV21udl9wNHFtdXM2dFgxbUw3dXlFeVVPT1Z4V3VySUx3RUlHdHkyczVqOFZObW5GRzN2eF83bHBxcmQ0UGNhdVNaWHdwU0lXbnhzcjlsbV8wOEsybklqaEphMTFnekVXZ19KbzFCWTZ0dlZHX0Jv?oc=5,Empate a uma bola nas Caldas garantiu manutenção ao Sporting da Covilhã - Jornal das Caldas,https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWp3MEN3VHEtUEtCSnBMS0tBWV9CWnNzcFhVLU96WmhWZ19ZcnJUMFFyX2xGaEJtWHVoeF9xV0pFV21udl9wNHFtdXM2dFgxbUw3dXlFeVVPT1Z4V3VySUx3RUlHdHkyczVqOFZObW5GRzN2eF83bHBxcmQ0UGNhdVNaWHdwU0lXbnhzcjlsbV8wOEsybklqaEphMTFnekVXZ19KbzFCWTZ0dlZHX0Jv?oc=5,https://jornaldascaldas.pt/2026/05/01/empate-a-uma-bola-nas-caldas-garantiu-manutencao-ao-sporting-da-covilha/,"Fri, 01 May 2026 21:36:13 GMT",,{},[]
+news,https://news.google.com/rss/articles/CBMidkFVX3lxTE42NGI1VGdyX3lhX1VQYU9JVTVKQVlhSFJlM3h3anRGaFVpczJVdjZmS0dpOGZXUzdfdHc1emJiZW0yano3clRteElYamFSLVV1eVQ3U0pOQnJxSmpYT2lnUzdkWlNHVWN0WlE1ODFoMlRyS1lIMVE?oc=5,Jogos em Direto - Sp. Covilhã vs Amora FC - Record,https://news.google.com/rss/articles/CBMidkFVX3lxTE42NGI1VGdyX3lhX1VQYU9JVTVKQVlhSFJlM3h3anRGaFVpczJVdjZmS0dpOGZXUzdfdHc1emJiZW0yano3clRteElYamFSLVV1eVQ3U0pOQnJxSmpYT2lnUzdkWlNHVWN0WlE1ODFoMlRyS1lIMVE?oc=5,https://www.record.pt/jogos-em-direto/166214/sp-covilha-vs-amora-fc,"Fri, 01 May 2026 21:20:36 GMT","Menu
+Record
+Assinar
+E-Paper
+Notificações
+Deseja receber notificações
+Cancelar
+Continuar
+Newsletter
+Iniciativas
+Entrar
+Assine já
+Login
+Assinar
+Pesquisa
+Premium
+Capas
+Homepage
+Últimas
+Futebol
+Benfica
+Notícias
+Classificação
+FC Porto
+Notícias
+Classificação
+Sporting
+Notícias
+Classificação
+Liga Betclic
+Benfica
+FC Porto
+Sporting
+Famalicão
+Gil Vicente
+Sp. Braga
+V. Guimarães
+Estoril
+Arouca
+Casa Pia
+Rio Ave
+E. Amadora
+Moreirense
+AVS SAD
+Nacional
+Santa Clara
+Alverca
+Tondela
+Resultados
+Classificações
+Resumos
+Calendário
+2ª Liga
+Chaves
+Portimonense
+Vizela
+Feirense
+Ac. Viseu
+Benfica B
+FC Porto B
+Leixões
+Penafiel
+Torreense
+Marítimo
+P. Ferreira
+U. Leiria
+Felgueiras
+Lourosa
+Sporting B
+Farense
+Estatísticas
+Resultados
+Calendário
+Taça de Portugal
+Notícias
+Resultados
+Allianz Cup
+Notícias
+Resultados
+Classificações
+Futebol feminino
+Seleções
+Liga 3
+Campeonato de Portugal
+Arbitragem
+Futsal
+Notícias
+Resultados
+Classificações
+UEFA Futsal Cup
+Europeu 2018
+Europeu 2016
+Champions
+Notícias
+Resultados
+Classificações
+Estatísticas
+Liga Europa
+Notícias
+Resultados
+Classificações
+Estatísticas
+Internacional
+Alemanha
+Espanha
+França
+Inglaterra
+Brasil
+Itália
+Angola
+Outras ligas
+Liga dos Campeões
+Liga Europa
+Liga Jovem da UEFA
+Mundial 2022
+Outros
+Record Gaming
+Fora de campo
+Jogo da Vida
+Nutrição
+Record Running
+Aposta na Desportiva
+C-Studio
+Publicidade
+UDL Match Day
+Pit Lane
+Podcast R
+Modalidades
+Hóquei em patins
+Notícias
+Resultados
+Classificações
+Andebol
+Notícias
+Resultados
+Classificações
+Atletismo
+Motores
+MotoGP
+Motociclismo
+Automobilismo
+Fórmula 1
+Ralis
+Record Auto
+Todo-o-Terreno
+Todas
+Basquetebol
+Notícias
+Resultados
+Classificações
+Ténis
+Estoril Open
+Open de Austrália
+Roland Garros
+US Open
+Wimbledon
+Todas
+Voleibol
+Notícias
+Resultados
+Classificações
+Surf
+Outras
+Badminton
+Canoagem
+Ciclismo
+Desportos de combate
+Desportos de Inverno
+Jogos Olímpicos
+Desporto Escolar
+Desporto Universitário
+Desportos radicais
+Jogos Europeus
+Judo
+Ginástica
+Golfe
+MMA
+Natação
+NFL
+Orientação
+Padel
+Râguebi
+Surf
+Ténis de mesa
+Remo
+Triatlo
+Vela
+Record Move Portugal
+Liga Record
+Passatempos
+Fotogalerias
+FC Porto
+Benfica
+Sporting
+O Diário de CR7
+Vídeos
+FC Porto
+Sporting
+Benfica
+O Diário de CR7
+Resumos da Liga feminina
+Cupra Padel On Tour
+Record Apostas
+MOUseu Record
+Opinião
+Cronistas
+Pancada Central
+Medalhas
+Escrevem os leitores
+Qual é o problema
+Indica
+Outros
+Record Gaming
+Fora de campo
+Jogo da Vida
+Nutrição
+Record Running
+Aposta na Desportiva
+C-Studio
+Publicidade
+UDL Match Day
+Pit Lane
+Últimas
+Premium
+Sporting
+Benfica
+FC Porto
+Record na Hora
+Mundial'2026
+Internacional
+Resultados/classificações
+-
+...
+...
+Vídeos
+Podcasts
+Jogos
+Fotos
+Passatempos",{},[]
+news,https://news.google.com/rss/articles/CBMitwFBVV95cUxNZWwyb0UzSnltb0FkMEQyYVBBcEJNQTU0YW5PTlVwdlE2T1QtbWg5T0k0Q2xlazZWcTlxd3JEa0NsLTk0X09vdHlsbDdDNG85SU1jcnlTZUt6YVhGajN0WjVxdFNxRV9NdFBQR2V0dmI2TzNqOTA0cml4MGRDNUV1TldPWHRJTWtkNm1PeE1Qa1NEUlBOM0xrRWZSa1A2R25tVkM0WFZodkR1czBmLWpzaV9ubm9WQlk?oc=5,Igor Araújo acaba carreira de 20 anos no Covilhã com guarda de honra - SAPO,https://news.google.com/rss/articles/CBMitwFBVV95cUxNZWwyb0UzSnltb0FkMEQyYVBBcEJNQTU0YW5PTlVwdlE2T1QtbWg5T0k0Q2xlazZWcTlxd3JEa0NsLTk0X09vdHlsbDdDNG85SU1jcnlTZUt6YVhGajN0WjVxdFNxRV9NdFBQR2V0dmI2TzNqOTA0cml4MGRDNUV1TldPWHRJTWtkNm1PeE1Qa1NEUlBOM0xrRWZSa1A2R25tVkM0WFZodkR1czBmLWpzaV9ubm9WQlk?oc=5,https://sapo.pt/artigo/igor-araujo-acaba-carreira-de-20-anos-no-covilha-com-guarda-de-honra-69f4eb8716a0a30ace422aaa,"Fri, 01 May 2026 17:58:00 GMT","Se consideras que o áudio não está claro ou não reflete bem o conteúdo, envia o teu feedback . A tua opinião é importante para ajudar a melhorar esta funcionalidade!
+
+Esta voz foi gerada com recurso a inteligência artificial, a partir do resumo do artigo original. Embora esta tecnologia tenha sido concebida para ser útil e precisa, pode conter erros.
+
+Se consideras que o resumo não está claro ou não reflete bem o conteúdo, envia o teu feedback . A tua opinião é importante para ajudar a melhorar esta funcionalidade!
+
+Este resumo foi criado com recurso a inteligência artificial. Embora esta tecnologia tenha sido concebida para ser útil e precisa, pode conter erros ou não captar todas as nuances importantes do artigo.
+
+O guarda-redes Igor Araújo terminou esta sexta-feira com muita emoção uma carreira de 20 anos ao serviço do Covilhã, único clube que representou enquanto sénior, sendo homenageado com uma guarda de honra.
+
+De 39 anos, o guardião fez o seu primeiro jogo pela equipa principal dos serranos esta temporada e último da carreira, sendo titular e cumprindo os primeiros 20 minutos no Estádio José Santos Pinto num empate diante do Amora (1-1), numa altura em que o Covilhã já garantiu a permanência na Liga 3.
+
+Antes do encontro, Igor Araújo, que chegou ao Covilhã em 2006, após ter cumprido a formação no FC Porto, também foi homenageado pelos serranos, ficando visivelmente emocionado, como se pode conferir nas redes sociais do clube, que enalteceu: ""Foram 20 anos de Leão da Serra, uma marca rara, histórica e que reflete um amor ímpar pelo Sporting da Covilhã. Uma vez Leão da Serra, para sempre Leão da Serra!"".",{},[]
+news,https://news.google.com/rss/articles/CBMifkFVX3lxTE8yakh4NEY5S25aRGQ2M29NNGVkYWo1cWw3U1hoZUpBR2FSbmExbGVabHBHbnpvaVZJamtGLW9uNS1ONkV3RGhoVDNmRDd4Q1FjdW5YbnRLU0ViN1RvalF4a2lGaEFxSEMtamprTE1xVHNMS3pkUXhZS2xJNkt4dw?oc=5,Empate entre Covilhã e Amora - FPF,https://news.google.com/rss/articles/CBMifkFVX3lxTE8yakh4NEY5S25aRGQ2M29NNGVkYWo1cWw3U1hoZUpBR2FSbmExbGVabHBHbnpvaVZJamtGLW9uNS1ONkV3RGhoVDNmRDd4Q1FjdW5YbnRLU0ViN1RvalF4a2lGaEFxSEMtamprTE1xVHNMS3pkUXhZS2xJNkt4dw?oc=5,https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/56286,"Fri, 01 May 2026 17:29:23 GMT","Liga 3 Placard
+
+Jogo assinalou despedida de guardião serrano
+
+Jogo da última ronda apenas para cumprir o calendário, uma vez que as duas equipas já tinham o destino traçado. O SC Covilhã carimbou a manutenção na jornada passada, enquanto o Amora foi despromovido, após a derrota em casa com o Lusitano de Évora. Esta partida representou também a despedida de Igor Araújo, guarda-redes de 39 anos do SC Covilhã, que deixa os relvados após 20 épocas ao serviço dos serranos.
+
+Os futebolistas a jogarem sem pressão, entraram melhor os visitantes e podiam ter aberto a contagem logo aos 2 minutos: Ednilson Furtado lançou Joaquim Marques na direita, o lateral cruzou para o centro da área, onde Mauro Antunes, em excelente posição, atirou ao lado.
+
+Pouco depois, outra vez o Amora perto do golo, quando Renzo Trotta isolou Ednilson Furtado, mas o avançado não conseguiu ultrapassar o guardião da casa. Aos 20', um momento simbólico na partida, com a substituição dos guarda-redes do SC Covilhã; Igor Araújo deu o lugar a Gustavo Galil (o habitual titular) e terminou a sua carreira, depois de 20 temporadas a representar as cores dos serranos.
+
+Na saída, teve direito a guarda de honra feita por todos os intervenientes no jogo. O encontro desenrolou-se e, só perto do intervalo, o perigo voltou a rondar as balizas, mas os remates de Carlos Balsa, para os locais, e de Ednilson Furtado, pelos forasteiros, saíram ao lado do alvo.
+
+No segundo tempo, o ritmo do encontro aumentou e as equipas mostraram vontade de vencer. Dino Semedo, aos 59', disparou rasteiro, no entanto o guardião Gustavo Galil defendeu junto ao poste esquerdo.
+
+A resposta do SC Covilhã surgiu nos pés de Cheikh Niang (70'), mas o remate do senegalês acertou nas malhas laterais da baliza do Amora. Dez minutos volvidos, os visitantes passaram para a frente, por intermédio de Ednilson Furtado, após assistência, de cabeça, de Mauro Antunes.
+
+Quando se esperava um triunfo dos visitantes, os últimos instantes da partida foram frenéticos: primeiro com a expulsão de Carlos Balsa (90'), que deixou os locais com 10 elementos em campo; depois surgiu o empate (92'), através de Cheikh Niang, respondendo a um cruzamento de Miguel Silva; aos 93', Afonso Costa acertou no poste e perdeu uma grande ocasião para o Amora triunfar na Serra da Estrela.
+
+Consulte aqui todos os resultados, o calendário e as classificações da Liga 3 Placard.
+
+FICHA DE JOGO
+
+SC COVILHÃ 1-1 AMORA FC
+
+(0-0 ao intervalo)
+
+Liga 3 Placard
+
+10.ª jornada - Fase de Manutenção - Série 2
+
+Estádio Municipal José Santos Pinto
+
+Equipa de arbitragem
+
+Árbitro: João Afonso
+
+Árbitros assistentes: Roberto Santos e Francisco Silva
+
+Quarto árbitro: João Carvalho
+
+SP. COVILHÃ: Igor Araújo (cap.) (Gustavo Galil, 20'); Tomás Pimenta (Miguel Silva, 60'), Carlos Balsa, Pedro Ribeiro e Filipe Garcia; Fábio Cruz (Rodrigo Ferreira. 77'), Miguel Silva (cap.) e Tomás Oliveira; Pedro Brito (Cheikh Niang, 60'), André Liberal (Eduardo Silva, 77') e Jailson Gomes.
+
+Suplentes não utilizados: Ângelo Barbosa, Vasco Cunha, Rui Peixoto e Sani Abacha.
+
+Treinador: Rui Mota
+
+Disciplina: cartão amarelo para Tomás Pimenta (57'); cartão vermelho para Carlos Balsa (90')
+
+AMORA: Daniel Azevedo; Joaquim Marques, Tiago Duque (cap.), Salvador Oliveira (Afonso Costa, 64') e Renzo Trotta (Miguel Lopes, 64'); Mauro Antunes, Pedro Teixeira (Afonso Alves, 74') e Filipe Marques; Ednilson Furtado, Dino Semedo (Guilherme Pinheiro, 79') e Diogo Baldé (Wendel Souza, 64').
+
+Suplentes não utilizados: Heloine Correia, Eduino Junior, Ben Traore e Badra Camara.
+
+Treinador: Dário Castelo
+
+Disciplina: cartão amarelo para Pedro Teixeira (48'), Afonso Costa (88')
+
+Golos: 0-1 por Ednilson Furtado (80'), 1-1 por Cheikh Niang (92')
+
+HOMEM DO JOGO
+
+IGOR ARAÚJO (SC COVILHÃ)
+
+O guarda-redes do SC Covilhã, Igor Araújo, foi o grande destaque desta partida. Num encontro apenas para cumprir calendário, o guardião acabou por ser a figura, uma vez que colocou ponto final na sua carreira, depois de 20 anos ao serviço dos serranos.",{},[]
+news,https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWlqbUNIYlA4LVlBRkJlU3MxMlhndU0wTUJpNGRFcE1KZGRZN1JzUU1DcnUtd0FySTFfN1Z5YWJOMDk2NzVOUW1FcTRUc1MxY1VSRHozU1liYU1jLXZadzNNTHY0bEgweURfNUhQbnhJVE91ZXRvZDZ6TXI3VGlKZmtyang2T1dNaVJ4YUJQMmxwUjdkc1hTM0tDWlVZZGxXdEZ0V3J3?oc=5,Sporting da Covilhã termina Fase de Manutenção com um empate - Rádio Clube da Covilhã,https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWlqbUNIYlA4LVlBRkJlU3MxMlhndU0wTUJpNGRFcE1KZGRZN1JzUU1DcnUtd0FySTFfN1Z5YWJOMDk2NzVOUW1FcTRUc1MxY1VSRHozU1liYU1jLXZadzNNTHY0bEgweURfNUhQbnhJVE91ZXRvZDZ6TXI3VGlKZmtyang2T1dNaVJ4YUJQMmxwUjdkc1hTM0tDWlVZZGxXdEZ0V3J3?oc=5,https://radio-covilha.pt/2026/05/desporto/sporting-da-covilha-termina-fase-de-manutencao-com-um-empate/,"Fri, 01 May 2026 16:58:33 GMT","Com a manutenção já assegurada, o Sporting Clube da Covilhã encerrou a Fase de Manutenção da Liga 3, com um empate (1-1), frente ao Amora FC, num jogo a contar para a décima e última jornada da Série 2.
+
+O primeiro tempo foi feito de algumas tentativas, por ambos os conjuntos, mas nada muito perigoso. O Amora ainda teve uma boa oportunidade, mas o resultado permaneceu nulo até ao intervalo.
+
+Na segunda metade, os forasteiros inauguraram o marcador já perto do final da partida, aos 80 minutos, por intermédio de Ednilson Furtado, que foi mais rápido que o defesa serrano e colocou a bola no fundo das redes.
+
+A equipa serrana acreditou até ao fim e conseguiu mesmo chegar ao empate, já nos descontos, aos 90+3, através de Cheikh Niang, que encheu o pé e o esférico só parou dentro da baliza.
+
+Com este resultado, o SCC terminou na quarta posição da tabela classificativa, com 18 pontos somados.
+
+Foto: FPF",{},[]
+news,https://news.google.com/rss/articles/CBMipAFBVV95cUxNak1yVWF4bGxjYmc4RXVzMjdwdUxVWmczclVJWFhLdGU5Mnk5TjFqdUZla0ItdzdPekJUel9GWHd6enhWNFItZzZPMzVid2EtNjdnQzZNN3lNUzJuQmRLV3VmZmstR3ZTblpkdnJSTXgzZzBVOGs4MExIU3Nkcm56Y2J4YWxxRnMtS1dscnFwdmRRUkZaU3F5ay1qV3R3VGhuR1dLMdIBpAFBVV95cUxNak1yVWF4bGxjYmc4RXVzMjdwdUxVWmczclVJWFhLdGU5Mnk5TjFqdUZla0ItdzdPekJUel9GWHd6enhWNFItZzZPMzVid2EtNjdnQzZNN3lNUzJuQmRLV3VmZmstR3ZTblpkdnJSTXgzZzBVOGs4MExIU3Nkcm56Y2J4YWxxRnMtS1dscnFwdmRRUkZaU3F5ay1qV3R3VGhuR1dLMQ?oc=5,Igor Araújo acaba carreira de 20 anos no Covilhã com guarda de honra - O Jogo,https://news.google.com/rss/articles/CBMipAFBVV95cUxNak1yVWF4bGxjYmc4RXVzMjdwdUxVWmczclVJWFhLdGU5Mnk5TjFqdUZla0ItdzdPekJUel9GWHd6enhWNFItZzZPMzVid2EtNjdnQzZNN3lNUzJuQmRLV3VmZmstR3ZTblpkdnJSTXgzZzBVOGs4MExIU3Nkcm56Y2J4YWxxRnMtS1dscnFwdmRRUkZaU3F5ay1qV3R3VGhuR1dLMdIBpAFBVV95cUxNak1yVWF4bGxjYmc4RXVzMjdwdUxVWmczclVJWFhLdGU5Mnk5TjFqdUZla0ItdzdPekJUel9GWHd6enhWNFItZzZPMzVid2EtNjdnQzZNN3lNUzJuQmRLV3VmZmstR3ZTblpkdnJSTXgzZzBVOGs4MExIU3Nkcm56Y2J4YWxxRnMtS1dscnFwdmRRUkZaU3F5ay1qV3R3VGhuR1dLMQ?oc=5,https://www.ojogo.pt/amp/18079234/igor-araujo-acaba-carreira-de-20-anos-no-covilha-com-guarda-de-honra,"Fri, 01 May 2026 16:58:00 GMT","Guarda-redes de 39 anos terminou a carreira ao serviço do único clube que representou enquanto sénior
+O guarda-redes Igor Araújo terminou esta sexta-feira com muita emoção uma carreira de 20 anos ao serviço do Covilhã, único clube que representou enquanto sénior, sendo homenageado com uma guarda de honra.
+De 39 anos, o guardião fez o seu primeiro jogo pela equipa principal dos serranos esta temporada e último da carreira, sendo titular e cumprindo os primeiros 20 minutos no Estádio José Santos Pinto num empate diante do Amora (1-1), numa altura em que o Covilhã já garantiu a permanência na Liga 3.
+Antes do encontro, Igor Araújo, que chegou ao Covilhã em 2006, após ter cumprido a formação no FC Porto, também foi homenageado pelos serranos, ficando visivelmente emocionado, como se pode conferir nas redes sociais do clube, que enalteceu: ""Foram 20 anos de Leão da Serra, uma marca rara, histórica e que reflete um amor ímpar pelo Sporting da Covilhã. Uma vez Leão da Serra, para sempre Leão da Serra!"".",{},[]
+news,https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDNhOXBIa0hROTRNV1BRNlFMdU1NWnJHbV9FNDM1NnZ1T2xib0xDNmJhYVRMTXpUZnJ1UW1yN3JHQl9ublZRVFJ1b3dJUlltMk45MGotYlJPMWJRelpTUWo4c0NFR3JkVjQ3WV9wMUNleFlWV0JFZVd4QjNfVDVDV1F4cEg5dUlhYWlQLUhPQTJ6RzV1WndGLWhyXzlvMHQ5OWRRMUVaOUo3cmFoWUhVOS0xMWl5UjA?oc=5,Guarda de honra no adeus: Igor Araújo pendura luvas após 20 anos no SC Covilhã :: Videos - zerozero.pt,https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDNhOXBIa0hROTRNV1BRNlFMdU1NWnJHbV9FNDM1NnZ1T2xib0xDNmJhYVRMTXpUZnJ1UW1yN3JHQl9ublZRVFJ1b3dJUlltMk45MGotYlJPMWJRelpTUWo4c0NFR3JkVjQ3WV9wMUNleFlWV0JFZVd4QjNfVDVDV1F4cEg5dUlhYWlQLUhPQTJ6RzV1WndGLWhyXzlvMHQ5OWRRMUVaOUo3cmFoWUhVOS0xMWl5UjA?oc=5,https://www.zerozero.pt/videos/guarda-de-honra-no-adeus-igor-araujo-pendura-luvas-apos-20-anos-no-sc-covilha/1443715,"Fri, 01 May 2026 16:41:19 GMT",,{},[]
+news,https://news.google.com/rss/articles/CBMid0FVX3lxTFBCeGpfSWVsUnBoc3BVMnR5eFgyQnl2clBNdUdjRTRCa0VlMXhwajJoZEdXb3k0MWhmWTNYLWs2Wm4wME5TVUxURlVqV3lLV1VuV3ZPZGduaUdHa1I3RjNNaTZRX0VzMVRjdzFpOXQ2MmJiNWlBN2k4?oc=5,Ficha de Jogo SC Covilhã 1-1 Amora FC :: Liga 3 Manutenção Série 2 2025/26 - zerozero.pt,https://news.google.com/rss/articles/CBMid0FVX3lxTFBCeGpfSWVsUnBoc3BVMnR5eFgyQnl2clBNdUdjRTRCa0VlMXhwajJoZEdXb3k0MWhmWTNYLWs2Wm4wME5TVUxURlVqV3lLV1VuV3ZPZGduaUdHa1I3RjNNaTZRX0VzMVRjdzFpOXQ2MmJiNWlBN2k4?oc=5,https://www.zerozero.pt/jogo/2026-05-01-sc-covilha-amora-fc/12019906,"Fri, 01 May 2026 16:40:00 GMT",,{},[]
+news,https://news.google.com/rss/articles/CBMihgFBVV95cUxPcm9CYkVLRGFubHlIaV9VYmw1UklGenB2STFqZzF2NHRQeXplbnBvczZ6cFRiRV9VMFllRXZZd0lnYXhuRjdWcDNzMkdPT2tZRjNzSjV5QTNzbl9xZ1N2emNieHktSTZmQ3V3QUVHZTVwTVIzZktrenlmUC1NdVhGci1zX2IwQQ?oc=5,"SC Covilhã 1x1 Amora FC - Resumo, Destaques e Crónica do Jogo - zerozero.pt",https://news.google.com/rss/articles/CBMihgFBVV95cUxPcm9CYkVLRGFubHlIaV9VYmw1UklGenB2STFqZzF2NHRQeXplbnBvczZ6cFRiRV9VMFllRXZZd0lnYXhuRjdWcDNzMkdPT2tZRjNzSjV5QTNzbl9xZ1N2emNieHktSTZmQ3V3QUVHZTVwTVIzZktrenlmUC1NdVhGci1zX2IwQQ?oc=5,https://www.zerozero.pt/noticias/2026-05-01-sc-covilha-amora-fc-cronica/1112069,"Fri, 01 May 2026 15:48:02 GMT",,{},[]
+news,https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0hmNlVtaW9sbHowNVYzT0doczJqMExuaEJpeUhyWXhXVDh0azRTY2hQRVNkLVN0elotZkVrUE93ZmtYTGtkVERzSWpyd2RnbURwaHZVSGNDR1lET3FkSHdKVUtFTDMyT3FYdVZkeGhoNjk5VndGOWh2ekxwdmp1M2QtVUU5UEhRaHp1bXV5SjA3Qnh0YTgtM01WTC1JNDlOQWpMVWJzSzVxUDFaY3JrSVhGY2dyQjI2eEw5bXd3?oc=5,“Negociatas” e “emboscada” geram pontos quentes na Assembleia Municipal da Covilhã - Rádio Clube da Covilhã,https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0hmNlVtaW9sbHowNVYzT0doczJqMExuaEJpeUhyWXhXVDh0azRTY2hQRVNkLVN0elotZkVrUE93ZmtYTGtkVERzSWpyd2RnbURwaHZVSGNDR1lET3FkSHdKVUtFTDMyT3FYdVZkeGhoNjk5VndGOWh2ekxwdmp1M2QtVUU5UEhRaHp1bXV5SjA3Qnh0YTgtM01WTC1JNDlOQWpMVWJzSzVxUDFaY3JrSVhGY2dyQjI2eEw5bXd3?oc=5,https://radio-covilha.pt/2026/05/noticias/negociatas-e-emboscada-geram-pontos-quentes-na-assembleia-municipal-da-covilha/,"Fri, 01 May 2026 13:23:55 GMT","A sessão da Assembleia Municipal da Covilhã ficou marcada por momentos de elevada tensão política, com as palavras “negociatas” e “emboscada” a gerarem fortes trocas de acusações entre eleitos.
+
+Acusação de “negociatas” gera confronto direto
+
+Na sequência de uma saudação à eleição de Nuno Fazenda (PS) para a presidência da Mesa da Comunidade Intermunicipal das Beiras e Serra da Estrela, Pedro Bernardo (PS) deixou no ar que alguns dos eleitos na assembleia intermunicipal terão votado contra, mesmo sendo da Covilhã.
+
+Na resposta Nuno Pais (PSD) acusou diretamente responsáveis autárquicos:
+
+“Acho vergonhoso o comportamento que os senhores presidentes de Câmara, nomeadamente o Sr. Presidente da Câmara da Covilhã, teve em negociatas prévias à eleição da mesa da Assembleia Intermunicipal. E, por isso, questionem-se como é que a mesa da Assembleia Intermunicipal da Beira-Serra da Estrela teve mais votos nulos do que votos a favor. E isso espelha aquilo que foi feito.”
+
+A reação do presidente da Câmara da Covilhã, Hélio Fazendeiro, foi imediata e contundente:
+
+“Eu não sei quais são os meios em que o Sr. Deputado se move, mas o termo que utilizou para se referir ao Presidente da Câmara sobre negociata é totalmente injusto e inqualificável. Eu não sei quais são os termos e as formas como utiliza na sua vida, mas esse termo de negociata eu não lhe admito ao Presidente da Câmara e já agora aos meus colegas do Conselho Intermunicipal.”
+
+Pedro Bernardo, do PS, acusou o PSD de prejudicar a representação do concelho, afirmando que “Houve um boicote a um membro da Covilhã e um boicote à Covilhã”.
+
+Perante a polémica, Nuno Pais acabou por recuar parcialmente:
+
+“A expressão utilizada há pouco por mim teria sido exagerada e peço desculpa por essa palavra que pronunciei, contudo reitero e reforço que foi uma falta de respeito democrático para com esta Assembleia.”
+
+CDS acusa “emboscada” ao Ministro da Economia e Coesão territorial
+
+Outro momento de tensão surgiu com críticas do CDS à atuação do presidente da Câmara durante o encerramento evento Covilhã Innov Summit, em que autarca lançou desafios ao Governo (noticia AQUI)
+
+João Bernardo acusou o autarca de falta de estratégia:
+
+“Utilizar uma iniciativa como é a Covilhã Innov Summit para fazer quase uma emboscada a um Ministro sem ter um cuidado prévio de apresentar ao Ministro um plano competente e executável. Isto era a estratégia, não é chegar lá e mandar duas bitaites e dizer nós queremos cá isto. O que é que o Ministro pode dizer? Trabalhem para o efeito. Não é só mandar bocas, é fazer.”
+
+Hélio Fazendeiro rejeitou as acusações e defendeu a legitimidade da sua intervenção:
+
+“Foi emboscado porque o Presidente da Câmara da Covilhã cumpriu a sua obrigação e desafiou o Ministro a acompanhar o Município e a puxar pela nossa terra?”
+
+O autarca garantiu ainda que houve transparência na abordagem:
+
+“Eu tive a delicadeza e o cuidado de no início da sessão ter dito ao Sr. Ministro que na minha intervenção ia falar de dois temas concretos, lançando dois desafios ao Governo, sobre a criação da Zona Industrial do Interior e também sobre o IC6 e a linha da Beira Baixa.”
+
+E concluiu com uma crítica política direta:
+
+“Não foi uma emboscada, foi uma intervenção no âmbito do mandato que os covilhanenses me deram para os representar e reivindicar. E lamento que entre os interesses da defesa partidária e os interesses dos covilhanenses, o Sr. Deputado não escolha a defesa dos covilhanenses.”
+
+Intervenções e tensão na condução dos trabalhos
+
+A sessão ficou ainda marcada por momentos de confronto na condução dos trabalhos.
+
+Marco Gabriel, da Junta de Freguesia da Boidobra, criticou o sentido de voto de outros autarcas. A intervenção levou à interrupção do presidente da Assembleia Municipal, João Casteleiro.
+
+Marco Gabriel: “É incompreensível que vocês, numa coisa muito concreta, a defesa das vossas populações, votem só porque o Partido Socialista levantou a mão e votem contra as vossas populações. É inadmissível, inadmissível.”
+
+João Casteleiro: “Ó Sr. Deputado, desculpe lá, isso é uma declaração de voto?, não é uma declaração de voto”, alertou o presidente..
+
+Também João Bernardo entrou em confronto com a mesa durante uma declaração de voto. Quando este estava a criticar a bancada socialista sem aludir aos seus motivos para a votação foi interrompido pelo Presidente da Mesa.
+
+João Bernardo: “O Sr. Presidente da Assembleia tem a obrigação de respeitar. A declaração de voto é livre. O Sr. Presidente não tem o poder de interpretar nem de selecionar nada. Se eu quiser dizer a maior barbaridade em termos de declaração de voto, digo. Isto é a minha liberdade.”
+
+João Casteleiro respondeu, insistindo no cumprimento das regras:
+
+“Eu disse-lhe que tem um minuto para fazer uma declaração de voto. Já o conheço para saber que aproveita para outra intervenção. O Sr. com a profissão que tem sabe até melhor do que eu o que é uma declaração de voto. Faça favor, faça lá a declaração de voto, que tem um minuto”.",{},[]
+news,https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcU1CUWxSSWZZVVhRSlFOR3NwMDNqX0JrRjRua3NyeXN4VEk1ZFhvRFdJZ1cxSXl6ck56dndiSXcycmpOS0YySnpYMVVyQ3laNGZHUllQS3ZORDJsdmF6c2FubmRjejlFejJmQTBCb0lJN18tY18tb1hMN1lJdUxWNmw1ekdRSC02OThoWi1LQmpMSWMzd09vd1NZTXY1d1VDWERUbm5MeTVtQQ?oc=5,Covilhã recebe V Torneio Fábio Guerra de Basquetebol em Mini 12 - Rádio Clube da Covilhã,https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcU1CUWxSSWZZVVhRSlFOR3NwMDNqX0JrRjRua3NyeXN4VEk1ZFhvRFdJZ1cxSXl6ck56dndiSXcycmpOS0YySnpYMVVyQ3laNGZHUllQS3ZORDJsdmF6c2FubmRjejlFejJmQTBCb0lJN18tY18tb1hMN1lJdUxWNmw1ekdRSC02OThoWi1LQmpMSWMzd09vd1NZTXY1d1VDWERUbm5MeTVtQQ?oc=5,https://radio-covilha.pt/2026/05/noticias/covilha-recebe-v-torneio-fabio-guerra-de-basquetebol-em-mini-12/,"Fri, 01 May 2026 09:15:00 GMT","O Pavilhão do Clube Desportivo da Covilhã, CDC, recebe no próximo dia 2 de maio, entre as 09h00 e as 18h00, a 5.ª edição do Torneio Fábio Guerra de Basquetebol em Mini 12, uma iniciativa que alia competição desportiva e homenagem.
+
+Organizado pelo Clube Desportivo da Covilhã, em parceria com o Académico dos Penedos Altos e a União de Freguesias Covilhã e Canhoso, o torneio presta tributo à memória do GNR Fábio Guerra, antigo atleta e árbitro de basquetebol, falecido a 19 de março de 2022 em serviço ao país.
+
+Mais do que uma competição, o evento pretende manter viva a paixão de Fábio Guerra pela modalidade e preservar o seu legado junto das novas gerações, aponta o clube.
+
+A iniciativa contará com a participação de oito equipas: Associação de Basquetebol Albicastrense, Clube de Basquetebol do Fundão, Clube Desportivo da Covilhã, Estrela do Zêzere da Boidobra, Unidos do Tortosendo, Guarda UP, Guarda Basket e Gumirães Basket.
+
+Ao longo do dia, o torneio deverá reunir cerca de uma centena de atletas, treinadores, dirigentes e elementos de staff, promovendo o convívio e o espírito desportivo entre os jovens participantes.",{},[]
+news,https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2NOUks1THRQSDRtNm1ldnRVdmM5WUk2cTdqZDhBcUdKdUNoNlhBVXhJaGtubDVQeE1KVUVaZHBlVV96LU05bXNqVEJicmlzWUxFTXhyVlRCOUpZNk1kV3JsVm9XZGQxTUlrcXh3bHpOaGFxX216UENxNFpaaDFxamxvTlZQbzBDenJmNnpLa0JaaFZqUjYybnVIMlFxYlhQdHNrRjF3ZFgwTXBqUm05ZUtIR2RzMU9nUTN0enlVMGZwN2ZBTkhRei1hSQ?oc=5,“IV Covilhã Desportiva”: A festa do desporto está de regresso entre os dias 15 e 24 de maio - Rádio Clube da Covilhã,https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2NOUks1THRQSDRtNm1ldnRVdmM5WUk2cTdqZDhBcUdKdUNoNlhBVXhJaGtubDVQeE1KVUVaZHBlVV96LU05bXNqVEJicmlzWUxFTXhyVlRCOUpZNk1kV3JsVm9XZGQxTUlrcXh3bHpOaGFxX216UENxNFpaaDFxamxvTlZQbzBDenJmNnpLa0JaaFZqUjYybnVIMlFxYlhQdHNrRjF3ZFgwTXBqUm05ZUtIR2RzMU9nUTN0enlVMGZwN2ZBTkhRei1hSQ?oc=5,https://radio-covilha.pt/2026/05/desporto/iv-covilha-desportiva-a-festa-do-desporto-esta-de-regresso-entre-os-dias-15-e-24-de-maio/,"Fri, 01 May 2026 08:30:00 GMT","A 4ª edição do “Covilhã Desportiva” está de regresso à Covilhã. Entre os dias 15 e 24 de maio, este ano uma das novidades, mais cinco dias que no ano anterior, de um evento que pretende celebrar o desporto e incluir toda a comunidade.
+
+O evento regressa para esta edição com algumas novidades, com 11 torneios (um deles universitário), 2 campeonatos nacionais, 14 freguesias envolvidas, 15 Municípios, 31 escolas, 75 associações, 165 entidades, 7 empresas de restauração, 52 modalidades e 35 stands.
+
+“Este ano temos um evento com mais dias, mais modalidades, mais associações, mais demonstrações, mais eventos, mais escolas, mais torneios, mais entidades e, sobretudo, mais participantes”, começou por dizer Luís Marques, vereador com o pelouro do desporto, durante a conferência de imprensa.
+
+Novidades da 4ª edição
+
+Uma das novidades desta edição é na cerimónia de abertura, marcada para dia 15 de maio, onde irão acender uma tocha, que ficará acesa durante todos os dias do evento e apagada na cerimónia de encerramento. Outra das novidades é um torneio de Goalball, inserido no dia do desporto adaptado, uma modalidade dedicada a invisuais e destinada aos alunos do Ensino Secundário, sendo que vai ser realizado um torneio inter-escolas. Novidade também são as “Freguesias ativas”, um dia dedicado somente às freguesias do concelho, com diversas atividades.
+
+O vereador admitiu levar essa experiência aos jovens das escolas, porque é um desporto em que têm de ser atividades outro tipo de sensações, nomeadamente táticas e de audição.
+
+“Vamos dar essa experiência aos jovens das escolas, porque é um desporto em que temos de ativar outro tipo de sensações, neste caso táticas e de audição. Os nossos técnicos do desporto irão levar esta atividade às escolas, que eu penso que será uma iniciativa não desportiva, mas também muito de ligação”, concluiu.
+
+Um evento para todos, com mais participantes
+
+Para além das novidades, esta é uma iniciativa que vai trazer mais gente, do que em anos anteriores.
+
+“No encontro sénior, que também é uma novidade, contamos com cerca de 900 participantes. Vamos chegar também a mais escolas, vamos ter 4 agrupamentos escolares, 31 escolas, mais 10 escolas que no evento anterior. Mais alunos abrangidos, que para nós também é muito importante chegar até eles, sobretudo com demonstrações de novos desportos que não são tão conhecidos, mas também muito ao nível da ética, do cartão branco, de tudo o que é educação dos nossos jovens através do desporto. Teremos mais de 500 alunos, 15 municípios participantes, mais 12 do que na edição anterior”, disse o autarca.
+
+Um dos lemas do evento é ser “para todos”, “inclusivo” e que “traga toda a gente.” O vereador vincou ainda a questão do desporto adaptado e da iniciativa intergeracional.
+
+“Queremos que seja um evento inclusivo e que traga toda a gente, sobretudo também com o desporto adaptado, que permita que os nossos jovens tenham outra perceção. Também queremos que seja um evento intergeracional e que traga as famílias. Que leve as famílias às nossas atividades, que as pessoas venham, os jovens, os menos jovens, os pais, os filhos, os avós, que participem todos das atividades.”
+
+Ao longo dos 10 dias, o Município espera envolver cerca de 4 mil pessoas, chegando mesmo a envolver pessoas do exterior, sendo que as atividades vão decorrer no Jardim das Artes, Jardim do Lago, Pavilhão INATEL e Pavilhão da ANIL.
+
+Programa:
+
+15 de maio
+
+18:00 – 20:00 – Cerimónia de abertura (Presença de atleta olímpico, Hino Nacional, Hastear da Bandeira – Praça do Município)
+
+16 de maio (Dia das Freguesias)
+
+10:00 – 20:00 – Freguesias ativas
+
+17 de maio
+
+Torneios – Pavilhão Desportivo Municipal INATEL
+
+09:00 – Teqball/ 10:30 – Andebol / 14:30 – Voleibol 4×4
+
+09:00 – Matraquilhos Inter-Freguesias (Pavilhão da ANIL)
+
+10:00 – Xadrez (Praça do Município)
+
+18 de maio (Pavilhão Desportivo Municipal INATEL)
+
+09:00 – 12:30 – Desporto Adaptado – Basquetebol e Andebol em cadeira de rodas/ Gincana de Bicicletas/ Polybat/ Boccia
+
+14:00 – 16:30 – Torneio Inter-Escolas de Goalball (Ensino Secundário)
+
+19 de maio – Dia da Ética
+
+08:30 – 16:00 – Palestra nas escolas
+
+10:00 – Jogo de futebol com reclusos
+
+18:30 – 20:00 – Ação de sensibilização para a ética desportiva – AFCB – Auditório Pavilhão da ANIL
+
+20 de maio
+
+09:00 – 16:00 – Encontro Regional de Walking Football – Complexo Desportivo da Covilhã
+
+20 e 21 de maio
+
+08:30 – 18:00 – Desporto nas escolas – Atividades de demonstração
+
+09-00 – 18:00 – E-Sports – Torneio Universitário – Polo Engenharias UBI
+
+22 de maio
+
+09:30 – 17:00 – Encontro Sénior (Piornos/Pavilhão da ANIL)
+
+Jardim das Artes
+
+18:30 – Desfile associativo
+
+20:30 – Cardioboost / 21:00 – Caminhada com DJ Party / 23:00 – Espetáculo de fogo circense
+
+23 de maio
+
+09:00 – UBI RUN Edição 40 anos da UBI
+
+09:00 – Cãominhada solidária (Jardim das Artes)
+
+09:30 – Trail Solta ao Javali
+
+08:30 – 19:00 – Várias atividades Desporto e Associativismo – Exposições e Campeonato Nacional de Powerlifting – Jardim das Artes
+
+10:00 – 18:00 – Desporto aventura e radical – Jardim do Lago
+
+21:00 – 00:00 – Fitness e Glow Party
+
+24 de maio
+
+08:00 – Rota Pedestre Covilhã Desportiva
+
+10:00 – Yoga – Jardim do Lago
+
+09:00 – 16:00 – Desporto sobre rodas – Jardim das Artes
+
+10:00 – 16:00 – Desporto crianças/família – Jardim das Artes
+
+13:00 – Almoço convívio
+
+14:00 – “Covilhã a Dançar”
+
+16:30 – Cerimónia de encerramento",{},[]
 news,https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1Z5UTFndWVmZUNqSVN4RmV5clBnV3Nrd25EbzN1a01jdVV1dDViRFl4NnVUU3Z1VXpkT01wbW44TzRKZThPM0k5RHhtRGFEU3ZERFRmVmhQN0RTeGZYY2c3aW0xdUx1UEw3UHhlOWhHTmpUNEtrZXpISk5JQTVpREpRWlUwZ1M4aG1OVjVn?oc=5,Palpite Sporting Covilhã x Amora | Liga 3 - 01/05/2026 - APWin,https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1Z5UTFndWVmZUNqSVN4RmV5clBnV3Nrd25EbzN1a01jdVV1dDViRFl4NnVUU3Z1VXpkT01wbW44TzRKZThPM0k5RHhtRGFEU3ZERFRmVmhQN0RTeGZYY2c3aW0xdUx1UEw3UHhlOWhHTmpUNEtrZXpISk5JQTVpREpRWlUwZ1M4aG1OVjVn?oc=5,https://www.apwin.com/br/palpites/sporting-covilha-x-amora-palpite-liga-3-01-05-2026/,"Thu, 30 Apr 2026 20:03:15 GMT","Sporting Covilhã e Amora voltam a se cruzar neste dia 01/05. A bola vai rolar no Estádio Municipal José dos Santos Pinto, às 12h00, em mais um duelo da Liga 3 de Portugal 2025/26. Um confronto cheio de história.
 
 O passado ajuda a entender o presente. Leia o palpite para Sporting Covilhã x Amora.
@@ -142,6 +651,13 @@ A cerimónia de abertura oficial terá lugar no dia 15 de maio, às 18h00, na Pr
 No dia 22 de maio, realiza-se o Desfile Associativo, que reunirá as diversas entidades e associações participantes.
 
 Durante os dez dias do evento, o público poderá ainda acompanhar palestras temáticas e demonstrações das diversas modalidades dinamizadas no concelho.",{},[]
+news,https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXluejV2X3hmVk1QZGJRcU54T1NuSHd5a2hoNHFCVlYtZW1jb0pXLXJSRkZ4eEpNNW1YTXVDRXJKTndvaUNDNFAtVzEzbVVQOVdCUHU5aUtvWmFobjNURmhFTzMwaFF1Nkdsa2huY1EzM3oyTXhkbjFobEN5T3h6TVoyLWxZc19ycThqTVZ5U0U3VUxVUnU2UlRfWXo1dF9NdWJRWC0zOVpRSWlfTFhB?oc=5,COVILHÃ: Concelho assinala Dia Mundial da Dança com espetáculo na Praça do Município - MaisBeiras Informação,https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXluejV2X3hmVk1QZGJRcU54T1NuSHd5a2hoNHFCVlYtZW1jb0pXLXJSRkZ4eEpNNW1YTXVDRXJKTndvaUNDNFAtVzEzbVVQOVdCUHU5aUtvWmFobjNURmhFTzMwaFF1Nkdsa2huY1EzM3oyTXhkbjFobEN5T3h6TVoyLWxZc19ycThqTVZ5U0U3VUxVUnU2UlRfWXo1dF9NdWJRWC0zOVpRSWlfTFhB?oc=5,https://maisbeiras.sapo.pt/covilha-concelho-assinala-dia-mundial-da-danca-com-espetaculo-na-praca-do-municipio,"Thu, 30 Apr 2026 10:43:42 GMT","Domingo, dia 10 de maio, foi o dia escolhido pelo Município da Covilhã e pela Fundação INATEL para o espetáculo “Danças do Mundo”, que visa assinalar o Dia Mundial da dança recentemente comemorado.
+
+O evento desenvolve-se a partir das 15h, na Praça do Município da Covilhã e conta com atuações do Centro de Ativ’Idades, Conservatório de Música da Covilhã, Dança em Movimento da Covilhã, Escola de Dança Kayzer Ballet, Escola Pé de Dança, Escola Profissional de Artes da Covilhã e Rancho Folclórico da Boidobra.
+
+Com organização do Município da Covilhã e da Fundação INATEL, o espetáculo é desenvolvido no âmbito do Dia Mundial da Dança.
+
+De referir que o Dia Mundial da Dança é celebrado a 29 de abril. A data foi instituída, em 1982, pelo Comité Internacional da Dança da UNESCO, tendo sido escolhida para recordar o nascimento do coreógrafo francês Jean-Georges Noverre (1727-1810), um dos pioneiros da dança moderna.",{},[]
 news,https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWpYMUUzS3F4ZmFSTDF3Q3NieGlWajluS2YxZFcybnZBaHJyMXRWSGpwemZOZE9qUW9iM2NiTnRHb1cxem53X19SVlpTZUtuMk1xRFdxZDN3V3BhZnN3TXdfMEhkcEM4cXZfcTYwbnJ6ajFRU09fYUJVcU0zakxSeWhqQ25yNm5MSk1rWWREUXhpeXJ3WGRSckFYcHZFenN1N2FJQXp4MjkwSXhmc1RBUWQwUGZTdl95X2xEc2p3Vm0zQjItMlhld1B1SQ?oc=5,COVILHÃ: Concelho assinala Dia Mundial da Dança com espetáculo na Praça do Município - SAPO,https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWpYMUUzS3F4ZmFSTDF3Q3NieGlWajluS2YxZFcybnZBaHJyMXRWSGpwemZOZE9qUW9iM2NiTnRHb1cxem53X19SVlpTZUtuMk1xRFdxZDN3V3BhZnN3TXdfMEhkcEM4cXZfcTYwbnJ6ajFRU09fYUJVcU0zakxSeWhqQ25yNm5MSk1rWWREUXhpeXJ3WGRSckFYcHZFenN1N2FJQXp4MjkwSXhmc1RBUWQwUGZTdl95X2xEc2p3Vm0zQjItMlhld1B1SQ?oc=5,https://sapo.pt/artigo/covilha-concelho-assinala-dia-mundial-da-danca-com-espetaculo-na-praca-do-municipio-69f332df6ff1f8afb180a979,"Thu, 30 Apr 2026 10:40:49 GMT","Domingo, dia 10 de maio, foi o dia escolhido pelo Município da Covilhã e pela Fundação INATEL para o espetáculo “Danças do Mundo”, que visa assinalar o Dia Mundial da dança recentemente comemorado.
 
 O evento desenvolve-se a partir das 15h, na Praça do Município da Covilhã e conta com atuações do Centro de Ativ’Idades, Conservatório de Música da Covilhã, Dança em Movimento da Covilhã, Escola de Dança Kayzer Ballet, Escola Pé de Dança, Escola Profissional de Artes da Covilhã e Rancho Folclórico da Boidobra.
@@ -2260,7 +2776,7 @@ O diretor do Serviço de Ortopedia, António Figueiredo, referiu que a tecnologi
 Também o ortopedista André Pinto destacou que o novo equipamento alarga as opções terapêuticas disponíveis e acompanha a evolução do serviço, que tem vindo a organizar-se por subespecialidades e áreas anatómicas específicas.
 
 Este é o segundo sistema robótico integrado na prática clínica da instituição em menos de dois meses, reforçando os meios tecnológicos disponíveis e a capacidade assistencial da ULS da Cova da Beira.",{},[]
-news,https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kb2NTcVA5anBoeFQwSE1vaXFIVU9ocXRkVkxzZ2NTZUNRTUMxd25UcUREdFJCUWxjRTAzZm9NeUpzb0l2Z2RIVC1SWnY4SG1IZHhlMjU3V0N0TG1UY29VRjB4NmRNVDQ?oc=5,Arquivo de transição digital - Noticias da Covilhã,https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kb2NTcVA5anBoeFQwSE1vaXFIVU9ocXRkVkxzZ2NTZUNRTUMxd25UcUREdFJCUWxjRTAzZm9NeUpzb0l2Z2RIVC1SWnY4SG1IZHhlMjU3V0N0TG1UY29VRjB4NmRNVDQ?oc=5,https://noticiasdacovilha.pt/etiqueta/transicao-digital/,"Wed, 22 Apr 2026 08:21:00 GMT","Pular para o conteúdo
+news,https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YWUtEUS1wYTFXMmFFTTF6Mk16Z0dHWllvUmhSWU5sWVhSUDFHcDJUWDVGb1V2Q3o3UFI1a1RvdUxPYVdWQzlxR1ZiU3lmemc1N1RVWW5jT0dQME1OOU9zWmRwUTNMdw?oc=5,Arquivo de comércio digital - Noticias da Covilhã,https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YWUtEUS1wYTFXMmFFTTF6Mk16Z0dHWllvUmhSWU5sWVhSUDFHcDJUWDVGb1V2Q3o3UFI1a1RvdUxPYVdWQzlxR1ZiU3lmemc1N1RVWW5jT0dQME1OOU9zWmRwUTNMdw?oc=5,https://noticiasdacovilha.pt/etiqueta/comercio-digital/,"Wed, 22 Apr 2026 08:21:00 GMT","Pular para o conteúdo
 Procurar
 Covilhã
 Região
@@ -2488,7 +3004,7 @@ Mapa
 Facebook
 Instagram
 Copyright © 2026 Notícias da Covilhã",{},[]
-news,https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YWUtEUS1wYTFXMmFFTTF6Mk16Z0dHWllvUmhSWU5sWVhSUDFHcDJUWDVGb1V2Q3o3UFI1a1RvdUxPYVdWQzlxR1ZiU3lmemc1N1RVWW5jT0dQME1OOU9zWmRwUTNMdw?oc=5,Arquivo de comércio digital - Noticias da Covilhã,https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YWUtEUS1wYTFXMmFFTTF6Mk16Z0dHWllvUmhSWU5sWVhSUDFHcDJUWDVGb1V2Q3o3UFI1a1RvdUxPYVdWQzlxR1ZiU3lmemc1N1RVWW5jT0dQME1OOU9zWmRwUTNMdw?oc=5,https://noticiasdacovilha.pt/etiqueta/comercio-digital/,"Wed, 22 Apr 2026 08:21:00 GMT","Pular para o conteúdo
+news,https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kb2NTcVA5anBoeFQwSE1vaXFIVU9ocXRkVkxzZ2NTZUNRTUMxd25UcUREdFJCUWxjRTAzZm9NeUpzb0l2Z2RIVC1SWnY4SG1IZHhlMjU3V0N0TG1UY29VRjB4NmRNVDQ?oc=5,Arquivo de transição digital - Noticias da Covilhã,https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kb2NTcVA5anBoeFQwSE1vaXFIVU9ocXRkVkxzZ2NTZUNRTUMxd25UcUREdFJCUWxjRTAzZm9NeUpzb0l2Z2RIVC1SWnY4SG1IZHhlMjU3V0N0TG1UY29VRjB4NmRNVDQ?oc=5,https://noticiasdacovilha.pt/etiqueta/transicao-digital/,"Wed, 22 Apr 2026 08:21:00 GMT","Pular para o conteúdo
 Procurar
 Covilhã
 Região
