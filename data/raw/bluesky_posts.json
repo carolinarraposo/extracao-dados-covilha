@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mkzxl5xjyk2q",
+        "author": "on-centro.bsky.social",
+        "text": "Relativamente à sinistralidade rodoviária, foram registados sete acidentes em Castelo Branco, dos quais resultaram um ferido grave, dois feridos ligeiros – num atropelamento – e danos materiais, bem como dois acidentes na Covilhã, sem vítimas a registar.\n\non-centro.pt/index.php/pt...",
+        "created_at": "2026-05-04T15:14:15.424Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mkuwoz3hk32j",
         "author": "pt-noticias.bsky.social",
         "text": "Quem é Lua Afonso, a estudante de 18 anos da Covilhã elogiada no Parlamento? | Perfil\n\nhttps://www.europesays.com/pt/366052/\n\nOs dias da estudante Lua Afonso já eram uma correria — a jovem de 18 anos da Covilhã…",

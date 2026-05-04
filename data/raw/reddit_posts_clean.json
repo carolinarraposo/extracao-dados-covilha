@@ -1,6 +1,30 @@
 [
     {
         "source":"reddit",
+        "platform_id":"1t3rm4x",
+        "title":"Alguém a vender casa ?",
+        "author":"Zepinchaa",
+        "text":"Viva a todos, ando à procura de compra de casa com um teto máximo de 170k pela zona da Covilha, Fundão e arredores.\n\nAlguém sabe de alguma casa ? Particulares principalmente.",
+        "created_at":"2026-05-04 19:16:12",
+        "url":"https:\/\/www.reddit.com\/r\/covilha\/comments\/1t3rm4x\/alguém_a_vender_casa\/",
+        "metrics":{
+            "upvotes":1,
+            "comments":0
+        },
+        "comments":[
+
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
         "platform_id":"1sx6liu",
         "title":"Procuro lojas de segunda mão e mercados de usados (cozinha, casa, etc.) ♻️",
         "author":"Key-Spare-150",
