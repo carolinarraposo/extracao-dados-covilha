@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:an3q2daoxlrmd5wd27bwpjzn/app.bsky.feed.post/3ml6kcefgms2f",
+        "author": "desginmagazine.bsky.social",
+        "text": "13th edition of WOOL | Covilhã Urban Art 2026\n From 11 Jun 2026 to 21 Jun 2026, Covilhã, Portugal.\n\nMore info www.woolfest.org/en/wool/",
+        "created_at": "2026-05-06T11:00:00.228Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3ml4xqcxez723",
         "author": "movebeiras.pt",
         "text": "Está inaugurada a exposição \"Linha da Beira Baixa, Covilhã - Guarda no Século XXI\"! \nCom fotografias de Antero Pires, decoração pelo Município de Belmonte e Museu Nacional Ferroviário, podes visitá-la até dia 5 de Junho no Welcome Center de Belmonte 😊",
