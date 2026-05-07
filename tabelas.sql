@@ -4,55 +4,122 @@ GO
 -- 1. Redes Sociais
 -- Insira manualmente: 'Bluesky', 'Reddit', 'Facebook', 'GoogleNews', 'YouTube'
 CREATE TABLE [dbo].[SocialNetwork](
-	[SNetwork_ID] [int] IDENTITY(1,1) NOT NULL,
-	[SNetwork_Name] [varchar](50) NOT NULL, 
-	[EntryDate_SN] [datetime] DEFAULT GETDATE(),
-	PRIMARY KEY (SNetwork_ID)
+    [SNetwork_ID] INT IDENTITY(1,1) NOT NULL,
+    [SNetwork_Name] VARCHAR(50) NOT NULL,
+    [EntryDate_SN] DATETIME DEFAULT GETDATE(),
+
+    CONSTRAINT [PK_SocialNetwork] 
+        PRIMARY KEY ([SNetwork_ID]),
+
+    CONSTRAINT [UQ_SocialNetwork_Name]
+        UNIQUE ([SNetwork_Name])
 );
 
 -- 2. Utilizadores / Canais (UserSN)
 CREATE TABLE [dbo].[UserSN](
-	[User_ID] [bigint] IDENTITY(1,1) NOT NULL,
-	[Handle] [nvarchar](255) NULL,       -- Nome do Autor ou Nome do Canal (YouTube)
-	[SNetwork_ID] [int] NULL,
-	[EntryDate_U] [datetime] DEFAULT GETDATE(),
-	PRIMARY KEY (User_ID),
-	FOREIGN KEY ([SNetwork_ID]) REFERENCES [dbo].[SocialNetwork] ([SNetwork_ID])
+    [User_ID] BIGINT IDENTITY(1,1) NOT NULL,
+    [Handle] NVARCHAR(255) NULL,
+    [SNetwork_ID] INT NULL,
+    [EntryDate_U] DATETIME DEFAULT GETDATE(),
+
+    CONSTRAINT [PK_UserSN]
+        PRIMARY KEY ([User_ID]),
+
+    CONSTRAINT [FK_UserSN_SocialNetwork]
+        FOREIGN KEY ([SNetwork_ID]) 
+        REFERENCES [dbo].[SocialNetwork] ([SNetwork_ID])
 );
 
--- 3. Tabela Principal de Conte˙do (Posts, VÌdeos, NotÌcias)
+-- 3. Tabela Principal de Conte√∫do (Posts, V√≠deos, Not√≠cias)
 CREATE TABLE [dbo].[Post](
-	[Post_ID] [bigint] IDENTITY(1,1) NOT NULL,
-	[Original_External_ID] [nvarchar](500) NULL, -- video_id, post_id, URI ou URL
-	[User_ID] [bigint] NULL,                    -- FK para o autor/canal
-	[SNetwork_ID] [int] NOT NULL,
-	[CreatedAt] [datetime] NULL,                -- published_date ou created_time
-	[Title] [nvarchar](max) NULL,               -- TÌtulo do vÌdeo ou da notÌcia
-	[Content] [ntext] NULL,                     -- DescriÁ„o do vÌdeo ou texto do post
-	[URL] [nvarchar](max) NULL,                 -- video_url ou link da notÌcia
-	[ViewCount] [bigint] DEFAULT 0,             -- EXCLUSIVO YOUTUBE: n˙mero de visualizaÁıes
-	[LikeCount] [bigint] DEFAULT 0,             -- likes ou upvotes
-	[ReplyCount] [bigint] DEFAULT 0,            -- comments_count ou total de respostas
-	[EntryDate_DB] [datetime] DEFAULT GETDATE(),
-PRIMARY KEY CLUSTERED ([Post_ID] ASC)
-);
+	[Post_ID] BIGINT IDENTITY(1,1) NOT NULL,
+	[Original_External_ID] NVARCHAR(500) NULL, -- video_id, post_id, URI ou URL
+	[User_ID] BIGINT NULL,                    -- FK para o autor/canal
+	[SNetwork_ID] INT NOT NULL,
+	[CreatedAt] DATETIME NULL,                -- published_date ou created_time
+	[Title] NVARCHAR(MAX) NULL,               -- T√≠tulo do v√≠deo ou da not√≠cia
+	[Content] NVARCHAR(MAX) NULL,             -- Descri√ß√£o do v√≠deo ou texto do post
+	[URL] NVARCHAR(MAX) NULL,                 -- video_url ou link da not√≠cia
+	[ViewCount] BIGINT DEFAULT 0,             -- EXCLUSIVO YOUTUBE: n√∫mero de visualiza√ß√µes
+	[LikeCount] BIGINT DEFAULT 0,             -- likes ou upvotes
+	[ReplyCount] BIGINT DEFAULT 0,            -- comments_count ou total de respostas
+	[EntryDate_DB] DATETIME DEFAULT GETDATE(),
+    CONSTRAINT [PK_Post]
+            PRIMARY KEY CLUSTERED ([Post_ID] ASC),
 
--- 4. Tabela de Coment·rios e Respostas
+        CONSTRAINT [FK_Post_UserSN]
+            FOREIGN KEY ([User_ID])
+            REFERENCES [dbo].[UserSN] ([User_ID]),
+
+        CONSTRAINT [FK_Post_SocialNetwork]
+            FOREIGN KEY ([SNetwork_ID])
+            REFERENCES [dbo].[SocialNetwork] ([SNetwork_ID])
+    );
+
+-- 4. Tabela de Coment√°rios e Respostas
 CREATE TABLE [dbo].[Comment](
-	[Comment_ID] [bigint] IDENTITY(1,1) NOT NULL,
-	[Post_ID] [bigint] NOT NULL,                -- ID do Post/VÌdeo de origem
-	[External_Comment_ID] [nvarchar](500) NULL, -- comment_id do YouTube/FB
-	[Parent_Comment_ID] [bigint] NULL,          -- PARA YOUTUBE: Se for uma resposta, aponta para o ID do coment·rio pai
-	[Author_Handle] [nvarchar](255) NULL,       -- Nome de quem comentou
-	[Comment_Text] [ntext] NULL,
-	[Likes_Upvotes] [int] DEFAULT 0,
-	[CreatedAt] [datetime] NULL,
-PRIMARY KEY (Comment_ID),
-FOREIGN KEY ([Post_ID]) REFERENCES [dbo].[Post] ([Post_ID]),
-CONSTRAINT [FK_Comment_Parent] FOREIGN KEY ([Parent_Comment_ID]) REFERENCES [dbo].[Comment] ([Comment_ID])
+	[Comment_ID] BIGINT IDENTITY(1,1) NOT NULL,
+	[Post_ID] BIGINT NOT NULL,                -- ID do Post/V√≠deo de origem
+	[External_Comment_ID] NVARCHAR(500) NULL, -- comment_id do YouTube/FB
+	[Parent_Comment_ID] BIGINT NULL,          -- PARA YOUTUBE: Se for uma resposta, aponta para o ID do coment√°rio pai
+	[Author_Handle] NVARCHAR(255) NULL,       -- Nome de quem comentou
+	[Comment_Text] NVARCHAR(MAX) NULL,
+	[Likes_Upvotes] INT DEFAULT 0,
+	[CreatedAt] DATETIME NULL,
+    [EntryDate_DB] DATETIME DEFAULT GETDATE(),
+    CONSTRAINT [PK_Comment]
+            PRIMARY KEY ([Comment_ID]),
+
+        CONSTRAINT [FK_Comment_Post]
+            FOREIGN KEY ([Post_ID])
+            REFERENCES [dbo].[Post] ([Post_ID]),
+
+        CONSTRAINT [FK_Comment_Parent]
+            FOREIGN KEY ([Parent_Comment_ID])
+            REFERENCES [dbo].[Comment] ([Comment_ID])
+    );
+
+-- 5. Tabela interm√©dia para textos a analisar
+
+CREATE TABLE [dbo].[TextDocument](
+    [TextDocument_ID] BIGINT IDENTITY(1,1) NOT NULL,
+    [Source_Type] VARCHAR(20) NOT NULL, -- 'POST' ou 'COMMENT'
+    [Post_ID] BIGINT NULL,
+    [Comment_ID] BIGINT NULL,
+    [SNetwork_ID] INT NOT NULL,
+    [Original_Text] NVARCHAR(MAX) NULL, -- texto original antes da limpeza
+    [Clean_Text] NVARCHAR(MAX) NULL, -- texto limpo e normalizado
+    [Language] VARCHAR(10) NULL, -- exemplo: 'pt', 'en', 'es'
+    [Municipality] NVARCHAR(100) NULL, -- munic√≠pio associado, se conseguires identificar
+    [CreatedAt] DATETIME NULL, -- data original do post/coment√°rio
+    [ProcessedAt] DATETIME DEFAULT GETDATE(),
+    CONSTRAINT [PK_TextDocument]
+        PRIMARY KEY ([TextDocument_ID]),
+
+    CONSTRAINT [FK_TextDocument_Post]
+        FOREIGN KEY ([Post_ID])
+        REFERENCES [dbo].[Post] ([Post_ID]),
+
+    CONSTRAINT [FK_TextDocument_Comment]
+        FOREIGN KEY ([Comment_ID])
+        REFERENCES [dbo].[Comment] ([Comment_ID]),
+
+    CONSTRAINT [FK_TextDocument_SocialNetwork]
+        FOREIGN KEY ([SNetwork_ID])
+        REFERENCES [dbo].[SocialNetwork] ([SNetwork_ID]),
+
+    CONSTRAINT [CK_TextDocument_SourceType]
+        CHECK ([Source_Type] IN ('POST', 'COMMENT')),
+
+    CONSTRAINT [CK_TextDocument_OnlyOneSource]
+        CHECK (
+            ([Source_Type] = 'POST' AND [Post_ID] IS NOT NULL AND [Comment_ID] IS NULL)
+            OR
+            ([Source_Type] = 'COMMENT' AND [Comment_ID] IS NOT NULL)
+        )
 );
 
--- Õndices para performance
+-- √çndices para performance
 CREATE INDEX IX_OriginalID ON [dbo].[Post] (Original_External_ID);
 CREATE INDEX IX_ExternalCommentID ON [dbo].[Comment] (External_Comment_ID);
 GO
