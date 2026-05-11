@@ -1,6 +1,30 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mll4fa42lk2t",
+        "author": "paulopinto.bsky.social",
+        "text": "Prossegue o Ciclo de Cinema On the Move. A próxima sexta é dedicada à comunidade cigana: \"Balada de um Batráquio\" e \"Isaura\". Para comentar os filmes e conversar connosco, vamos ter as realizadoras: a Leonor Teles e a jovem Sandra Ofélia (que vem da Covilhã para o efeito)",
+        "created_at": "2026-05-11T10:55:40.601Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:an3q2daoxlrmd5wd27bwpjzn/app.bsky.feed.post/3mll2yl2qp22f",
+        "author": "desginmagazine.bsky.social",
+        "text": "13th edition of WOOL | Covilhã Urban Art 2026\n From 11 Jun 2026 to 21 Jun 2026, Covilhã, Portugal.\n\nMore info www.woolfest.org/en/wool/",
+        "created_at": "2026-05-11T10:30:42.106Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:an3q2daoxlrmd5wd27bwpjzn/app.bsky.feed.post/3mldix3o3vc2h",
         "author": "desginmagazine.bsky.social",
         "text": "Pontos de recollha dos kits de participação na acção artística comunitária \"A Nossa Casa\" na Covilhã! \n \nHá material e boa disposição em todos os locais. Há zero desculpas para não participar!\n\nMais info www.linkedin.com/company/wool...",
