@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:gvwtvzysmiqxvkklmqcjpw5b/app.bsky.feed.post/3mlrn4ztqr62u",
+        "author": "record-portugal.bsky.social",
+        "text": "Evento organizado pela Câmara da Covilhã decorre de 15 a 24 de maio",
+        "created_at": "2026-05-14T01:11:17.390Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:fdtur6ox5oq5vkejdkaajrk4/app.bsky.feed.post/3mlq43tq4pk2s",
         "author": "mentecultural.bsky.social",
         "text": "Os Efterklang regressam a Portugal em dezembro de 2026 para concertos na Covilhã, Lisboa, Espinho e Penafiel. Inclui residência artística de composição. Para saber tudo no site (link na bio)\n\n#efterklang #concerto #agendadeconcertos #aovivo #efterklangportugal",
