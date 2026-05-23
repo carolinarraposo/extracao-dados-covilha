@@ -751,6 +751,21 @@
     },
     {
         "source":"news",
+        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMipwFBVV95cUxPQ3ZJc2R1MUZDblBvSG1Ra25IR1lfR3loeXVVbU1xVUZPeWhabG1DRW5Vb2NUb09GbHhIdVJIdG16Y04xQjhlN3IxcFlRUGNSTG9rS293N1h0UEJkMkZoaWtoS1NsRUZXVXVCcDlETXMzWTBSdHN2WTlVNmJTUUlfVE5EWHZCbzBFS01nWnpyUU9sWXN3Sk1hNUNVNkVNNjhudU1ZM0JQOA?oc=5",
+        "title":"Covilhã promove desfile intergeracional dedicado à inclusão e à diversidade - Notícias do Centro",
+        "link":"https:\/\/news.google.com\/rss\/articles\/CBMipwFBVV95cUxPQ3ZJc2R1MUZDblBvSG1Ra25IR1lfR3loeXVVbU1xVUZPeWhabG1DRW5Vb2NUb09GbHhIdVJIdG16Y04xQjhlN3IxcFlRUGNSTG9rS293N1h0UEJkMkZoaWtoS1NsRUZXVXVCcDlETXMzWTBSdHN2WTlVNmJTUUlfVE5EWHZCbzBFS01nWnpyUU9sWXN3Sk1hNUNVNkVNNjhudU1ZM0JQOA?oc=5",
+        "url":"https:\/\/noticiasdocentro.pt\/covilha-promove-desfile-intergeracional-dedicado-a-inclusao-e-a-diversidade\/",
+        "created_at":"Wed, 20 May 2026 01:00:58 GMT",
+        "text":"O Centro de Ativ’Idades (CAI) do Município da Covilhã vai realizar, no próximo dia 31 de maio, o Desfile de Moda CAI 2026, sob o mote “A Moda é para Todos”, numa iniciativa que pretende celebrar a inclusão, a diversidade e o envelhecimento ativo.\n\nO evento terá lugar na Praça do Município, a partir das 16h00, e reunirá participantes entre os 7 e os 90 anos, num desfile intergeracional que junta utentes do CAI, jovens da Casa do Menino Jesus, utentes da APPACDM, alunos da UBI, do Modatex e outros convidados.\n\nA organização sublinha o caráter comunitário da iniciativa, que pretende reforçar a ideia de que a moda deve ser acessível a todos, independentemente da idade, condição física ou contexto social.\n\n“Será um verdadeiro hino à inclusão e mais uma oportunidade para mostrar que a moda é um espaço acessível a todos”, destaca a organização.\n\nNesta 9.ª edição, o tema da inclusão assume especial destaque, promovendo valores como o respeito pela individualidade, o multiculturalismo e a igualdade de oportunidades.\n\nO desfile contará com peças e acessórios de várias lojas locais, incluindo Modatex, Loja MM – Mónica Miguel, Paulo Runa House, Loja do Ruys, Sheep, Loja da Sofia e To You – Loja da Adriana.\n\nO evento decorre no passadiço junto às arcadas dos Paços do Concelho, espaço emblemático da cidade, reconhecida como Cidade Criativa do Design da UNESCO. A iniciativa contará ainda com animação musical de Tiago Jesus, bailarinas do Kayzer Ballet e Vozes do CAI, marcando o início e o encerramento da atividade.\n\nO município destaca que esta ação reforça o compromisso com a inclusão social, o envelhecimento ativo e a valorização das pessoas através da cultura e da participação cívica.",
+        "metrics":{
+
+        },
+        "comments":[
+
+        ]
+    },
+    {
+        "source":"news",
         "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMikwFBVV95cUxPaU5EbEw0a283M1pNMUw0d2d0aWRwZHhPZFFhWmJRNGZYTU5ieS10MlhORVR4cmRBVmhDTGwyblZsWjVDbG1YVnp5cnFTNmNldE01dXNSaFFNNjFPeFhVZU5Eb19CTXhEVG1UTndINEdLYXB5R0xtbHdGdjgtbEdjTTU2VUZsTzQ1YzJiZDdIVWtXZGPSAY4BQVVfeXFMTm9mMktIUHQzbmZXeTViSlcwNWdNMnd0Sm1uNHhZZjJGN2RGQkYwaEt4RzBaU25NM0Q1bWx2RW9FUVpQTzlCLW1UMlRTVE8zR1pVR0RNc2k2MUNoM01xOTlSVzNEVUtjbXkwRDNZamU0bmhsWktEbXN3R1FldXA5V3NMd256Y0FyZ0JiaFd1QQ?oc=5",
         "title":"Universitário viola colega após festa na Covilhã - Correio da Manhã",
         "link":"https:\/\/news.google.com\/rss\/articles\/CBMikwFBVV95cUxPaU5EbEw0a283M1pNMUw0d2d0aWRwZHhPZFFhWmJRNGZYTU5ieS10MlhORVR4cmRBVmhDTGwyblZsWjVDbG1YVnp5cnFTNmNldE01dXNSaFFNNjFPeFhVZU5Eb19CTXhEVG1UTndINEdLYXB5R0xtbHdGdjgtbEdjTTU2VUZsTzQ1YzJiZDdIVWtXZGPSAY4BQVVfeXFMTm9mMktIUHQzbmZXeTViSlcwNWdNMnd0Sm1uNHhZZjJGN2RGQkYwaEt4RzBaU25NM0Q1bWx2RW9FUVpQTzlCLW1UMlRTVE8zR1pVR0RNc2k2MUNoM01xOTlSVzNEVUtjbXkwRDNZamU0bmhsWktEbXN3R1FldXA5V3NMd256Y0FyZ0JiaFd1QQ?oc=5",
@@ -1246,27 +1261,12 @@
     },
     {
         "source":"news",
-        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMi1gFBVV95cUxNcU1tbWFDRlJwcVRvR1Nuc3VOdFByeUpsLXpERzBkTEZQNWFVMlBBZXh6a3VEY2JpU3J3Q2REcmcwVk9ZeEduSGZSbUR3RmFHcVFwZEotVGxfZjZwZ200M1BnUno0SDdUZEU0YnBKM1F4bmd3NkhraUNUdVJMVUo3MzFvWUFnWkQ1OVFNaXA5RmkzNm5sQzM4Z0NsbUg1aDVJMEh2T1lKUG40dHI2ZC0yQnpER080ZnNzdU9rU09sdXpEbWNCRXZkUnlJT29ZdUlUSVo0Z3dn?oc=5",
+        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMiuAFBVV95cUxPRWxTYjVnNHFKMWQzb2FTNHBPS3pkRDFhTloxMDdic2xldi1LYl9RN1plSXFQQ2E2QTdSWG5XSGFkTERRTXRrUGVpcExnNS15eE4xdTZwNlVKa2JjQXJIeUNfVjVkYXdHZThOdFRad0RNRnh0SWtiWkt0OW9aMFNUQzZBUUJUczVvVE9xNzNhRWV5ZWNkMGZlbGduY3FOMGFaVUpRbVNzRVRXT3psSzVyNFU4cjh0SUFa?oc=5",
         "title":"Alunos de Medicina da Covilhã representam Portugal na competição europeia de simulação clínica - Conta Lá",
-        "link":"https:\/\/news.google.com\/rss\/articles\/CBMi1gFBVV95cUxNcU1tbWFDRlJwcVRvR1Nuc3VOdFByeUpsLXpERzBkTEZQNWFVMlBBZXh6a3VEY2JpU3J3Q2REcmcwVk9ZeEduSGZSbUR3RmFHcVFwZEotVGxfZjZwZ200M1BnUno0SDdUZEU0YnBKM1F4bmd3NkhraUNUdVJMVUo3MzFvWUFnWkQ1OVFNaXA5RmkzNm5sQzM4Z0NsbUg1aDVJMEh2T1lKUG40dHI2ZC0yQnpER080ZnNzdU9rU09sdXpEbWNCRXZkUnlJT29ZdUlUSVo0Z3dn?oc=5",
-        "url":"https:\/\/conta-la.pt\/pt\/temas\/sociedade\/saude\/alunos-de-medicina-da-covilha-representam-portugal-na-competicao-europeia-de-simulacao-clinica",
+        "link":"https:\/\/news.google.com\/rss\/articles\/CBMiuAFBVV95cUxPRWxTYjVnNHFKMWQzb2FTNHBPS3pkRDFhTloxMDdic2xldi1LYl9RN1plSXFQQ2E2QTdSWG5XSGFkTERRTXRrUGVpcExnNS15eE4xdTZwNlVKa2JjQXJIeUNfVjVkYXdHZThOdFRad0RNRnh0SWtiWkt0OW9aMFNUQzZBUUJUczVvVE9xNzNhRWV5ZWNkMGZlbGduY3FOMGFaVUpRbVNzRVRXT3psSzVyNFU4cjh0SUFa?oc=5",
+        "url":"https:\/\/conta-la.pt\/pt\/alunos-de-medicina-da-covilha-representam-portugal-na-competicao-europeia-de-simulacao-clinica",
         "created_at":"Tue, 19 May 2026 06:00:00 GMT",
         "text":"",
-        "metrics":{
-
-        },
-        "comments":[
-
-        ]
-    },
-    {
-        "source":"news",
-        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMiuAFBVV95cUxOc3VhLUt4ck5TX013dkFqVlhraFZ1Z0ZTRXN4Z3FRdGlEMVNXM2Z3c3hfRm5xeEljeWc3cmFOQkRLYnZqeUt2aVZNcW5rYVZKYXd6LWxRc3JhTkFjOGZRMkdjbWo3LW5rMFNvMlplSkM4QWx5S2ktWENoSnMxMWFjOEhDMnllbGpsZG90ajk1ekVtQzRhamkyYnpHRVVTNVFTZ3V0eGNBQzZwQ0czeHBLbFpCQnpBN05P?oc=5",
-        "title":"Alunos de Medicina da Covilhã representam Portugal em competição europeia de simulação clínica - Conta Lá",
-        "link":"https:\/\/news.google.com\/rss\/articles\/CBMiuAFBVV95cUxOc3VhLUt4ck5TX013dkFqVlhraFZ1Z0ZTRXN4Z3FRdGlEMVNXM2Z3c3hfRm5xeEljeWc3cmFOQkRLYnZqeUt2aVZNcW5rYVZKYXd6LWxRc3JhTkFjOGZRMkdjbWo3LW5rMFNvMlplSkM4QWx5S2ktWENoSnMxMWFjOEhDMnllbGpsZG90ajk1ekVtQzRhamkyYnpHRVVTNVFTZ3V0eGNBQzZwQ0czeHBLbFpCQnpBN05P?oc=5",
-        "url":"https:\/\/conta-la.pt\/pt\/alunos-de-medicina-da-covilha-representam-portugal-em-competicao-europeia-de-simulacao-clinica",
-        "created_at":"Tue, 19 May 2026 06:00:00 GMT",
-        "text":"A equipa da Universidade da Beira Interior representa Portugal na competição europeia de simulação clínica SimUniversity, que se realiza em Lyon, França, em junho, e desde outubro que cinco finalistas de Medicina treinam para avaliar corretamente sintomas e sinais em manequins de alta-fidelidade.\n\nA equipa da Universidade da Beira Interior representa Portugal na competição europeia de simulação clínica SimUniversity, que se realiza em Lyon, França, em junho. Desde outubro que cinco finalistas de Medicina treinam para avaliar corretamente sintomas e sinais em manequins de alta-fidelidade.\n\nNo Laboratório de Competências da Faculdade de Ciências da Saúde o erro não custa vidas, mas ajuda a salvá-las e a preparação ajuda para o impacto com o mundo real.\n\nA experiência não é a mesma que lidar com pessoas, mas os simuladores são cada vez mais evoluídos e permitem trazer a teoria para a prática. Estes pacientes reproduzem sinais vitais e reagem a intervenções, suam, choram, sangram, têm palpitações, falam, abrem e fecham os olhos. Nesta sala, os cenários também mudam sem aviso. Lida-se com o imprevisível e é necessário tomar decisões em conjunto.\n\nNo Laboratório de Competências também há tensão. É necessário manter a calma quando tudo à volta pede urgência, colocar em prática o raciocínio clínico, tornar em gesto os conhecimentos.\n\nO treino para a final, em França, é conciliado com o dia de estágio nos Hospitais da Covilhã, Guarda e Castelo Branco. Antes, foi necessário afinar papéis, até que a equipa funcione como um organismo único.\n\nO treino para a competição tem sido intenso, mas a maior recompensa é prepararem-se para um futuro onde cada decisão terá consequência na vida de alguém.",
         "metrics":{
 
         },
@@ -1291,12 +1291,27 @@
     },
     {
         "source":"news",
-        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMiuAFBVV95cUxPRWxTYjVnNHFKMWQzb2FTNHBPS3pkRDFhTloxMDdic2xldi1LYl9RN1plSXFQQ2E2QTdSWG5XSGFkTERRTXRrUGVpcExnNS15eE4xdTZwNlVKa2JjQXJIeUNfVjVkYXdHZThOdFRad0RNRnh0SWtiWkt0OW9aMFNUQzZBUUJUczVvVE9xNzNhRWV5ZWNkMGZlbGduY3FOMGFaVUpRbVNzRVRXT3psSzVyNFU4cjh0SUFa?oc=5",
+        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMi1gFBVV95cUxNcU1tbWFDRlJwcVRvR1Nuc3VOdFByeUpsLXpERzBkTEZQNWFVMlBBZXh6a3VEY2JpU3J3Q2REcmcwVk9ZeEduSGZSbUR3RmFHcVFwZEotVGxfZjZwZ200M1BnUno0SDdUZEU0YnBKM1F4bmd3NkhraUNUdVJMVUo3MzFvWUFnWkQ1OVFNaXA5RmkzNm5sQzM4Z0NsbUg1aDVJMEh2T1lKUG40dHI2ZC0yQnpER080ZnNzdU9rU09sdXpEbWNCRXZkUnlJT29ZdUlUSVo0Z3dn?oc=5",
         "title":"Alunos de Medicina da Covilhã representam Portugal na competição europeia de simulação clínica - Conta Lá",
-        "link":"https:\/\/news.google.com\/rss\/articles\/CBMiuAFBVV95cUxPRWxTYjVnNHFKMWQzb2FTNHBPS3pkRDFhTloxMDdic2xldi1LYl9RN1plSXFQQ2E2QTdSWG5XSGFkTERRTXRrUGVpcExnNS15eE4xdTZwNlVKa2JjQXJIeUNfVjVkYXdHZThOdFRad0RNRnh0SWtiWkt0OW9aMFNUQzZBUUJUczVvVE9xNzNhRWV5ZWNkMGZlbGduY3FOMGFaVUpRbVNzRVRXT3psSzVyNFU4cjh0SUFa?oc=5",
-        "url":"https:\/\/conta-la.pt\/pt\/alunos-de-medicina-da-covilha-representam-portugal-na-competicao-europeia-de-simulacao-clinica",
+        "link":"https:\/\/news.google.com\/rss\/articles\/CBMi1gFBVV95cUxNcU1tbWFDRlJwcVRvR1Nuc3VOdFByeUpsLXpERzBkTEZQNWFVMlBBZXh6a3VEY2JpU3J3Q2REcmcwVk9ZeEduSGZSbUR3RmFHcVFwZEotVGxfZjZwZ200M1BnUno0SDdUZEU0YnBKM1F4bmd3NkhraUNUdVJMVUo3MzFvWUFnWkQ1OVFNaXA5RmkzNm5sQzM4Z0NsbUg1aDVJMEh2T1lKUG40dHI2ZC0yQnpER080ZnNzdU9rU09sdXpEbWNCRXZkUnlJT29ZdUlUSVo0Z3dn?oc=5",
+        "url":"https:\/\/conta-la.pt\/pt\/temas\/sociedade\/saude\/alunos-de-medicina-da-covilha-representam-portugal-na-competicao-europeia-de-simulacao-clinica",
         "created_at":"Tue, 19 May 2026 06:00:00 GMT",
         "text":"",
+        "metrics":{
+
+        },
+        "comments":[
+
+        ]
+    },
+    {
+        "source":"news",
+        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMiuAFBVV95cUxOc3VhLUt4ck5TX013dkFqVlhraFZ1Z0ZTRXN4Z3FRdGlEMVNXM2Z3c3hfRm5xeEljeWc3cmFOQkRLYnZqeUt2aVZNcW5rYVZKYXd6LWxRc3JhTkFjOGZRMkdjbWo3LW5rMFNvMlplSkM4QWx5S2ktWENoSnMxMWFjOEhDMnllbGpsZG90ajk1ekVtQzRhamkyYnpHRVVTNVFTZ3V0eGNBQzZwQ0czeHBLbFpCQnpBN05P?oc=5",
+        "title":"Alunos de Medicina da Covilhã representam Portugal em competição europeia de simulação clínica - Conta Lá",
+        "link":"https:\/\/news.google.com\/rss\/articles\/CBMiuAFBVV95cUxOc3VhLUt4ck5TX013dkFqVlhraFZ1Z0ZTRXN4Z3FRdGlEMVNXM2Z3c3hfRm5xeEljeWc3cmFOQkRLYnZqeUt2aVZNcW5rYVZKYXd6LWxRc3JhTkFjOGZRMkdjbWo3LW5rMFNvMlplSkM4QWx5S2ktWENoSnMxMWFjOEhDMnllbGpsZG90ajk1ekVtQzRhamkyYnpHRVVTNVFTZ3V0eGNBQzZwQ0czeHBLbFpCQnpBN05P?oc=5",
+        "url":"https:\/\/conta-la.pt\/pt\/alunos-de-medicina-da-covilha-representam-portugal-em-competicao-europeia-de-simulacao-clinica",
+        "created_at":"Tue, 19 May 2026 06:00:00 GMT",
+        "text":"A equipa da Universidade da Beira Interior representa Portugal na competição europeia de simulação clínica SimUniversity, que se realiza em Lyon, França, em junho, e desde outubro que cinco finalistas de Medicina treinam para avaliar corretamente sintomas e sinais em manequins de alta-fidelidade.\n\nA equipa da Universidade da Beira Interior representa Portugal na competição europeia de simulação clínica SimUniversity, que se realiza em Lyon, França, em junho. Desde outubro que cinco finalistas de Medicina treinam para avaliar corretamente sintomas e sinais em manequins de alta-fidelidade.\n\nNo Laboratório de Competências da Faculdade de Ciências da Saúde o erro não custa vidas, mas ajuda a salvá-las e a preparação ajuda para o impacto com o mundo real.\n\nA experiência não é a mesma que lidar com pessoas, mas os simuladores são cada vez mais evoluídos e permitem trazer a teoria para a prática. Estes pacientes reproduzem sinais vitais e reagem a intervenções, suam, choram, sangram, têm palpitações, falam, abrem e fecham os olhos. Nesta sala, os cenários também mudam sem aviso. Lida-se com o imprevisível e é necessário tomar decisões em conjunto.\n\nNo Laboratório de Competências também há tensão. É necessário manter a calma quando tudo à volta pede urgência, colocar em prática o raciocínio clínico, tornar em gesto os conhecimentos.\n\nO treino para a final, em França, é conciliado com o dia de estágio nos Hospitais da Covilhã, Guarda e Castelo Branco. Antes, foi necessário afinar papéis, até que a equipa funcione como um organismo único.\n\nO treino para a competição tem sido intenso, mas a maior recompensa é prepararem-se para um futuro onde cada decisão terá consequência na vida de alguém.",
         "metrics":{
 
         },
@@ -2851,10 +2866,10 @@
     },
     {
         "source":"news",
-        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMiwwFBVV95cUxPTUpmWi1kN1NOUG5WS1dnZnY3OHkzZ3VYRjZoTmZRQVpSbW5TeE1UY0RHOGVweXlXT2dteXlzM1NHMTE1a0JhSWZTR1FGbmhJQ1dldUVleVRkd1NISEl6alpWVnh6cloxMktQY2hnd2JfbFFoWC1LSXNHd1NrYUZzcXhBN0YySDhhWjkwLTlxckR1X3U0WThHV3dCaUl6TG4yRURubnFhZUZ6RkxhMk9xdlRXU3JBd05oRnBEeEFLS3ZwbGs?oc=5",
+        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMiyAFBVV95cUxOekJQMDQ3Rl9uVGJ1b3A0ejlFVGt5REp6UE8td3RaU0JDYzQxRGs5VXFuNHlsNzltZ1BnSnZYbGFPQ3BRdk5pTTlCbEJHZ1k5aGhnaVJfdF9QQ2lBY2ZXTjNiWWRtT1RxaExMRnJVUGFSVWdITFVla25pbmc4aGZiZy1nU0dTWjBwN3NQVjNYbUVtRTNYdFRaLVFaNUZWbUM2N0dhSDlFLVlyME5IWnpRejN5NkRoWkx4SkFiNVRheWJVY0NwZ242ZQ?oc=5",
         "title":"GUARDA: Cidade voltou a receber partida do Ride Across Portugal rumo à Covilhã - SAPO",
-        "link":"https:\/\/news.google.com\/rss\/articles\/CBMiwwFBVV95cUxPTUpmWi1kN1NOUG5WS1dnZnY3OHkzZ3VYRjZoTmZRQVpSbW5TeE1UY0RHOGVweXlXT2dteXlzM1NHMTE1a0JhSWZTR1FGbmhJQ1dldUVleVRkd1NISEl6alpWVnh6cloxMktQY2hnd2JfbFFoWC1LSXNHd1NrYUZzcXhBN0YySDhhWjkwLTlxckR1X3U0WThHV3dCaUl6TG4yRURubnFhZUZ6RkxhMk9xdlRXU3JBd05oRnBEeEFLS3ZwbGs?oc=5",
-        "url":"https:\/\/sapo.pt\/artigo\/guarda-cidade-voltou-a-receber-partida-do-ride-across-portugal-rumo-a-covilha-6a030bb194df749f0a2c5667",
+        "link":"https:\/\/news.google.com\/rss\/articles\/CBMiyAFBVV95cUxOekJQMDQ3Rl9uVGJ1b3A0ejlFVGt5REp6UE8td3RaU0JDYzQxRGs5VXFuNHlsNzltZ1BnSnZYbGFPQ3BRdk5pTTlCbEJHZ1k5aGhnaVJfdF9QQ2lBY2ZXTjNiWWRtT1RxaExMRnJVUGFSVWdITFVla25pbmc4aGZiZy1nU0dTWjBwN3NQVjNYbUVtRTNYdFRaLVFaNUZWbUM2N0dhSDlFLVlyME5IWnpRejN5NkRoWkx4SkFiNVRheWJVY0NwZ242ZQ?oc=5",
+        "url":"https:\/\/mag.sapo.pt\/artigo\/guarda-cidade-voltou-a-receber-partida-do-ride-across-portugal-rumo-a-covilha-6a030bb194df749f0a2c5667",
         "created_at":"Tue, 12 May 2026 11:12:57 GMT",
         "text":"A cidade da Guarda voltou a ser hoje, dia 12 de maio, ponto de partida da segunda etapa do Ride Across Portugal, uma prova de cicloturismo que percorre o país de norte a sul.\n\nMais de meia centena de participantes iniciou o percurso com destino à Covilhã, numa etapa com cerca de 107 quilómetros, que integra a oitava edição do evento.\n\nA competição, que teve início em Armamar e terminou na cidade mais alta do país no primeiro dia, realiza-se ao longo de seis etapas e um total de 757 quilómetros, atravessando o território continental até Sagres, até dia 16 de maio.\n\nO Ride Across Portugal reúne cicloturistas de vários países e propõe uma descoberta do território nacional através da sua diversidade paisagística, cultural e histórica, reforçando a ligação entre desporto e turismo.\n\nFotos: Município da Guarda",
         "metrics":{
@@ -2866,10 +2881,10 @@
     },
     {
         "source":"news",
-        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMiyAFBVV95cUxOekJQMDQ3Rl9uVGJ1b3A0ejlFVGt5REp6UE8td3RaU0JDYzQxRGs5VXFuNHlsNzltZ1BnSnZYbGFPQ3BRdk5pTTlCbEJHZ1k5aGhnaVJfdF9QQ2lBY2ZXTjNiWWRtT1RxaExMRnJVUGFSVWdITFVla25pbmc4aGZiZy1nU0dTWjBwN3NQVjNYbUVtRTNYdFRaLVFaNUZWbUM2N0dhSDlFLVlyME5IWnpRejN5NkRoWkx4SkFiNVRheWJVY0NwZ242ZQ?oc=5",
+        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMiwwFBVV95cUxPTUpmWi1kN1NOUG5WS1dnZnY3OHkzZ3VYRjZoTmZRQVpSbW5TeE1UY0RHOGVweXlXT2dteXlzM1NHMTE1a0JhSWZTR1FGbmhJQ1dldUVleVRkd1NISEl6alpWVnh6cloxMktQY2hnd2JfbFFoWC1LSXNHd1NrYUZzcXhBN0YySDhhWjkwLTlxckR1X3U0WThHV3dCaUl6TG4yRURubnFhZUZ6RkxhMk9xdlRXU3JBd05oRnBEeEFLS3ZwbGs?oc=5",
         "title":"GUARDA: Cidade voltou a receber partida do Ride Across Portugal rumo à Covilhã - SAPO",
-        "link":"https:\/\/news.google.com\/rss\/articles\/CBMiyAFBVV95cUxOekJQMDQ3Rl9uVGJ1b3A0ejlFVGt5REp6UE8td3RaU0JDYzQxRGs5VXFuNHlsNzltZ1BnSnZYbGFPQ3BRdk5pTTlCbEJHZ1k5aGhnaVJfdF9QQ2lBY2ZXTjNiWWRtT1RxaExMRnJVUGFSVWdITFVla25pbmc4aGZiZy1nU0dTWjBwN3NQVjNYbUVtRTNYdFRaLVFaNUZWbUM2N0dhSDlFLVlyME5IWnpRejN5NkRoWkx4SkFiNVRheWJVY0NwZ242ZQ?oc=5",
-        "url":"https:\/\/mag.sapo.pt\/artigo\/guarda-cidade-voltou-a-receber-partida-do-ride-across-portugal-rumo-a-covilha-6a030bb194df749f0a2c5667",
+        "link":"https:\/\/news.google.com\/rss\/articles\/CBMiwwFBVV95cUxPTUpmWi1kN1NOUG5WS1dnZnY3OHkzZ3VYRjZoTmZRQVpSbW5TeE1UY0RHOGVweXlXT2dteXlzM1NHMTE1a0JhSWZTR1FGbmhJQ1dldUVleVRkd1NISEl6alpWVnh6cloxMktQY2hnd2JfbFFoWC1LSXNHd1NrYUZzcXhBN0YySDhhWjkwLTlxckR1X3U0WThHV3dCaUl6TG4yRURubnFhZUZ6RkxhMk9xdlRXU3JBd05oRnBEeEFLS3ZwbGs?oc=5",
+        "url":"https:\/\/sapo.pt\/artigo\/guarda-cidade-voltou-a-receber-partida-do-ride-across-portugal-rumo-a-covilha-6a030bb194df749f0a2c5667",
         "created_at":"Tue, 12 May 2026 11:12:57 GMT",
         "text":"A cidade da Guarda voltou a ser hoje, dia 12 de maio, ponto de partida da segunda etapa do Ride Across Portugal, uma prova de cicloturismo que percorre o país de norte a sul.\n\nMais de meia centena de participantes iniciou o percurso com destino à Covilhã, numa etapa com cerca de 107 quilómetros, que integra a oitava edição do evento.\n\nA competição, que teve início em Armamar e terminou na cidade mais alta do país no primeiro dia, realiza-se ao longo de seis etapas e um total de 757 quilómetros, atravessando o território continental até Sagres, até dia 16 de maio.\n\nO Ride Across Portugal reúne cicloturistas de vários países e propõe uma descoberta do território nacional através da sua diversidade paisagística, cultural e histórica, reforçando a ligação entre desporto e turismo.\n\nFotos: Município da Guarda",
         "metrics":{
@@ -4231,21 +4246,6 @@
     },
     {
         "source":"news",
-        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMijgFBVV95cUxOaDhyOTdIaHNadGFqc293TlM0c01jb3UzRE1Mb1JKVERkRmFWeGJWQ2pXZndsWklTdDBudDltWFpGZkNSS3ZHTTV1cjJVN3VlX1V5WVcxS0E5a1dpUDhmMFpyZTFKVkUybnllN2pUWEV6YlY2ZFptYXh2UWpWZnJLcTRycE1peVl0Y2pINTRR?oc=5",
-        "title":"Covilhã despede-se de temporada modesta com empate caseiro - Universidade da Beira Interior",
-        "link":"https:\/\/news.google.com\/rss\/articles\/CBMijgFBVV95cUxOaDhyOTdIaHNadGFqc293TlM0c01jb3UzRE1Mb1JKVERkRmFWeGJWQ2pXZndsWklTdDBudDltWFpGZkNSS3ZHTTV1cjJVN3VlX1V5WVcxS0E5a1dpUDhmMFpyZTFKVkUybnllN2pUWEV6YlY2ZFptYXh2UWpWZnJLcTRycE1peVl0Y2pINTRR?oc=5",
-        "url":"https:\/\/urbietorbi.ubi.pt\/covilha-despede-se-de-temporada-modesta-com-empate-caseiro\/",
-        "created_at":"Wed, 06 May 2026 07:57:49 GMT",
-        "text":"Rui Mota, treinador dos serranos, realizou diversas mexidas no onze inicial para a receção ao Amora, num jogo que serviu para cumprir calendário para as duas equipas. À entrada para a partida, o conjunto de Setúbal já estava despromovido ao Campeonato de Portugal, enquanto o Covilhã sabia que contava com a permanência na Liga 3 na\n\npróxima temporada.\n\nA equipa da casa sofreu um golo de Ednilson Furtado aos 79 minutos, mas garantiu o empate por via de Cheikh Niang ao cair do pano. Assim o confronto terminou empatado, numa tarde que ficou marcada por uma guarda de honra realizada pelos jogadores de ambas as equipas a Igor Araújo, guarda-redes de 39 anos do SC Covilhã que se reformou após vinte épocas a defender o emblema dos leões da serra.\n\nA temporada desportiva 2025\/26 ficou marcada para os adeptos do Covilhã como uma resistência à descida de divisão. Após o último lugar no Grupo B da Liga 3, com apenas 14 pontos em 18 jogos, os serranos disputaram a fase de manutenção. Abriram esta etapa com três vitórias consecutivas, permitindo um maior alívio. De seguida, sofreram duas derrotas seguidas no Estádio Municipal José dos Santos Pinto, mas rapidamente recuperaram com duas vitórias por 2-1, diante do 1º de Dezembro e do Atlético CP.\n\nOs últimos três confrontos da época não resultaram em nenhuma vitória. No entanto, o empate na visita ao Caldas SC foi suficiente para garantir mais uma época na terceira divisão do futebol português. José Bizarro e Rui Mota foram os dois treinadores principais ao longo desta campanha. Bizarro abandonou o cargo após uma derrota em casa por 2-0 sobre o Amora, no início de novembro. Desde então, Rui Mota assumiu o leme da equipa.\n\nNa Taça de Portugal, o Covilhã passou pelo Ovarense na primeira eliminatória, através do desempate nas grandes penalidades. Depois, recebeu e bateu o União Nogueirense com um golo solitário de André Liberal. Mas a prestação na competição terminou no próprio estádio diante do Lusitano de Évora. Os leões da serra sofreram dois golos sem resposta nos primeiros 26 minutos e não conseguiram reagir, culminando numa derrota por 2-0.\n\nA nível de números, Liberal, emprestado pelo Paços de Ferreira, marcou a sua passagem no Covilhã ao ser o melhor marcador, com oito golos em 28 jogos. Gustavo Galil, guarda-redes, e Rodrigo Ferreira, médio, foram os mais utilizados, com 31 partidas disputadas.",
-        "metrics":{
-
-        },
-        "comments":[
-
-        ]
-    },
-    {
-        "source":"news",
         "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMilwFBVV95cUxNUC12TjJMQWpWU1E3SEdhZzQ5MERqNzdadkZUamZPX2tGU2JlYnAtbFFzZ2l6UVQzTjNCZ2xlN0tNYl8xRzNxY1FjQWR0cy1ORGllSFc3Yk5mUDhaS0diMVlpRDJmM3NHdFJLX2JDdGYyZmxZcHZKeUZXd0hSZjNWTmgxWm1oVm1pbkVhZVBRblA3emE3aWE0?oc=5",
         "title":"“Fala-me de Abril” levou ao palco a memória e a luta pela liberdade - Universidade da Beira Interior",
         "link":"https:\/\/news.google.com\/rss\/articles\/CBMilwFBVV95cUxNUC12TjJMQWpWU1E3SEdhZzQ5MERqNzdadkZUamZPX2tGU2JlYnAtbFFzZ2l6UVQzTjNCZ2xlN0tNYl8xRzNxY1FjQWR0cy1ORGllSFc3Yk5mUDhaS0diMVlpRDJmM3NHdFJLX2JDdGYyZmxZcHZKeUZXd0hSZjNWTmgxWm1oVm1pbkVhZVBRblA3emE3aWE0?oc=5",
@@ -4261,12 +4261,12 @@
     },
     {
         "source":"news",
-        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMibkFVX3lxTE9waUotWUdaQmFvNkZ4ZWxMSzI4MEx6OHBNRnFZR3FHVTgyd20yR1UwR01Fb1B1YUc2aHFkbWtrX05MUXJJbi0wdmFReVc1VGxldy1NcUJVS1VrUDJQcjVURHg1TEQyWWNrbHNXUWZB?oc=5",
-        "title":"Domínio Público (Diários) de 06 mai 2026 - RTP",
-        "link":"https:\/\/news.google.com\/rss\/articles\/CBMibkFVX3lxTE9waUotWUdaQmFvNkZ4ZWxMSzI4MEx6OHBNRnFZR3FHVTgyd20yR1UwR01Fb1B1YUc2aHFkbWtrX05MUXJJbi0wdmFReVc1VGxldy1NcUJVS1VrUDJQcjVURHg1TEQyWWNrbHNXUWZB?oc=5",
-        "url":"https:\/\/www.rtp.pt\/play\/p2813\/e927831\/dominio-publico-diarios",
-        "created_at":"Wed, 06 May 2026 07:00:00 GMT",
-        "text":"Género: Cultura RTP Antena 3\n\nNa Antena 3, de segunda a sexta-feira, às 11h e às 14h. A cultura ouve-se também na rádio. Da música à literatura, do cinema ao teatro, da dança às exposições, todas as artes têm destaque neste magazine de domínio público. A cultura pop que é nossa, dos nossos dias, vê-se, lê-se e sente-se na Antena 3 em dois momentos diários.",
+        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMijgFBVV95cUxOaDhyOTdIaHNadGFqc293TlM0c01jb3UzRE1Mb1JKVERkRmFWeGJWQ2pXZndsWklTdDBudDltWFpGZkNSS3ZHTTV1cjJVN3VlX1V5WVcxS0E5a1dpUDhmMFpyZTFKVkUybnllN2pUWEV6YlY2ZFptYXh2UWpWZnJLcTRycE1peVl0Y2pINTRR?oc=5",
+        "title":"Covilhã despede-se de temporada modesta com empate caseiro - Universidade da Beira Interior",
+        "link":"https:\/\/news.google.com\/rss\/articles\/CBMijgFBVV95cUxOaDhyOTdIaHNadGFqc293TlM0c01jb3UzRE1Mb1JKVERkRmFWeGJWQ2pXZndsWklTdDBudDltWFpGZkNSS3ZHTTV1cjJVN3VlX1V5WVcxS0E5a1dpUDhmMFpyZTFKVkUybnllN2pUWEV6YlY2ZFptYXh2UWpWZnJLcTRycE1peVl0Y2pINTRR?oc=5",
+        "url":"https:\/\/urbietorbi.ubi.pt\/covilha-despede-se-de-temporada-modesta-com-empate-caseiro\/",
+        "created_at":"Wed, 06 May 2026 07:57:49 GMT",
+        "text":"Rui Mota, treinador dos serranos, realizou diversas mexidas no onze inicial para a receção ao Amora, num jogo que serviu para cumprir calendário para as duas equipas. À entrada para a partida, o conjunto de Setúbal já estava despromovido ao Campeonato de Portugal, enquanto o Covilhã sabia que contava com a permanência na Liga 3 na\n\npróxima temporada.\n\nA equipa da casa sofreu um golo de Ednilson Furtado aos 79 minutos, mas garantiu o empate por via de Cheikh Niang ao cair do pano. Assim o confronto terminou empatado, numa tarde que ficou marcada por uma guarda de honra realizada pelos jogadores de ambas as equipas a Igor Araújo, guarda-redes de 39 anos do SC Covilhã que se reformou após vinte épocas a defender o emblema dos leões da serra.\n\nA temporada desportiva 2025\/26 ficou marcada para os adeptos do Covilhã como uma resistência à descida de divisão. Após o último lugar no Grupo B da Liga 3, com apenas 14 pontos em 18 jogos, os serranos disputaram a fase de manutenção. Abriram esta etapa com três vitórias consecutivas, permitindo um maior alívio. De seguida, sofreram duas derrotas seguidas no Estádio Municipal José dos Santos Pinto, mas rapidamente recuperaram com duas vitórias por 2-1, diante do 1º de Dezembro e do Atlético CP.\n\nOs últimos três confrontos da época não resultaram em nenhuma vitória. No entanto, o empate na visita ao Caldas SC foi suficiente para garantir mais uma época na terceira divisão do futebol português. José Bizarro e Rui Mota foram os dois treinadores principais ao longo desta campanha. Bizarro abandonou o cargo após uma derrota em casa por 2-0 sobre o Amora, no início de novembro. Desde então, Rui Mota assumiu o leme da equipa.\n\nNa Taça de Portugal, o Covilhã passou pelo Ovarense na primeira eliminatória, através do desempate nas grandes penalidades. Depois, recebeu e bateu o União Nogueirense com um golo solitário de André Liberal. Mas a prestação na competição terminou no próprio estádio diante do Lusitano de Évora. Os leões da serra sofreram dois golos sem resposta nos primeiros 26 minutos e não conseguiram reagir, culminando numa derrota por 2-0.\n\nA nível de números, Liberal, emprestado pelo Paços de Ferreira, marcou a sua passagem no Covilhã ao ser o melhor marcador, com oito golos em 28 jogos. Gustavo Galil, guarda-redes, e Rodrigo Ferreira, médio, foram os mais utilizados, com 31 partidas disputadas.",
         "metrics":{
 
         },
@@ -4312,6 +4312,21 @@
         "url":"http:\/\/www.cm-covilha.pt\/?cix=noticia177389&tab=795&lang=1",
         "created_at":"Wed, 06 May 2026 07:00:00 GMT",
         "text":"O Presidente da Câmara Municipal da Covilhã, Hélio Fazendeiro, realizou recentemente uma visita às obras de repavimentação e requalificação na Rua da Indústria, no troço entre o cruzamento da Rua da Liberdade e a Travessa da Lanofabril, para se inteirar do andamento dos trabalhos.\n\nA ser executados pelos serviços municipais, os trabalhos incluem a reparação das juntas das tampas de saneamento e dos serviços de telecomunicações e visam melhorar as condições de circulação desta importante via, que permite a ligação a Cantar Galo e Vila do Carvalho.\n\nEsta obra enquadra-se no plano de intervenção de vias rodoviárias municipais, que o Município tem estado a levar a cabo de forma faseada, estando previstas mais intervenções ao longo do tempo.\n\n#municipiodacovilha #atecerofuturo",
+        "metrics":{
+
+        },
+        "comments":[
+
+        ]
+    },
+    {
+        "source":"news",
+        "platform_id":"https:\/\/news.google.com\/rss\/articles\/CBMibkFVX3lxTE9waUotWUdaQmFvNkZ4ZWxMSzI4MEx6OHBNRnFZR3FHVTgyd20yR1UwR01Fb1B1YUc2aHFkbWtrX05MUXJJbi0wdmFReVc1VGxldy1NcUJVS1VrUDJQcjVURHg1TEQyWWNrbHNXUWZB?oc=5",
+        "title":"Domínio Público (Diários) de 06 mai 2026 - RTP",
+        "link":"https:\/\/news.google.com\/rss\/articles\/CBMibkFVX3lxTE9waUotWUdaQmFvNkZ4ZWxMSzI4MEx6OHBNRnFZR3FHVTgyd20yR1UwR01Fb1B1YUc2aHFkbWtrX05MUXJJbi0wdmFReVc1VGxldy1NcUJVS1VrUDJQcjVURHg1TEQyWWNrbHNXUWZB?oc=5",
+        "url":"https:\/\/www.rtp.pt\/play\/p2813\/e927831\/dominio-publico-diarios",
+        "created_at":"Wed, 06 May 2026 07:00:00 GMT",
+        "text":"Género: Cultura RTP Antena 3\n\nNa Antena 3, de segunda a sexta-feira, às 11h e às 14h. A cultura ouve-se também na rádio. Da música à literatura, do cinema ao teatro, da dança às exposições, todas as artes têm destaque neste magazine de domínio público. A cultura pop que é nossa, dos nossos dias, vê-se, lê-se e sente-se na Antena 3 em dois momentos diários.",
         "metrics":{
 
         },
