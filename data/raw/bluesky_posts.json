@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:k2rwf6elajxfly3te2jqx3to/app.bsky.feed.post/3mnab6fiqhs2y",
+        "author": "jornalexpresso.bsky.social",
+        "text": "Neste episódio em que se assinala o Dia da Criança, a cadeira do líder do podcast “O CEO é o limite” é ocupada por Lua Afonso, a jovem estudante da Covilhã que o Presidente da Assembleia da República apontou como um exemplo de mérito e excelência: expresso.pt/podcasts/o-ceo-...\n\n📷 Matilde Fieschi",
+        "created_at": "2026-06-01T14:12:25.812Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mmp4rcdzrn2n",
         "author": "sapo.pt",
         "text": "Jardim Botânico da Covilhã recebe intervenção devido ao risco de queda de árvores",
