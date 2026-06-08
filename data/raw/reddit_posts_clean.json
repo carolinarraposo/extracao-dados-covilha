@@ -1,6 +1,30 @@
 [
     {
         "source":"reddit",
+        "platform_id":"1u0kep2",
+        "title":"Portas de segurança Beira Baixa",
+        "author":"Professional-Post-91",
+        "text":"",
+        "created_at":"2026-06-08 20:50:57",
+        "url":"\/r\/TudoCasa\/comments\/1u08aqo\/portas_de_segurança_beira_baixa\/",
+        "metrics":{
+            "upvotes":2,
+            "comments":0
+        },
+        "comments":[
+
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
         "platform_id":"1ttt8q7",
         "title":"Expressões covilhanenses",
         "author":"firodrigues",
