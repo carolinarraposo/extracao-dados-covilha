@@ -46,3 +46,10 @@ jobs:
           git add data/raw data/state
           git commit -m "update extracted data" || echo "No changes to commit"
           git push
+
+      - name: Trigger context import in agent repository
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.AGENT_REPO_TOKEN }}
+          repository: carolinarraposo/agente-gestao-incidentes
+          event-type: new-extraction-data
