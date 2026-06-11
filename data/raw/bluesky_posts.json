@@ -1,6 +1,576 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:nsejycihlzz6tas67ltm2mjm/app.bsky.feed.post/3mnyuttnows25",
+        "author": "visitportugal.com",
+        "text": "More information about Wool, Covilhã Urban Art Festival here ⬇️\n#VisitPortugal #Portugal #CenterOfPOrtugal #Event #Wool #Covilhã #Art",
+        "created_at": "2026-06-11T09:08:20.517Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:nsejycihlzz6tas67ltm2mjm/app.bsky.feed.post/3mnyuttne7225",
+        "author": "visitportugal.com",
+        "text": "From 11 to 21 June, #WOOL returns to transform #Covilhã into an open-air museum. Inspired by Serra da Estrela and wool heritage, murals spread throughout the streets, shows, exhibitions, and more bring the historic centre to life.  Don’t miss it.\n#VisitPortugal #Portugal #CenterOfPOrtugal #Event",
+        "created_at": "2026-06-11T09:08:20.516Z",
+        "metrics": {
+            "likes": 2,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "visitportugal.com",
+                "comment_text": "More information about Wool, Covilhã Urban Art Festival here ⬇️\n#VisitPortugal #Portugal #CenterOfPOrtugal #Event #Wool #Covilhã #Art",
+                "comment_likes": 0
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:hanesgjhkjdawznkmnkz5mfp/app.bsky.feed.post/3mnuwomykmc2f",
+        "author": "thebsp.org.uk",
+        "text": "Call for Papers - #Phenomenology and the Political: Experience, Power, and Methods\n\nInternational Conference - 2-3 December 2026, University of Beira Interior (Covilhã, Portugal). Organization: Albano Pina and Janilce Praseres (PRAXIS/UBI)\n\nwww.thebsp.org.uk/2026/06/09/p...",
+        "created_at": "2026-06-09T19:30:34.300Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:y2akvpaj76mpar423jj3k22z/app.bsky.feed.post/3mnue2h3fec24",
+        "author": "exkalibas.bsky.social",
+        "text": "Isto há gente mesmo rancorosa...\n\nwww.jornaldofundao.pt/covilha/tent...",
+        "created_at": "2026-06-09T13:57:09.636Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mnubpi3qvu26",
+        "author": "pt-noticias.bsky.social",
+        "text": "Jovem de 19 anos tenta atropelar mortalmente amigo na Covilhã – Portugal\n\nhttps://www.europesays.com/pt/411664/\n\n\r O Correio da Manhã oferece nos seus artigos um espaço de comentário, que considera essencial para reflexão,…",
+        "created_at": "2026-06-09T13:15:12+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mnoqp6qy7k2q",
+        "author": "on-centro.bsky.social",
+        "text": "A nova Reserva da Biosfera da Estrela abrange uma área total de 2.372,99 quilómetros quadrados (km²), distribuída pelos seis municípios do Parque Natural da Serra da Estrela, Seia, Gouveia, Celorico da Beira, Guarda, Manteigas e Covilhã.",
+        "created_at": "2026-06-07T08:27:32.043Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uzcdmllxpi2ycmx273m4zghw/app.bsky.feed.post/3mnmubutxqc2o",
+        "author": "rogera.bsky.social",
+        "text": "'Tiago Oliveira cited 100 per cent participation at Lisbon Metro, Transdev Viseu, the Urban Transport Company of Guarda & the urban transport company of Covilhã, plus ‘Carris workshops with 98 per cent participation; Soflusa/Transtejo, 85 per cent participation; CP operating only minimum services’.",
+        "created_at": "2026-06-06T14:26:20.941Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:v3c3gklyjx7f4flljdozvcro/app.bsky.feed.post/3mnmk7n4xk226",
+        "author": "hgmanue.bsky.social",
+        "text": "\"La nouvelle réserve de Biosphère [UNESCO] de Estrela couvre une aire sur les 6 municipalités du Parc National de Serra da Estrela [=chaîne de montagnes dans la région centre du Portugal] : Seia, Gouveia, Celorico da Beira, Guardia, Manteigas et Covilha.\"",
+        "created_at": "2026-06-06T11:26:08.321Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "hgmanue.bsky.social",
+                "comment_text": "www.unesco.org/fr/mab/wnbr/...",
+                "comment_likes": 1
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t6xm4zrxilskfwjta2x7lu56/app.bsky.feed.post/3mnmjjtflxp2k",
+        "author": "publico.pt",
+        "text": "A nova Reserva da Biosfera da Estrela abrange uma área distribuída pelos seis municípios do Parque Natural da Serra da Estrela: Seia, Gouveia, Celorico da Beira, Guarda, Manteigas e Covilhã.",
+        "created_at": "2026-06-06T11:13:56.6414756Z",
+        "metrics": {
+            "likes": 3,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:roweyd2xk6bs2mwhfk6vjzmb/app.bsky.feed.post/3mnmiemsnyw2x",
+        "author": "publicoazul.bsky.social",
+        "text": "A nova Reserva da Biosfera da Estrela abrange uma área distribuída pelos seis municípios do Parque Natural da Serra da Estrela: Seia, Gouveia, Celorico da Beira, Guarda, Manteigas e Covilhã.",
+        "created_at": "2026-06-06T10:53:08.217175Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:esz3iythyz6dcf5hj2axbw4b/app.bsky.feed.post/3mnhgn5b6m22g",
+        "author": "ockamsrazor.bsky.social",
+        "text": "Pee and photo stop on the way to Covilhã - gateway to the Estrella.\n\nThis time last week.",
+        "created_at": "2026-06-04T10:38:47.766Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:72nebsd7jmrst5lxjxi5bizf/app.bsky.feed.post/3mnf274x7wc2p",
+        "author": "seixasdacosta.bsky.social",
+        "text": "UM LIVRO E UMA MESA (16) \n\nO livro de hoje é \"O Divórcio das Nações - o colapso da Ordem Mundial visto por dentro\", de João Vale de Almeida, editado pela D. Quixote.\n\nO restaurante de hoje é a \"Taberna A Laranjinha\", na Covilhã, com o tlf. 275 083 586.",
+        "created_at": "2026-06-03T11:50:53.295Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:54ljb2yvhmkpy6snfvfvu2m2/app.bsky.feed.post/3mncunoxg222a",
+        "author": "ubeirainterior.bsky.social",
+        "text": "𝐔𝐁𝐈 𝐫𝐞𝐧𝐨𝐯𝐚 𝐩𝐚𝐫𝐜𝐞𝐫𝐢𝐚 𝐧𝐚 𝐫𝐞𝐝𝐞 𝐪𝐮𝐞 𝐚𝐩𝐨𝐢𝐚 𝐯𝐢́𝐭𝐢𝐦𝐚𝐬 𝐞𝐦 𝐁𝐞𝐥𝐦𝐨𝐧𝐭𝐞, 𝐂𝐨𝐯𝐢𝐥𝐡𝐚̃ 𝐞 𝐅𝐮𝐧𝐝𝐚̃𝐨\nA academia assinou o protocolo \"Territorialização da Rede Nacional de Apoio às Vítimas de Violência Doméstica e Violência Contra as Mulheres\".\n\nNotícia completa: www.ubi.pt/Noticia/8264",
+        "created_at": "2026-06-02T15:06:20.032Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnc4r3qbrw2y",
+        "author": "correiodamanha.bsky.social",
+        "text": "Foram contabilizados no total 1.840 atendimentos em toda a região, que engloba a Covilhã, Belmonte e o Fundão.",
+        "created_at": "2026-06-02T07:58:43.825Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:k2rwf6elajxfly3te2jqx3to/app.bsky.feed.post/3mnab6fiqhs2y",
+        "author": "jornalexpresso.bsky.social",
+        "text": "Neste episódio em que se assinala o Dia da Criança, a cadeira do líder do podcast “O CEO é o limite” é ocupada por Lua Afonso, a jovem estudante da Covilhã que o Presidente da Assembleia da República apontou como um exemplo de mérito e excelência: expresso.pt/podcasts/o-ceo-...\n\n📷 Matilde Fieschi",
+        "created_at": "2026-06-01T14:12:25.812Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mmp4rcdzrn2n",
+        "author": "sapo.pt",
+        "text": "Jardim Botânico da Covilhã recebe intervenção devido ao risco de queda de árvores",
+        "created_at": "2026-05-25T18:38:13.855962Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:esz3iythyz6dcf5hj2axbw4b/app.bsky.feed.post/3mmmpexueck26",
+        "author": "ockamsrazor.bsky.social",
+        "text": "Tomorrow we head to Covilhã. Gateway to the Estrella.\n\nGoing on the twisty route - 6 hours riding time >330km, no motorways but plenty of roads like this.",
+        "created_at": "2026-05-24T19:33:24.418Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mmed27p4jo2w",
+        "author": "rss.dfaria.eu",
+        "text": "Programação musical da WOOL | Covilhã Arte Urbana volta a destacar a música alternativa nacional e emergente local\n\nDe 11 a 21 de junho a celebração das artes volta a invadir a cidade da Covilhã. A 13.ª edição […]\n\ncomunidadeculturaearte.com",
+        "created_at": "2026-05-21T12:31:19+01:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:trdfsm22tzy5w4ue7l5pqfyt/app.bsky.feed.post/3mmd4gp6bjj2l",
+        "author": "bytesde.bsky.social",
+        "text": "Ich habe Fotos gemacht, irgendwo zwischen Fundão und Covilhã\n\nhttps://www.bytesde.com/1911715/\n\nAnfang dieses Jahres entschloss ich mich, einem Hobby nachzugehen und kaufte eine Kamera. Ich habe angefangen, auf Instagram zu posten, habe die App jedoch aus Gründen der mentalen Hygiene …",
+        "created_at": "2026-05-21T00:00:19+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:ed54dgkgyxqzvvduc5sg2wy7/app.bsky.feed.post/3mmd2y6jeg22p",
+        "author": "csseo.bsky.social",
+        "text": "Stavo scattando delle foto, da qualche parte tra Fundão e Covilhã\n\nhttps://www.csseo.org/1280001/\n\nAll’inizio di quest’anno ho deciso di dedicarmi ad un hobby e ho comprato una macchina fotografica. Ho iniziato a pubblicare su Instagram, ma ho finito per disinstallare l’app per motivi di igiene …",
+        "created_at": "2026-05-20T23:34:18+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:q4w35uxmlr5vkd2d6y3j5slq/app.bsky.feed.post/3mmct7dlkpz2i",
+        "author": "eu-forums.bsky.social",
+        "text": "Andei a tirar fotos, algures entre o Fundão e a Covilhã\n\nhttps://www.europesays.com/forums/154922/\n\nNo início deste ano, decidi arranjar um hobby e comprei uma máquina fotográfica. Comecei por publicar no Instagram,…",
+        "created_at": "2026-05-20T21:15:11+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mmbgsfy7cp2a",
+        "author": "pt-noticias.bsky.social",
+        "text": "Universitário viola colega após festa na Covilhã – Portugal\n\nhttps://www.europesays.com/pt/388218/\n\n\r O Correio da Manhã oferece nos seus artigos um espaço de comentário, que considera essencial para reflexão,…",
+        "created_at": "2026-05-20T08:00:32+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mly5yvpalz23",
+        "author": "sapo.pt",
+        "text": "Covilhã volta a receber festival aéreo com espetáculo de acrobacias",
+        "created_at": "2026-05-16T15:29:09.860601Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:flcu44pmttegrqp5ns2rhrr6/app.bsky.feed.post/3mlxxzr6gif2s",
+        "author": "worldfood.bsky.social",
+        "text": "🇵🇹 Portugal\n🍽️ Taberna A Laranjinha\n📍 Rua de Primeiro de Dezembro, Centro Histórico, Covilhã e Canhoso, Covilhã, Castelo Branco, 6200-151, Portugal\n\n🔗 View on Google Maps",
+        "created_at": "2026-05-16T13:42:17.227976+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mlv32xgag22m",
+        "author": "paulopinto.bsky.social",
+        "text": "Prossegue o On the Move no Avenidas. Vamos exibir \"Balada de um Batráquio\" e apresentar \"Isaura\". Estarão connosco as respetivas realizadoras, Leonor Teles e Sandra Ofélia, a jovem cineasta da UBI que vem da Covilhã para o efeito. Às 18h30 no Avenidas. A entrada é livre. youtu.be/u3DyUfMMJPI?...",
+        "created_at": "2026-05-15T09:58:39.598Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:gvwtvzysmiqxvkklmqcjpw5b/app.bsky.feed.post/3mlrn4ztqr62u",
+        "author": "record-portugal.bsky.social",
+        "text": "Evento organizado pela Câmara da Covilhã decorre de 15 a 24 de maio",
+        "created_at": "2026-05-14T01:11:17.390Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:fdtur6ox5oq5vkejdkaajrk4/app.bsky.feed.post/3mlq43tq4pk2s",
+        "author": "mentecultural.bsky.social",
+        "text": "Os Efterklang regressam a Portugal em dezembro de 2026 para concertos na Covilhã, Lisboa, Espinho e Penafiel. Inclui residência artística de composição. Para saber tudo no site (link na bio)\n\n#efterklang #concerto #agendadeconcertos #aovivo #efterklangportugal",
+        "created_at": "2026-05-13T10:33:44.330Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:v6epoou2f6dsfpm3ubxuunqj/app.bsky.feed.post/3mll4fa42lk2t",
+        "author": "paulopinto.bsky.social",
+        "text": "Prossegue o Ciclo de Cinema On the Move. A próxima sexta é dedicada à comunidade cigana: \"Balada de um Batráquio\" e \"Isaura\". Para comentar os filmes e conversar connosco, vamos ter as realizadoras: a Leonor Teles e a jovem Sandra Ofélia (que vem da Covilhã para o efeito)",
+        "created_at": "2026-05-11T10:55:40.601Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:an3q2daoxlrmd5wd27bwpjzn/app.bsky.feed.post/3mll2yl2qp22f",
+        "author": "desginmagazine.bsky.social",
+        "text": "13th edition of WOOL | Covilhã Urban Art 2026\n From 11 Jun 2026 to 21 Jun 2026, Covilhã, Portugal.\n\nMore info www.woolfest.org/en/wool/",
+        "created_at": "2026-05-11T10:30:42.106Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:an3q2daoxlrmd5wd27bwpjzn/app.bsky.feed.post/3mldix3o3vc2h",
+        "author": "desginmagazine.bsky.social",
+        "text": "Pontos de recollha dos kits de participação na acção artística comunitária \"A Nossa Casa\" na Covilhã! \n \nHá material e boa disposição em todos os locais. Há zero desculpas para não participar!\n\nMais info www.linkedin.com/company/wool...",
+        "created_at": "2026-05-08T10:19:06.923Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:an3q2daoxlrmd5wd27bwpjzn/app.bsky.feed.post/3ml6kcefgms2f",
+        "author": "desginmagazine.bsky.social",
+        "text": "13th edition of WOOL | Covilhã Urban Art 2026\n From 11 Jun 2026 to 21 Jun 2026, Covilhã, Portugal.\n\nMore info www.woolfest.org/en/wool/",
+        "created_at": "2026-05-06T11:00:00.228Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3ml4xqcxez723",
+        "author": "movebeiras.pt",
+        "text": "Está inaugurada a exposição \"Linha da Beira Baixa, Covilhã - Guarda no Século XXI\"! \nCom fotografias de Antero Pires, decoração pelo Município de Belmonte e Museu Nacional Ferroviário, podes visitá-la até dia 5 de Junho no Welcome Center de Belmonte 😊",
+        "created_at": "2026-05-05T19:55:07.629Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:46h3c6cvdqtffftzvtlsgmgd/app.bsky.feed.post/3ml4jam2dxc2v",
+        "author": "comculturaearte.bsky.social",
+        "text": "O festival WOOL, que se realiza na Covilhã, vai cancelar e reformular algumas das iniciativas previstas para a edição deste ano, após um “corte inesperado” de financiamento de cerca de 30% do orçamento, afirmou hoje a organização.\n\nSabe mais: comunidadeculturaearte.com/festival-woo...",
+        "created_at": "2026-05-05T15:35:47.927Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3ml4iybe3gb2p",
+        "author": "rss.dfaria.eu",
+        "text": "Festival WOOL na Covilhã sobre “corte inesperado” de financiamento e é obrigado a reformular o programa do evento\n\nO festival WOOL, que se realiza na Covilhã, vai cancelar e reformular algumas das iniciativas previstas para a edição deste […]\n\ncomunidadeculturaearte.com",
+        "created_at": "2026-05-05T16:31:07+01:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mkzxl5xjyk2q",
+        "author": "on-centro.bsky.social",
+        "text": "Relativamente à sinistralidade rodoviária, foram registados sete acidentes em Castelo Branco, dos quais resultaram um ferido grave, dois feridos ligeiros – num atropelamento – e danos materiais, bem como dois acidentes na Covilhã, sem vítimas a registar.\n\non-centro.pt/index.php/pt...",
+        "created_at": "2026-05-04T15:14:15.424Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mkuwoz3hk32j",
+        "author": "pt-noticias.bsky.social",
+        "text": "Quem é Lua Afonso, a estudante de 18 anos da Covilhã elogiada no Parlamento? | Perfil\n\nhttps://www.europesays.com/pt/366052/\n\nOs dias da estudante Lua Afonso já eram uma correria — a jovem de 18 anos da Covilhã…",
+        "created_at": "2026-05-02T15:15:10+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mkuihcpom32p",
+        "author": "pt-noticias.bsky.social",
+        "text": "Igor Araújo acaba carreira de 20 anos no Covilhã com guarda de honra\n\nhttps://www.europesays.com/pt/365831/\n\nO guarda-redes Igor Araújo terminou esta sexta-feira com muita emoção uma carreira de 20 anos ao serviço do…",
+        "created_at": "2026-05-02T11:00:19+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mkslk244gj2k",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 90' — SC Covilha. SC Covilha 1–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:50:14.238Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:vjtfrmm5mpvr57bnp5ez5cey/app.bsky.feed.post/3mkslghvvcq2h",
+        "author": "haha.yes.goalbot.dev",
+        "text": "🟥 Red Card 90' (SC Covilha). SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:48:14.762Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mksl25pexg2w",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 81' — M. Antunes scores for Amora. SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:41:21.230Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mkskyaotf523",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 80' — Amora. SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:40:16.383Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mkskwiblcb2x",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 81' — M. Antunes scores for Amora. SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:39:17.726Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t5yo24nvlmh62aii3u5queox/app.bsky.feed.post/3mkskuwbokq2r",
+        "author": "gazette.goalbot.dev",
+        "text": "GOAL! 80' — Amora. SC Covilha 0–1 Amora. Liga 3\n\n#sccovilha #amora",
+        "created_at": "2026-05-01T16:38:25.180Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:dwyvsabsyrmidc7oscjdamk6/app.bsky.feed.post/3mksbboqfhc2w",
+        "author": "reisdesk.nl",
+        "text": "#Vakantie Dagaanbieding 1 mei: Hotel Santa Eufemia 6 dagen #hotel #vliegreis #Portugal #Covilhã - Vandaag: € 429,00 #goedkoop! - Kijk voor deze #aanbieding en meer op: reisdesk.nl/",
+        "created_at": "2026-05-01T13:46:36+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mkqhqefywm2h",
+        "author": "movebeiras.pt",
+        "text": "📸 Exposição “Linha da Beira Baixa: Troço Covilhã > Guarda no Século XXI”\n\nBelmonte recebe, de 5 de Maio a 5 de Junho de 2026 no Welcome Center, a exposição fotográfica de Antero Pires dedicada ao troço ferroviário entre a Covilhã e a Guarda.",
+        "created_at": "2026-04-30T20:36:52.418Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "movebeiras.pt",
+                "comment_text": "🛤 Através de imagens captadas desde 2008, podemos observar a evolução deste troço encerrado durante 12 anos para obras, revelando as transformações do território, das suas paisagens e comunidades ao longo do Século XXI!",
+                "comment_likes": 0
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:gp3a3ecz7iabeyfgyn52xojl/app.bsky.feed.post/3mkq2gkaumt2e",
+        "author": "dezanove.pt",
+        "text": "Covilhã volta a sair à rua pela igualdade: 5ª Marcha LGBTQIAP+ acontece a 5 de Junho",
+        "created_at": "2026-04-30T16:38:43+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:jsvjbqwnd4bzo7m6acc5xx6i/app.bsky.feed.post/3mjzhzl7n7h2r",
         "author": "idealistapt.bsky.social",
         "text": "Palacete abandonado na Covilhã está à venda por 1,3 milhões de euros ",
