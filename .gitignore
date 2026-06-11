@@ -1,0 +1,8 @@
+.env
+.env.backup
+venv/
+__pycache__/
+*.pyc
+*.db
+.idea/
+check_db.py
