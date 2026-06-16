@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:owrlc3sxkdctrqapjpoamvyp/app.bsky.feed.post/3mogaocz3hs27",
+        "author": "echoboomer.pt",
+        "text": "A FlixBus lançou uma nova ligação direta entre a Covilhã, Viseu e o Porto, com viagens sem transbordo e quatro horários diários.",
+        "created_at": "2026-06-16T16:44:36.803Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3mobsikhd4t2x",
         "author": "pt-entretenimento.bsky.social",
         "text": "Pedro Abrunhosa, Sara Correia e Plutónio na Feira de São Tiago na Covilhã\n\nhttps://www.europesays.com/pt/417904/\n\nJá é conhecido o cartaz da edição deste ano da Feira de São Tiago, na Covilhã, que vai…",
