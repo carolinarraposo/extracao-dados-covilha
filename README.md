@@ -1,3 +1,5 @@
+<img alt="UBI Logo" height="150" src="informatica-ubi.jpg" width="150"/>
+
 # Extração de Dados — Covilhã
 
 Repositório partilhado de extração automática de dados de notícias e redes sociais relacionados com o município da Covilhã. Os dados extraídos são utilizados por dois projetos distintos:
