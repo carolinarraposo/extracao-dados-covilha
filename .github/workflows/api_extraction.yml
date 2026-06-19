@@ -95,3 +95,10 @@ jobs:
           token: ${{ secrets.AGENT_REPO_TOKEN }}
           repository: carolinarraposo/agente-gestao-incidentes
           event-type: new-extraction-data
+
+      - name: Trigger pipeline in analysis repository
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.REPO_B_TOKEN }}
+          repository: patriciamarcos/municipal-sentiment-topic-engine
+          event-type: new-data-available
