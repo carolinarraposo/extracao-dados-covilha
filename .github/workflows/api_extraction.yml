@@ -60,7 +60,7 @@ jobs:
 
           files = [
               "data/raw/news_posts.json",
-              "data/raw/reddit_posts_clean.json",
+              "data/raw/reddit_posts.json",
               "data/raw/bluesky_posts.json",
               "data/raw/youtube_posts.json",
               "data/raw/facebook_test.json",
