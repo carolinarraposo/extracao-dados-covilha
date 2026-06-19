@@ -1,17 +1,13 @@
 name: Data Extraction
-
 on:
   schedule:
     - cron: "0 8,20 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   extract:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -38,6 +34,52 @@ jobs:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
         run: python run_extractors.py
+
+      - name: Upload data to Cloudflare R2
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+        run: |
+          pip install boto3
+          python - <<'EOF'
+          import boto3
+          import os
+          from pathlib import Path
+
+          client = boto3.client(
+              "s3",
+              endpoint_url=os.getenv("R2_ENDPOINT_URL"),
+              aws_access_key_id=os.getenv("R2_ACCESS_KEY_ID"),
+              aws_secret_access_key=os.getenv("R2_SECRET_ACCESS_KEY"),
+              region_name="auto",
+          )
+
+          bucket = os.getenv("R2_BUCKET_NAME")
+
+          files = [
+              "data/raw/news_posts.json",
+              "data/raw/reddit_posts_clean.json",
+              "data/raw/bluesky_posts.json",
+              "data/raw/youtube_posts.json",
+              "data/raw/facebook_test.json",
+          ]
+
+          for file_path in files:
+              path = Path(file_path)
+              if not path.exists():
+                  print(f"AVISO: {file_path} não encontrado, a saltar")
+                  continue
+              client.upload_file(
+                  str(path),
+                  bucket,
+                  file_path,
+              )
+              print(f"Upload OK: {file_path}")
+
+          print("Upload para R2 concluído")
+          EOF
 
       - name: Commit updated data
         run: |
