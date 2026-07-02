@@ -5,7 +5,7 @@
 Repositório partilhado de extração automática de dados de notícias e redes sociais relacionados com o município da Covilhã. Os dados extraídos são utilizados por dois projetos distintos:
 
 - **Agente de Gestão de Incidentes** — enriquece a priorização de incidentes com contexto local ([agente-gestao-incidentes](https://github.com/carolinarraposo/agente-gestao-incidentes))
-- **Motor de Análise de Sentimentos** — processa os textos para classificação de sentimento e modelação de tópicos
+- **Motor de Análise de Sentimentos** — processa os textos para classificação de sentimento e modelação de tópicos ([municipal-sentiment-topic-engine](https://github.com/patriciamarcos/municipal-sentiment-topic-engine))
 
 ## Fontes de dados
 
