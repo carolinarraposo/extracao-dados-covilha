@@ -10,10 +10,8 @@ Uso:
 """
 
 import json
-import os
 import re
 from datetime import datetime
-from collections import Counter
 from pathlib import Path
 
 
