@@ -2,7 +2,7 @@
 
 # Extração de Dados — Covilhã
 
-> Repositório partilhado de extração automática de dados de notícias e redes sociais relacionados com o município da Covilhã, desenvolvido no âmbito da Licenciatura em Inteligência Artificial e Ciência de Dados da Universidade da Beira Interior.
+> Repositório partilhado de extração automática de dados de notícias e redes sociais relacionados com o município da Covilhã, desenvolvido no âmbito da unidade curricular de Projeto 2025/2026 da Licenciatura em Inteligência Artificial e Ciência de Dados da Universidade da Beira Interior.
 
 ---
 
@@ -147,8 +147,6 @@ O ficheiro resultante deve ser copiado para `data/streets_covilha.csv` no reposi
 
 **Patrícia Marcos** — Licenciatura em Inteligência Artificial e Ciência de Dados
 
----
 
-*Projeto desenvolvido no âmbito da unidade curricular de Projeto, 2025/2026.*
 
 
