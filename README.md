@@ -2,10 +2,16 @@
 
 # Extração de Dados — Covilhã
 
-Repositório partilhado de extração automática de dados de notícias e redes sociais relacionados com o município da Covilhã. Os dados extraídos são utilizados por dois projetos distintos:
+> Repositório partilhado de extração automática de dados de notícias e redes sociais relacionados com o município da Covilhã, desenvolvido no âmbito da Licenciatura em Inteligência Artificial e Ciência de Dados da Universidade da Beira Interior.
+
+---
+
+Os dados extraídos são utilizados por dois projetos distintos:
 
 - **Agente de Gestão de Incidentes** — enriquece a priorização de incidentes com contexto local ([agente-gestao-incidentes](https://github.com/carolinarraposo/agente-gestao-incidentes))
 - **Motor de Análise de Sentimentos** — processa os textos para classificação de sentimento e modelação de tópicos ([municipal-sentiment-topic-engine](https://github.com/patriciamarcos/municipal-sentiment-topic-engine))
+
+---
 
 ## Fontes de dados
 
@@ -19,6 +25,8 @@ Repositório partilhado de extração automática de dados de notícias e redes 
 | Instagram | Desativado | — |
 | Threads | Desativado | — |
 
+---
+
 ## Estrutura do projeto
 
 ```
@@ -31,12 +39,31 @@ extractors/
   instagram_extractor.py  # Posts do Instagram (desativado)
   threads_extractor.py    # Posts do Threads (desativado)
 
+database/
+  init_db.py              # Inicialização da base de dados
+  import_data.py          # Importação dos dados extraídos para a BD
+  tabelas.sql             # Definição das tabelas
+
 data/
-  raw/                    # Ficheiros CSV/JSON gerados pelos scrapers
+  raw/                    # Ficheiros CSV/JSON gerados pelos extractores
   state/                  # Estado interno (IDs já vistos, última execução)
 
-run_extractors.py         # Script principal — corre todos os extractores
+run_extractors.py         # Script principal, corre todos os extractores
+build_streets_dataset.py  # Gera o dataset de ruas a partir dos dados CTT e OSM
+fetch_osm_streets.py      # Extrai ruas do município via OpenStreetMap (Overpass API)
+quality_analysis.py       # Relatório de qualidade dos dados extraídos
 ```
+
+---
+
+## Pré-requisitos
+
+- Python 3.9+
+- Conta Reddit com app criada em [reddit.com/prefs/apps](https://www.reddit.com/prefs/apps) (para extração do Reddit)
+- Conta Bluesky com App Password gerada nas definições (para extração do Bluesky)
+- Chave da YouTube Data API v3 via [Google Cloud Console](https://console.cloud.google.com/) (para extração do YouTube)
+
+---
 
 ## Instalação
 
@@ -54,13 +81,9 @@ cp .env.example .env
 # Editar .env com as chaves necessárias
 ```
 
+---
+
 ## Variáveis de ambiente
-
-Copia o ficheiro de exemplo e preenche com as tuas chaves:
-
-```bash
-cp .env.example .env
-```
 
 ```env
 # Reddit
@@ -87,6 +110,8 @@ THREADS_USER_ID=...
 THREADS_ACCESS_TOKEN=...
 ```
 
+---
+
 ## Utilização
 
 ```bash
@@ -95,6 +120,35 @@ python run_extractors.py
 
 Os ficheiros são guardados em `data/raw/`. Os logs de execução ficam em `logs/execution.log`.
 
-## Integração com outros projetos
+---
 
-Os dados em `data/raw/` podem ser consumidos diretamente por outros projetos. Cada projeto é responsável por importar e processar os dados conforme as suas necessidades.
+## Dataset de ruas
+
+O ficheiro `streets_covilha.csv` é gerado a partir de dados dos CTT e do OpenStreetMap:
+
+```bash
+python build_streets_dataset.py
+```
+
+O ficheiro resultante deve ser copiado para `data/streets_covilha.csv` no repositório `agente-gestao-incidentes`.
+
+---
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![praw](https://img.shields.io/badge/praw-FF4500?style=flat&logo=reddit&logoColor=white)
+![atproto](https://img.shields.io/badge/atproto-0085FF?style=flat&logo=bluesky&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+## Autoras
+
+**Carolina Raposo** — Licenciatura em Inteligência Artificial e Ciência de Dados
+
+**Patrícia Marcos** — Licenciatura em Inteligência Artificial e Ciência de Dados
+
+---
+
+*Projeto desenvolvido no âmbito da unidade curricular de Projeto, 2025/2026.*
+
+
