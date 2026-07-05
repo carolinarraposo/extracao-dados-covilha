@@ -1,10 +1,6 @@
 """
 Consulta o OpenStreetMap (Overpass API) para obter ruas de cada freguesia
 do município da Covilhã e funde com o dataset CTT existente.
-
-Uso:
-  python fetch_osm_streets.py
-  python fetch_osm_streets.py --input data/streets_covilha.csv --output data/streets_covilha.csv
 """
 
 import argparse
@@ -13,12 +9,9 @@ import unicodedata
 import urllib.parse
 
 import pandas as pd
+import os
 import requests
 
-# Mapeamento: nome OSM → nome pós-2013 do dataset
-# Apenas nomes suficientemente únicos para não causar falsos positivos globais.
-# Nomes ambíguos como "Santa Maria", "São Pedro", "Conceição", "Barco", "Peso"
-# são omitidos porque existem em muitos outros municípios/países.
 OSM_TO_DATASET = {
     # Sem alteração — nomes únicos
     "Aldeia de São Francisco de Assis": "ALDEIA DE SÃO FRANCISCO DE ASSIS",
@@ -89,7 +82,6 @@ def fetch_osm_streets(osm_name: str) -> set[str]:
 
 
 def main(input_path: str, output_path: str):
-    import os
     # Se já existe um ficheiro de saída fundido, usa-o como base (acumulativo)
     base_path = output_path if os.path.exists(output_path) else input_path
     print(f"A carregar base: {base_path}")
@@ -97,18 +89,13 @@ def main(input_path: str, output_path: str):
     print(f"  {len(ctt)} ruas na base atual")
 
     osm_rows = []
-    seen_parishes = set()
 
     for osm_name, dataset_parish in OSM_TO_DATASET.items():
-        if dataset_parish in seen_parishes:
-            # Já consultámos esta freguesia neste nome — combinar resultados
-            pass
         print(f"A consultar OSM: {osm_name} → {dataset_parish}")
         streets = fetch_osm_streets(osm_name)
         print(f"  {len(streets)} ruas encontradas")
         for s in streets:
             osm_rows.append({"Nome da rua": s, "Freguesia": dataset_parish})
-        seen_parishes.add(dataset_parish)
         time.sleep(DELAY_SECONDS)
 
     osm_df = pd.DataFrame(osm_rows)
