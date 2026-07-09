@@ -1,6 +1,1164 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mpjyucqe2m2n",
+        "author": "pt-noticias.bsky.social",
+        "text": "Pedro Jorge surpreendido por Marisa Pires: “Adorei”\n\nhttps://www.europesays.com/pt/435982/\n\nEnquanto Pedro Jorge se encontrava no “Secret Story – Desafio Final”, da TVI, Marisa Pires remodelou a loja…",
+        "created_at": "2026-06-30T22:00:37+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3mpjytxxwei23",
+        "author": "pt-entretenimento.bsky.social",
+        "text": "Pedro Jorge surpreendido por Marisa Pires: “Adorei”\n\nhttps://www.europesays.com/pt/435982/\n\nEnquanto Pedro Jorge se encontrava no “Secret Story – Desafio Final”, da TVI, Marisa Pires remodelou a loja…",
+        "created_at": "2026-06-30T22:00:25+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnwdszmevi2p",
+        "author": "correiodamanha.bsky.social",
+        "text": "Vítima e agressor discutiram num bar por uma suposta questão sentimental.",
+        "created_at": "2026-06-10T08:58:19.974Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mnuz6cim2s2o",
+        "author": "on-centro.bsky.social",
+        "text": "De acordo com a PJ, a vítima permanece internada, encontrando-se livre de perigo, mas sob observação médica. O suspeito recebeu alta hospitalar cerca de dez horas depois, tendo sido conduzido às instalações da Polícia Judiciária da Guarda, onde foi detido.",
+        "created_at": "2026-06-09T20:15:07.647Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnuls5eig22k",
+        "author": "correiodamanha.bsky.social",
+        "text": "Vítima e agressor discutiram num bar por uma suposta questão sentimental.",
+        "created_at": "2026-06-09T16:15:40.762Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mnu5gkzcgn2x",
+        "author": "correiodamanha.bsky.social",
+        "text": "Vítima e agressor discutiram num bar por uma suposta questão sentimental.",
+        "created_at": "2026-06-09T11:58:40.074Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mnd7tifkwx2r",
+        "author": "sapo.pt",
+        "text": "Lousado inaugurou memorial em homenagem aos antigos combatentes",
+        "created_at": "2026-06-02T18:26:23.848230Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mmbive3evs23",
+        "author": "on-centro.bsky.social",
+        "text": "Segundo as autoridades, o suspeito terá assassinado a esposa em abril de 2003, no apartamento onde ambos residiam. \n\non-centro.pt/index.php/pt...",
+        "created_at": "2026-05-20T08:38:00.796Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mm7vdzl2l22v",
+        "author": "on-centro.bsky.social",
+        "text": "Segundo a investigação, suspeito e vítima conheciam-se do meio universitário e os factos terão ocorrido após uma festa académica conhecida como «Festa das Tasquinhas».\n\non-centro.pt/index.php/pt...",
+        "created_at": "2026-05-19T17:15:38.516Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mm7fodwlaj2u",
+        "author": "correiodamanha.bsky.social",
+        "text": "Polícia Judiciária da Guarda leva a tribunal jovem de 23 anos. Vítima tem 22 anos.",
+        "created_at": "2026-05-19T12:35:04.597Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:gbdq5nlcqtgf464blewncly4/app.bsky.feed.post/3mm55ef3l7d2d",
+        "author": "jornalgrandebahia.bsky.social",
+        "text": "Lucas Duarte brilha no FC Felgueiras, alcança 10 gols na Liga Portugal 2 e atrai interesse de clubes da Espanha, Japão e futebol árabe\n\nLucas Duarte encerra a temporada 2025/2026 como um dos brasileiros em destaque no futebol português. O atacante marcou 10 gols pelo FC Felgueiras na Liga Portugal…",
+        "created_at": "2026-05-18T15:00:59Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:jyxhsywpmmdp5j2fxziceuc7/app.bsky.feed.post/3mlnayav7o5b2",
+        "author": "oglobo.globo.com.web.brid.gy",
+        "text": "",
+        "created_at": "2026-05-12T07:02:23.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g7yfim62h",
+        "author": "lusa.pt",
+        "text": "Governo reafetou 900 ME do PRR para a inovação e competitividade - Ministro",
+        "created_at": "2026-04-22T21:16:33.6206035+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mk4g6fb3jz2y",
+        "author": "lusa.pt",
+        "text": "Governo reafetou 900 ME do PRR para a inovação e competitividade - Ministro",
+        "created_at": "2026-04-22T21:15:39.9007860+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3mk4fbj45e2p2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2026-04-22T20:49:38.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:aoifpyfe77nl5km4vjs66ycr/app.bsky.feed.post/3mjopxt7ojmo2",
+        "author": "rr.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2026-04-17T11:01:47.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:my2sbivzj3x2ybo2kfzdhxmp/app.bsky.feed.post/3mjmywplhus2i",
+        "author": "torcinho70.bsky.social",
+        "text": "É como unha pandemia. www.jn.pt/pais/artigo/...",
+        "created_at": "2026-04-16T18:08:48.520Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mjheb3lglm26",
+        "author": "pt-noticias.bsky.social",
+        "text": "Mercadona abre nova loja em Portugal nesta semana | Notícias de hoje\n\nhttps://www.europesays.com/pt/342491/\n\nA Mercadona abre nesta quinta-feira, 16 de abril, uma nova loja em território português. Desta vez, o novo…",
+        "created_at": "2026-04-14T12:15:27+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:33xteq4qpiqq2br6gcnpq4ad/app.bsky.feed.post/3mjfpkvspfjx2",
+        "author": "radiogrenal.com.br.web.brid.gy",
+        "text": "",
+        "created_at": "2026-04-13T19:01:43.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mifishjpah2u",
+        "author": "correiodamanha.bsky.social",
+        "text": "Vítima passeava na zona quando decidiu ir dar um mergulho na pequena albufeira.",
+        "created_at": "2026-04-01T01:06:16.037Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:aoifpyfe77nl5km4vjs66ycr/app.bsky.feed.post/3midswmgomiv2",
+        "author": "rr.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2026-03-31T10:15:51.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:ezecnr3gkp2bkxwphsonbvc6/app.bsky.feed.post/3mibnkevy7k2k",
+        "author": "davidjorgonson.bsky.social",
+        "text": "The legend attached to various places, but one of them was Ethiopia\nOne Portuguese agent actually arrived in Ethiopia while looking for Prester John\nen.wikipedia.org/wiki/P%C3%AA...",
+        "created_at": "2026-03-30T12:20:34.766Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "davidjorgonson.bsky.social",
+                "comment_text": "hey, relevant to the original topic:\n\"the Jesuits were able to convert the Ethiopian Emperors Za Dengel and Susenyos I to the faith in the 17th century but this resulted in a series of devastating rebellions and revolts against Catholic rule\"",
+                "comment_likes": 2
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mi6zjxgkr22k",
+        "author": "on-centro.bsky.social",
+        "text": "Em dado momento a vítima, em conivência com os suspeitos, apoderou-se de uma enorme quantia de dinheiro que não devolveu, tendo sido alvo de sequestro e posterior roubo de equipamentos eletrónicos que tinha em casa; salienta a PJ, no comunicado.\n\non-centro.pt/index.php/pt...",
+        "created_at": "2026-03-29T11:17:06.317Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3mi4uyenkqht2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2026-03-28T14:22:43.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:2oqbhwsbpnaznj4zopvebvne/app.bsky.feed.post/3mhs746h3ra22",
+        "author": "primeira.numero.pt",
+        "text": "arsenopirita\n\n\"...documentando o despejo de centenas de toneladas de arsenopirita decorrentes da extracção de volfrâmio em...\" ocorreu em:",
+        "created_at": "2026-03-24T08:52:09.713494+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mhrqelnvla2x",
+        "author": "correiodamanha.bsky.social",
+        "text": "Para que os serviços de saúde não tenham de parar está prevista a colocação de contentores, que possam acolher temporariamente os serviços das alas onde estejam a decorrer trabalhos.",
+        "created_at": "2026-03-24T04:28:25.767Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:ufw5v3n73rlt7e6aaknytv6u/app.bsky.feed.post/3mhgjwpyhdm2z",
+        "author": "mediaslibres.skyfleet.blue",
+        "text": "Portugal: journée de manifestations pour le logement, samedi 21 mars 2026",
+        "created_at": "2026-03-19T17:34:00.843Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mhekuff5542p",
+        "author": "pt-noticias.bsky.social",
+        "text": "Mercadona vai abrir um novo supermercado na Margem Sul (e já está a contratar) — NiT\n\nhttps://www.europesays.com/pt/310081/\n\nA Mercadona soma e segue. Após ter anunciado que vai inaugurar, já em abril, dois espaços em Viseu…",
+        "created_at": "2026-03-18T22:45:15+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3mhchsyyxdjq2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2026-03-18T00:40:49.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:mxxlsu336u23css7ooyojuyt/app.bsky.feed.post/3mh75u3khmk2i",
+        "author": "henriquepereir.bsky.social",
+        "text": "Só que não substituem todos os comboios, nem estão a ser feitos todos os comboios onde as linhas estão abertas...\nPor exemplo, o 6403 que sai de Santa Apolónia às 5h35, está a ser feito o autocarro de Meleças às Caldas, mas não está a ser feito serviço entre Lisboa...\nwww.publico.pt/2026/03/16/l...",
+        "created_at": "2026-03-16T19:09:09.523Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "henriquepereir.bsky.social",
+                "comment_text": "...e Meleças!\nO 6403 é um serviço muito importante, é o primeiro comboio do dia na Linha de Cintura, o primeiro comboio a chegar ao Cacém vindo de Lisboa, e simplesmente foi esquecido. O autocarro a partir de Meleças não tem qualquer ligação a Lisboa, os urbanos começam mais tarde.",
+                "comment_likes": 0
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uhn25hhuqpscubihacf6eouu/app.bsky.feed.post/3mgv6bomor62n",
+        "author": "correiodamanha.bsky.social",
+        "text": "Tratorista de 70 anos não resistiu aos múltiplos ferimentos.",
+        "created_at": "2026-03-12T19:50:07.981Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:u4n47crrdz3pbhu47plhkh7r/app.bsky.feed.post/3mfu4nmrttc2q",
+        "author": "guimaraesagora.bsky.social",
+        "text": "guimaraesagora.pt/yes-novo-ope...",
+        "created_at": "2026-02-27T16:23:10.218Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfsm3oc2z",
+        "author": "movebeiras.pt",
+        "text": "... e o estabelecimento de um serviço sólido entre Vila Velha de Ródão e a Guarda.\n\n👉 Leia na edição em papel ou aqui (para assinantes): www.reconquista.pt/articles/doi...",
+        "created_at": "2026-02-23T20:44:48.624Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mfkjfrmykk2z",
+        "author": "movebeiras.pt",
+        "text": "📰 Este número animador é manchete da mais recente edição do Jornal Reconquista, onde Gabriel Fonseca e Oscar Ascensão da Move Beiras falam das possibilidades de este número crescer ainda mais, melhorando a oferta, como o retomar do percurso do Comboio Académico...",
+        "created_at": "2026-02-23T20:44:47.075Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "movebeiras.pt",
+                "comment_text": "... e o estabelecimento de um serviço sólido entre Vila Velha de Ródão e a Guarda.\n\n👉 Leia na edição em papel ou aqui (para assinantes): www.reconquista.pt/articles/doi...",
+                "comment_likes": 1
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mfhna7vage26",
+        "author": "pt-noticias.bsky.social",
+        "text": "Apoiar as vítimas de crime é fundamental para atenuar as consequências destes at…\n\nhttps://www.europesays.com/pt/279909/\n\nA cidade do Porto foi distinguida como Capital Nacional da Juventude 2026, superando treze candidaturas devido às suas…",
+        "created_at": "2026-02-22T17:15:16+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:23w52iqqcuqagkq75nponvvd/app.bsky.feed.post/3meeyb4dywfc2",
+        "author": "cobrate.mastodon.social.ap.brid.gy",
+        "text": "Suite 1487 https://mastodon.social/@cobrate/115573521143754881\n\n(2/2) ... construction #btp Templo Mayor inauguré par le sacrifice de milliers de guerriers (cf 1518).\n\n#year1487 #histoire #politique",
+        "created_at": "2026-02-08T22:29:23.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:uhmdm7z56l2ouh5w45sbshji/app.bsky.feed.post/3mebcqhlbc227",
+        "author": "hdom.bsky.social",
+        "text": "Saiu o ranking das melhores universidades.",
+        "created_at": "2026-02-07T11:26:21.209Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:kaw4dwcvhf6s66zt7qqx6daq/app.bsky.feed.post/3mdphb7jwvk25",
+        "author": "pacheco-torgal.bsky.social",
+        "text": "A cidade com mais engenheiros per capita e um inusitado escândalo salarial  19-pacheco-torgal-19.blogspot.com/2026/01/um-i...",
+        "created_at": "2026-01-31T08:59:22.885Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:655kmv4jfmsovnrjxpdx53y4/app.bsky.feed.post/3mdcu62nnck25",
+        "author": "eltrapezio.bsky.social",
+        "text": "REGIONES Y CIUDADES RAYANAS DE PORTUGAL SE PROMOCIONAN EN FITUR\n\neltrapezio.eu/es/2026/01/2...",
+        "created_at": "2026-01-26T08:45:39.146Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:gvwtvzysmiqxvkklmqcjpw5b/app.bsky.feed.post/3mczrtwupqp2c",
+        "author": "record-portugal.bsky.social",
+        "text": "Vai liderar Comissão de Gestão até ao final da época",
+        "created_at": "2026-01-22T18:10:14.261Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3mcvll5qz2on2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2026-01-21T00:44:00.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mcmrv35j5t2i",
+        "author": "sapo.pt",
+        "text": "Reabertos acessos à Torre da Serra da Estrela",
+        "created_at": "2026-01-17T14:06:14.674603Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:7h3hrqbvfr4kkwy2ntxect6g/app.bsky.feed.post/3mcanmlgp3c2h",
+        "author": "asulado.bsky.social",
+        "text": "\"Após profunda reflexão...\"",
+        "created_at": "2026-01-12T18:17:59.209Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "cmspcoelho.bsky.social",
+                "comment_text": "A bem d'zer, a ex-assessora não o acusou de nada. Confidenciou-o numa conta privada de uma rede social.",
+                "comment_likes": 1
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:gslssbxh3hculdcpicrmaet5/app.bsky.feed.post/3mc4yzw5obr23",
+        "author": "abola.bsky.social",
+        "text": "Académica pode garantir hoje presença na fase de subida da Liga 3: saiba como https://c-de.co/k8Ypd",
+        "created_at": "2026-01-11T07:31:38.365Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mbru5s3czc25",
+        "author": "on-centro.bsky.social",
+        "text": "",
+        "created_at": "2026-01-06T21:05:02.977Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mbpjt44tjw2w",
+        "author": "sapo.pt",
+        "text": "Cantar das Janeiras anima Penhas da Saúde no âmbito da “Estrela do Natal”",
+        "created_at": "2026-01-05T22:54:45.586147Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:jfgtrrsrzmdatednj3yzj2u5/app.bsky.feed.post/3mbbnzafqwk2u",
+        "author": "thetechcapital.com",
+        "text": "Asterion seeks clearance for acquisition of Altice’s Portugal hyperscale data centre\n\n🔗 thetechcapital.com/asterion-see...\n\nFollow for more timely news, views, and interviews.\n\nAt The Tech Capital you lead, we report.\n\n#digitalinfrastructure #hyperscaleinfrastructure #datacenter #investment #news",
+        "created_at": "2025-12-31T10:32:31.963Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3madmtbbk2c2v",
+        "author": "on-centro.bsky.social",
+        "text": "",
+        "created_at": "2025-12-19T11:51:25.654Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabudbecxs2i",
+        "author": "wconcerthall.bsky.social",
+        "text": "Right now, Morais and Lagrifa perform #Carneyro #Santos #Dias, de Freitas and more in #Lisbon www.worldconcerthall.com/en/schedule/... #wch",
+        "created_at": "2025-12-18T19:00:19.329Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3mabti2nn4z2s",
+        "author": "wconcerthall.bsky.social",
+        "text": "In 15 minutes, Morais and Lagrifa perform #Carneyro #Santos #Dias, de Freitas and more in #Lisbon www.worldconcerthall.com/en/schedule/... #wch",
+        "created_at": "2025-12-18T18:45:05.274Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:qztqoexue45a64ecs4r4cnou/app.bsky.feed.post/3maaqbkknqf2z",
+        "author": "wconcerthall.bsky.social",
+        "text": "Today, Morais and Lagrifa perform #Carneyro #Santos #Dias, de Freitas and more in #Lisbon www.worldconcerthall.com/en/schedule/... #wch",
+        "created_at": "2025-12-18T08:15:05.423Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3m7uhuwalqq72",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-12-13T10:20:12.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:jkm4aqsmn4bqz2nqh3luhnbz/app.bsky.feed.post/3m7v6d4ob6sf2",
+        "author": "uva.ce.gov.br.web.brid.gy",
+        "text": "",
+        "created_at": "2025-12-12T20:00:18.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:xjqyrnpastev3afuqaugeftx/app.bsky.feed.post/3m7mu3zlksg2b",
+        "author": "jornalomirante.bsky.social",
+        "text": "",
+        "created_at": "2025-12-10T10:30:21Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:2dey5qlon56brdcnu3io7ve5/app.bsky.feed.post/3m6zi4afn2m2i",
+        "author": "dcdnews.bsky.social",
+        "text": "",
+        "created_at": "2025-12-02T17:35:08Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:o4gygiehiqr7hcpyicprn6w4/app.bsky.feed.post/3m6yfqkyoge2e",
+        "author": "next.ink",
+        "text": "",
+        "created_at": "2025-12-02T07:20:09Z",
+        "metrics": {
+            "likes": 2,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3m6wsqtcyird2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-12-01T16:03:57.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:bgznzxixeslq3dixy4cg5ule/app.bsky.feed.post/3m6w7zgcprd2z",
+        "author": "baptistehugot.com",
+        "text": "Au Portugal, #Asterion achète un campus de centre de données d’une capacité installée de 6,8MW à #Altice pour 120M€. Ce dernier restera le locataire principal dans le cadre d'un contrat de services à long terme. Les ventes s’enchaînent pour le groupe.\nwww.pfie.com/emea/2348912...",
+        "created_at": "2025-12-01T10:32:25.115791Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:p5pcswhxiigbi4lefml2qktv/app.bsky.feed.post/3m6w7vduudz2o",
+        "author": "handle.invalid",
+        "text": "",
+        "created_at": "2025-12-01T10:30:08Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m6ourp2h7c2i",
+        "author": "fabio14andrade.bsky.social",
+        "text": "#SlavaUkraini \n\nexpresso.pt/economia/202...",
+        "created_at": "2025-11-28T12:22:36.794Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3m6etbqoajs22",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-11-24T11:25:03.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m5ldvik2ko2p",
+        "author": "sapo.pt",
+        "text": "Retomada circulação ferroviária na Linha da Beira Baixa",
+        "created_at": "2025-11-14T09:17:18.419385Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m5dya6ntxs2v",
+        "author": "fabio14andrade.bsky.social",
+        "text": "🇵🇹 Bom dia! \n\n#SlavaUkraini #FreePalestine \n\neco.sapo.pt/2025/11/10/e...",
+        "created_at": "2025-11-11T10:59:55.395Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:xxcz7qy4yqjdrvg4wkpdyrrb/app.bsky.feed.post/3m52ov6n5y222",
+        "author": "hudnall56.bsky.social",
+        "text": "Took first at Monday’s premodern with Burn.\n\nHoping to get this wild one built before next month’s meetup",
+        "created_at": "2025-11-07T18:18:44.950Z",
+        "metrics": {
+            "likes": 4,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "sagegnosis.bsky.social",
+                "comment_text": "I would love to play Premodern but my area is allergic to anything that isn't EDH, cEDH, Legacy, or whatever the qualifier format is \n\nI wanna get into Premodern, Canlander, and Pauper",
+                "comment_likes": 3
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3m4y35efeejt2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-11-06T17:13:26.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3m4y2juwkfq26",
+        "author": "sapo.pt",
+        "text": "Incêndio atinge empresa de reciclagem têxtil Jomafil",
+        "created_at": "2025-11-06T17:09:09.980950Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3m4xg6ojddk2o",
+        "author": "fabio14andrade.bsky.social",
+        "text": "#SlavaUkraini #FreePalestine \n\nwww.cmjornal.pt/sociedade/cl...",
+        "created_at": "2025-11-06T11:05:00.702Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3m4sl7ol7loj2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-11-04T12:42:07.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3m4jrd5b2ks32",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-11-01T00:17:42.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:5krpxaflie7kzxyvtwdns4wy/app.bsky.feed.post/3m3rv43incc2p",
+        "author": "blog30zero7.bsky.social",
+        "text": "blog30zero7.blogspot.com/2025/10/cear...",
+        "created_at": "2025-10-22T12:50:49.718Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:xu5lchy5t2ipscewwt37ay2n/app.bsky.feed.post/3m3cdho4kak2q",
+        "author": "santotirsoonline.bsky.social",
+        "text": "Petroprix inaugura o sétimo posto low-cost em Santo Tirso santotirsoonline.com/petroprix-in...",
+        "created_at": "2025-10-16T08:25:14.915Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m3a2xgyhnk2q",
+        "author": "tiagodf.bsky.social",
+        "text": "Entre os alvos do despedimento coletivo estão trabalhadoras grávidas e de baixa, bem como trabalhadores de chefias intermédias em com alguns anos de casa, diz o JN.",
+        "created_at": "2025-10-15T10:47:41.157Z",
+        "metrics": {
+            "likes": 2,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:j4uvsnhzt425lvsi5cbwsu2d/app.bsky.feed.post/3m36a3k4feg2e",
+        "author": "esquerdanet.bsky.social",
+        "text": "Teleperformance despede 240 trabalhadores por videochamada",
+        "created_at": "2025-10-14T17:14:07Z",
+        "metrics": {
+            "likes": 4,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:tnqlccztuz2vafgjocwboo7s/app.bsky.feed.post/3m2zmxy7m4k2m",
+        "author": "tiagodf.bsky.social",
+        "text": "O *verifica notas* Nós, Cidadãos ganha Belmonte ao PS com o antigo presidente de Penamacor, em limitação de mandatos neste último concelho, que derrota o antigo autarca da Covilhã, também em limite de mandatos lá.",
+        "created_at": "2025-10-12T21:21:28.402Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "tiagodf.bsky.social",
+                "comment_text": "PS ganha Tabuaço ao PSD.",
+                "comment_likes": 1
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:ozf55fcugazdqj77nhhstfnu/app.bsky.feed.post/3m2uxkn65lv2q",
+        "author": "blazetrends.bsky.social",
+        "text": "Benfica Candidate Manteigas: Club Must Be 'In The System' For Football Reform\n\n",
+        "created_at": "2025-10-11T05:47:30Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2ulamom2y2z",
+        "author": "movebeiras.pt",
+        "text": "🎶 Para fechar, a paragem na Guarda e a \"segunda parte\" da Música a Bordo do passado domingo na descida para a Covilhã!\n📷 Rodrigo Ascensão",
+        "created_at": "2025-10-10T21:07:12.098Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m2twqupdxq2p",
+        "author": "pt-noticias.bsky.social",
+        "text": "Pedro Jorge defende Marisa e é atacado por Fábio e Dylan: “Coitadinho, ela não reclamou…”\n\nhttps://www.europesays.com/pt/105095/\n\nApesar do incómodo que Marisa sentiu por lhe terem mexido nas partes íntimas, Fábio garante que a concorrente…",
+        "created_at": "2025-10-10T15:00:26+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:323547cskcrt7l2aej5mlqvj/app.bsky.feed.post/3m2twqoak472s",
+        "author": "pt-entretenimento.bsky.social",
+        "text": "Pedro Jorge defende Marisa e é atacado por Fábio e Dylan: “Coitadinho, ela não reclamou…”\n\nhttps://www.europesays.com/pt/105095/\n\nApesar do incómodo que Marisa sentiu por lhe terem mexido nas partes íntimas, Fábio garante que a concorrente…",
+        "created_at": "2025-10-10T15:00:20+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2phsgmshp2q",
+        "author": "movebeiras.pt",
+        "text": "📸 Partilhamos, a partir de hoje e até sexta-feira, várias fotografias do passado domingo!\n🚉 Começamos pela concentração na estação da Covilhã antes do II Música a Bordo!",
+        "created_at": "2025-10-08T20:22:16.066Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3m2mubiixdj2u",
+        "author": "movebeiras.pt",
+        "text": "🪗 Celeste Miranda e Paula Costa são as 2 amigas que animaram uma das carruagens dos regionais da tarde entre a Covilhã e a Guarda no passado domingo!\n🎶 Alegria e diversão em doses contagiantes",
+        "created_at": "2025-10-07T19:27:27.024Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3m25kwa4qso2z",
+        "author": "pt-noticias.bsky.social",
+        "text": "Galeria António Lopes recebe nova exposição\n\nhttps://www.europesays.com/pt/94726/\n\nA artista plástica Carina Leal abre as portas da exposição “Tenho Sentidos”, no próximo dia 4 de outubro,…",
+        "created_at": "2025-10-01T17:30:06+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3m24w247dhs32",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-10-01T11:11:15.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:ghdtmkgv6g7t2l6urbalhopv/app.bsky.feed.post/3lzxyqhifbm2e",
+        "author": "recipesmarketplace.bsky.social",
+        "text": "Diogo Lopes, a star winemaker\n\nIn 2023, Grandes Escolhas, a leading wine magazine, named Diogo Lopes “Enologist of the Year.” The seeds of this recognition were planted in his childhood. While most of his friends spent their summers by the sea, Diogo stayed on his grandfather’s farm in the…",
+        "created_at": "2025-09-29T12:21:28Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3lzs3t2pufxb2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-09-27T03:18:26.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3lzs3sxjpww72",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-09-27T02:18:13.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:roweyd2xk6bs2mwhfk6vjzmb/app.bsky.feed.post/3lznmsfzdnk2c",
+        "author": "publicoazul.bsky.social",
+        "text": "ULS da Cova da Beira apela à população para que tome medidas preventivas, nomeadamente, que eliminem ou virem ao contrário pratos de vasos, baldes ou outros recipientes que acumulem água.",
+        "created_at": "2025-09-25T09:21:13.062Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3lzm5pjojilf2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-09-24T18:13:28.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:3kyff7ud57n35r7sybltaoyo/app.bsky.feed.post/3lxu2cechjf2z",
+        "author": "robinoflocksley.bsky.social",
+        "text": "www.theportugalnews.com/news/2025-04...",
+        "created_at": "2025-09-02T11:46:40.006Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "robinoflocksley.bsky.social",
+                "comment_text": "www.mlive.com/life/2025/04...",
+                "comment_likes": 0
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3lxhemgrlp3p2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-08-28T09:30:15.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3lxfvjondbji2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2025-08-27T19:00:03.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:3kyff7ud57n35r7sybltaoyo/app.bsky.feed.post/3lxdb2p4shx2l",
+        "author": "robinoflocksley.bsky.social",
+        "text": "www.theportugalnews.com/news/2025-04...",
+        "created_at": "2025-08-26T19:32:22.996Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "robinoflocksley.bsky.social",
+                "comment_text": "www.mlive.com/life/2025/04...",
+                "comment_likes": 1
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3lxca2tca6s2u",
+        "author": "on-centro.bsky.social",
+        "text": "Parlamento prepara-se para debate depois de 250 mil hectares de área ardida\n\n-\n\non-centro.pt/index.php/pt...",
+        "created_at": "2025-08-26T09:43:36.399Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "portugalense.bsky.social",
+                "comment_text": "com tantas fotos da AR em dominio publico era mesmo necessario usar uma a base de IA?",
+                "comment_likes": 0
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:wnfga3px3bkjle6dxofamnc4/app.bsky.feed.post/3mq4il4qvzs2v",
         "author": "deraltepoet.bsky.social",
         "text": "Heute vor 529 Jahren, am 8. Juli 1497, verliess der portugiesische Seefahrer Vasco da Gama den Hafen Restelo bei Lissabon mit vier Schiffen, um den Seeweg nach Indien zu finden. de.wikipedia.org/wiki/Vasco_d...",
