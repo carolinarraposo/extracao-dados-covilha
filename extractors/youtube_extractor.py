@@ -323,6 +323,64 @@ def guardar_json_youtube(videos_data, comments_data):
         json.dump(unicos, f, ensure_ascii=False, indent=4)
 
 
+def gerar_json_do_csv():
+    """Gera o youtube_posts.json completo a partir dos CSVs acumulados."""
+    if not os.path.exists(VIDEOS_CSV):
+        return
+
+    videos_data = []
+    with open(VIDEOS_CSV, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            videos_data.append(row)
+
+    comments_data = []
+    if os.path.exists(COMMENTS_CSV):
+        with open(COMMENTS_CSV, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                comments_data.append(row)
+
+    comentarios_por_video = {}
+    for c in comments_data:
+        comentarios_por_video.setdefault(c["video_id"], []).append({
+            "comment_id": c.get("comment_id"),
+            "parent_id": c.get("parent_id"),
+            "author": c.get("author"),
+            "text": c.get("comment_text"),
+            "likes": c.get("likes"),
+            "created_at": c.get("published_date")
+        })
+
+    posts = []
+    vistos = set()
+    for v in videos_data:
+        vid = v.get("video_id")
+        if vid in vistos:
+            continue
+        vistos.add(vid)
+        posts.append({
+            "source": "youtube",
+            "platform_id": vid,
+            "url": v.get("video_url"),
+            "title": v.get("title"),
+            "author": v.get("channel"),
+            "text": v.get("description"),
+            "created_at": v.get("published_date"),
+            "metrics": {
+                "views": v.get("views"),
+                "likes": v.get("likes"),
+                "comments": v.get("comments_count")
+            },
+            "comments": comentarios_por_video.get(vid, [])
+        })
+
+    with open(JSON_FILE, "w", encoding="utf-8") as f:
+        json.dump(posts, f, ensure_ascii=False, indent=4)
+
+    print(f"YouTube: JSON gerado com {len(posts)} vídeos do CSV.")
+
+
 def run():
     if not API_KEY:
         print("Falta YOUTUBE_API_KEY no .env")
@@ -337,19 +395,18 @@ def run():
     video_ids = pesquisar_videos(ids_videos_existentes)
     print(f"YouTube: novos vídeos encontrados: {len(video_ids)}")
 
-    if not video_ids:
-        return
+    if video_ids:
+        videos_data, comment_totals = extrair_metadados(video_ids)
+        comments_data = extrair_comentarios(video_ids, comment_totals, ids_comentarios_existentes)
 
-    videos_data, comment_totals = extrair_metadados(video_ids)
-    comments_data = extrair_comentarios(video_ids, comment_totals, ids_comentarios_existentes)
+        if videos_data:
+            guardar_csv(VIDEOS_CSV, videos_data, COLUNAS_VIDEOS)
 
-    if videos_data:
-        guardar_csv(VIDEOS_CSV, videos_data, COLUNAS_VIDEOS)
+        if comments_data:
+            guardar_csv(COMMENTS_CSV, comments_data, COLUNAS_COMENTARIOS)
 
-    if comments_data:
-        guardar_csv(COMMENTS_CSV, comments_data, COLUNAS_COMENTARIOS)
-
-    guardar_json_youtube(videos_data, comments_data)
+    # Sempre gerar o JSON completo a partir do CSV
+    gerar_json_do_csv()
 
     print("YouTube: extração concluída.")
 
