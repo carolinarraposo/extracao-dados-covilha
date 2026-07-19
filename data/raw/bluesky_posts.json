@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:6aqpawx7s7npelfruizmyi2q/app.bsky.feed.post/3mqzgl6afk22y",
+        "author": "jarwoski.bsky.social",
+        "text": "curitibaeparanaemfotosantigas.blogspot.com/2026/07/covi...",
+        "created_at": "2026-07-19T18:41:11.872Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mqwqjtk2wt2n",
         "author": "rss.dfaria.eu",
         "text": "Sharing my work at ENFA 10\n\nOver the last few days, I had the pleasure of participating in the 10th Meeting of the Portuguese Society for Analytic #Philosophy (ENFA 10), held at the University of Beira...\n\ndfaria.eu",
