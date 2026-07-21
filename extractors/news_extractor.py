@@ -103,6 +103,15 @@ def extrair_texto(url):
     return ""
 
 
+def extrair_source_name(title):
+    try:
+        if " - " in title:
+            return title.split(" - ")[-1].strip()
+        return ""
+    except:
+        return ""
+
+
 def extrair_noticias():
     df_antigo = carregar_dados_existentes()
     links_existentes = set()
@@ -153,6 +162,7 @@ def extrair_noticias():
                     "title": entry.title,
                     "link": google_link,
                     "url": real_url,
+                    "source_name": extrair_source_name(entry.title),  # ← NOVO
                     "created_at": entry.published,
                     "text": extrair_texto(real_url),
                     "metrics": {},
