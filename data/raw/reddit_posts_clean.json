@@ -1,6 +1,79 @@
 [
     {
         "source":"reddit",
+        "platform_id":"1v3ijdl",
+        "title":"Viver na Covilhã ou na zona de Fundão",
+        "author":"Propsgreen",
+        "text":"",
+        "created_at":"2026-07-22 14:56:53",
+        "url":"\/r\/portugal\/comments\/1v3iity\/viver_na_covilhã_ou_na_zona_de_fundão\/",
+        "metrics":{
+            "upvotes":3,
+            "comments":10
+        },
+        "comments":[
+            {
+                "comment_author":"General_Trainer_1645",
+                "comment_text":"Covilhã ",
+                "comment_upvotes":2
+            },
+            {
+                "comment_author":"Agreeable-Mud2150",
+                "comment_text":"Sou doente crónica seguida pelo sns e tenho várias consultas de especialidade no hospital da Covilhã e não me queixo do servico. As urgências é que podem demorar mas no geral não me queixo, sinceramente quando vivi no Porto o atendimento que tive lá foi uma grande merda em comparação sempre foi melhor aqui",
+                "comment_upvotes":2
+            },
+            {
+                "comment_author":"Zepinchaa",
+                "comment_text":"O Fundão é mais tranquilo, quase como uma aldeia em ponto grande com quase tudo o que precisas. \n\nA Covilhã é mesmo mais cidade e tens mesmo tudo o que precisas centros comerciais.\n\nEu pessoalmente como dou prioridade à tranquilidade prefiro o Fundão. \n\nps o pessoal do Fundão é mais porreiro que os covilhócos não são todos, mas quem cá vive à alguns anos sabe o feitio do pessoal da Covilhã. Tenho pessoal muito porreiro na Covilhã também.",
+                "comment_upvotes":2
+            },
+            {
+                "comment_author":"eL_Lancer88",
+                "comment_text":"A melhor coisa que o Fundão tem é a vista para a Covilhã. Covilhã sempre!",
+                "comment_upvotes":3
+            },
+            {
+                "comment_author":"Propsgreen",
+                "comment_text":"É isso. Aqui na zona do Porto está impossível. Algo me leva a crer que consigo dar um acompanhamento melhor no interior com menos população. Do que aqui na zona. E prevenir agravamentos dessa forma.  \nO meu medo era em caso de urgência. No entanto pareceme que o hospital da Covilhã pode dar resposta às situações.  \nCada vez acho mais que o interior será mais seguro a todos os níveis do que viver numa zona central como o Porto. Adoro o Porto, mas estou a sentir muita falta da paz e da tranquilidade que só o interior consegue dar.",
+                "comment_upvotes":2
+            },
+            {
+                "comment_author":"Agreeable-Mud2150",
+                "comment_text":"O centro de saúde tmb é na boa conseguese ter consultas com o médico de família relativamente rápido",
+                "comment_upvotes":1
+            },
+            {
+                "comment_author":"Propsgreen",
+                "comment_text":"Ahaahah, estou a sentir uma disputa saudável entre as duas zonas. Eu gosto de ambas as zonas, cresci a visitar anualmente ambas. Então pela minha experiência é tudo gente boa. ",
+                "comment_upvotes":2
+            },
+            {
+                "comment_author":"Zepinchaa",
+                "comment_text":"Uma coisa que o Fundão têm e a Covilhã ao é estacionamento à vontade. ",
+                "comment_upvotes":2
+            },
+            {
+                "comment_author":"cusco",
+                "comment_text":"Como alguém que viveu na Covilhã e trabalhou no Fundão um montão de tempo não faz muita diferença. \n\nCovilhã tem ligeiramente mais vida. Fundão é mais plano. \n\nMas é tão perto que acaba por ser indiferente ",
+                "comment_upvotes":2
+            },
+            {
+                "comment_author":"Zepinchaa",
+                "comment_text":"Em suma, o Fundão têm cause tudo e é mais tranquilo que a Covilhã. ",
+                "comment_upvotes":1
+            }
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
         "platform_id":"1v2mwc7",
         "title":"Inquérito de mestrado",
         "author":"Camomileteaa",
