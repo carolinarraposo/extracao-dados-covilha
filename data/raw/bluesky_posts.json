@@ -1,6 +1,48 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mrkzi5z4jc24",
+        "author": "bazert.bsky.social",
+        "text": "Devias usar, as receitas são muito boas e tem sempre o que preciso, desde a Chanfana até às filhoses da Covilhã",
+        "created_at": "2026-07-26T18:34:47.618Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "jonasnuts.bsky.social",
+                "comment_text": "Sim, mas tirando os doces, está cheio de proteína animal :-)",
+                "comment_likes": 0
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:l26qg6lddlvune7sujnffgpa/app.bsky.feed.post/3mrktpnfr3k23",
+        "author": "jegargj.bsky.social",
+        "text": "zap.aeiou.pt/chama-se-lua...",
+        "created_at": "2026-07-26T16:51:36.190Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mrklsvevsg2n",
+        "author": "pt-noticias.bsky.social",
+        "text": "Temperaturas aumentam. Treze concelhos em perigo máximo de incêndio\n\nhttps://www.europesays.com/pt/462995/\n\n\r O nível de alerta mais elevado abrange os concelhos Bragança, Covilhã, Belmonte, Tomar, Castelo de Vide, Marvão,…",
+        "created_at": "2026-07-26T14:30:13+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:prfp4yutfzueledzxe52h45b/app.bsky.feed.post/3mrebz77cxv2j",
         "author": "analis-futebol.bsky.social",
         "text": "Ekanga Ondoa, avançado de 23 anos, é emprestado ao Sp. Covilhã após passagem no Estrela da Amadora. Avaliando perfil, aposta em potencial físico e mobilidade para o ataque. Análise futura dependerá integração tática e volume de jogo no novo clube. #AnáliseFutebol #Brasileirão #Estatísticas #Tática",
