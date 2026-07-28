@@ -1,6 +1,86 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:zy45dyeuxntjlte6hkcs5jbm/app.bsky.feed.post/3mrq7kobtx22y",
+        "author": "mormadalena.bsky.social",
+        "text": "Vai-s'a'ver e já tive finais de dia de trabalho piores, já. \nCovilhã bem!!!",
+        "created_at": "2026-07-28T20:06:52.933Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:zy45dyeuxntjlte6hkcs5jbm/app.bsky.feed.post/3mrq3f6vcoc2p",
+        "author": "mormadalena.bsky.social",
+        "text": "Impressionante! Covilhã bem! \ne com uma zona exterior bem catita para ir para lá ler depois de champinhar.\nOra então 'bora lá buscar a fatiota aproriada e descer novamente que tenho os pezinhos e as perninhas mesmo a precisar de molho",
+        "created_at": "2026-07-28T18:52:14.032Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:zy45dyeuxntjlte6hkcs5jbm/app.bsky.feed.post/3mrq2oaio622a",
+        "author": "mormadalena.bsky.social",
+        "text": "COVILHÃ 🥳🥳🥳\nTemos vencedora e apreciadora \nAmanhã mostro as papas 😋",
+        "created_at": "2026-07-28T18:39:23.985Z",
+        "metrics": {
+            "likes": 2,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "bazert.bsky.social",
+                "comment_text": "Eu quero é comê-las, só ver não chega",
+                "comment_likes": 1
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:si3eqzjg6ak56vuyoqatcurf/app.bsky.feed.post/3mrq22lh4ns2i",
+        "author": "bazert.bsky.social",
+        "text": "E eu escrevi mal, é carolo. \nCarolo é milho moido. É com carolo que no Algarve fazem o Xerém, que são papas salgadas com amêijoas ou conquilhas, e na Covilhã as Papas de Carolo, tipo arroz doce. Gosto de Xerém, mas prefiro as doces",
+        "created_at": "2026-07-28T18:28:24.379Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 5
+        },
+        "comments": [
+            {
+                "comment_author": "mormadalena.bsky.social",
+                "comment_text": "Agora vou ali ver se o SPA está muito abafado ou se consigo enfiar-me de molho. Diz que está aberto até às 22h30 e isso dps de um dia de trabalho e 40° pode saber-me bem",
+                "comment_likes": 3
+            },
+            {
+                "comment_author": "mormadalena.bsky.social",
+                "comment_text": "COVILHÃ 🥳🥳🥳\nTemos vencedora e apreciadora \nAmanhã mostro as papas 😋",
+                "comment_likes": 2
+            },
+            {
+                "comment_author": "terc34.bsky.social",
+                "comment_text": "É um dos doces típicos da beira baixa.",
+                "comment_likes": 3
+            },
+            {
+                "comment_author": "louropt.bsky.social",
+                "comment_text": "Na região de Leiria de onde eu sou carolo é, ou era, o sabugo do milho. O que resta depois de retirarem os grãos.",
+                "comment_likes": 0
+            },
+            {
+                "comment_author": "aquianaribeiro.bsky.social",
+                "comment_text": "A minha avó paterna adorava carolos, é assim que se chamam lá na terra do meu pai, era uma papa doce que mais ninguém em casa apreciava.",
+                "comment_likes": 2
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mrnsw7z6aa2s",
         "author": "pt-noticias.bsky.social",
         "text": "Um ferido grave em camião que caiu da A23 na Guarda\n\nhttps://www.europesays.com/pt/464539/\n\nO despiste de um pesado de mercadorias Guarda na A23, antes do túnel do Barracão, no sentido Guarda-Covilhã,…",
