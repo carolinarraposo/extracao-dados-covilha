@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3mrnsw7z6aa2s",
+        "author": "pt-noticias.bsky.social",
+        "text": "Um ferido grave em camião que caiu da A23 na Guarda\n\nhttps://www.europesays.com/pt/464539/\n\nO despiste de um pesado de mercadorias Guarda na A23, antes do túnel do Barracão, no sentido Guarda-Covilhã,…",
+        "created_at": "2026-07-27T21:15:20+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mrnr3mqg662s",
         "author": "movebeiras.pt",
         "text": "🔴 Concelho da Covilhã\nNa Bouça e Cortes do Meio: Grupo Desportivo A.C. da Bouça\nNa Covilhã e Canhoso: Banda da Covilhã",
