@@ -1,6 +1,30 @@
 [
     {
         "source":"reddit",
+        "platform_id":"1vaa44l",
+        "title":"Devo ir estudar cinema para a ESMAD ou para a UBI?",
+        "author":"_vnabais_",
+        "text":"",
+        "created_at":"2026-07-29 21:45:23",
+        "url":"\/r\/porto\/comments\/1vaa3px\/devo_ir_estudar_cinema_para_a_esmad_ou_para_a_ubi\/",
+        "metrics":{
+            "upvotes":2,
+            "comments":0
+        },
+        "comments":[
+
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
         "platform_id":"1v8zmr4",
         "title":"A pensar mudar-me para a Covilhã",
         "author":"No-Excuse2303",
