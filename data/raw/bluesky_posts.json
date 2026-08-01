@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mrzzfysycp2m",
+        "author": "fogospt.bsky.social",
+        "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Vila Do Carvalho - Mato. Saiba mais em https://fogos.pt/fogo/20261083573 #IRCovilhã FogosPT  ⚠🔥",
+        "created_at": "2026-08-01T17:43:30.847739Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:uwnkgeukcodbl7wm2dpo5cyb/app.bsky.feed.post/3mrx7clwbuc2u",
         "author": "reneartois.bsky.social",
         "text": "A opção não é entre ter um centro IT da Google ou um Airbnb. \nÉ gestão dentro daquilo que o território oferece e permite.\n\nOlhem para o data center a PT na Covilhã, que bem que resultou.\n\nPor outro lado, o Fundão é um exemplo positivo, mas que levou décadas a desenvolver e ter resultados.",
