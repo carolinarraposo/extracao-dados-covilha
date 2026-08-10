@@ -1,6 +1,30 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:kuaj7moftbpdvbapepuerkaq/app.bsky.feed.post/3msqn456rfl2r",
+        "author": "portaldragoes.bsky.social",
+        "text": "Durante a subida à Torre da Serra da Estrela, na Covilhã, Rui Oliveira, da UAE Emirates, parou para saudar Pepe. O antigo defesa, de 43 anos, rendeu-se ao ciclismo após colocar um ponto final na carreira futebolística e tem partilhado vários momentos com destacados ciclistas portugueses. No…",
+        "created_at": "2026-08-10T17:34:29Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:nxlzusd3kaozcis6lzqh4fyl/app.bsky.feed.post/3msqikqxrr22d",
+        "author": "pt-pt.pds.netasgard.com",
+        "text": "em Portugal — Primeira cirurgia de osteointegração transfemural realizada em Portugal #EmPortugal #News",
+        "created_at": "2026-08-10T16:13:11Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:atovgacacw3fwnblh544bziq/app.bsky.feed.post/3mspov6x3dk23",
         "author": "usamailbox.bsky.social",
         "text": "#StreetArt\n\nby MURA\n\nin #Covilhã, #Portugal",
