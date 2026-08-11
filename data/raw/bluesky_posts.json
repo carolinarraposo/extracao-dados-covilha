@@ -1,6 +1,30 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3msryh3qehvd2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2026-08-11T06:06:16.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3msqzhg4ziu2e",
+        "author": "pt-noticias.bsky.social",
+        "text": "Volta: Rui Oliveira interrompe subida à Torre para abraçar Pepe\n\nhttps://www.europesays.com/pt/482070/\n\nNa subida à Torre da Serra da Estrela, na Covilhã, Rui Oliveira (UAE Emirates) interrompeu a etapa para…",
+        "created_at": "2026-08-10T21:15:30+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:kuaj7moftbpdvbapepuerkaq/app.bsky.feed.post/3msqn456rfl2r",
         "author": "portaldragoes.bsky.social",
         "text": "Durante a subida à Torre da Serra da Estrela, na Covilhã, Rui Oliveira, da UAE Emirates, parou para saudar Pepe. O antigo defesa, de 43 anos, rendeu-se ao ciclismo após colocar um ponto final na carreira futebolística e tem partilhado vários momentos com destacados ciclistas portugueses. No…",
