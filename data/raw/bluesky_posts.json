@@ -1,6 +1,30 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:lxpmp26fxtdcr4fxvhycenoh/app.bsky.feed.post/3msvdqzgo3i2p",
+        "author": "pt-noticias.bsky.social",
+        "text": "Diabetes em Movimento reforça aposta na Covilhã para apoiar pessoas com diabetes tipo 2\n\nhttps://www.europesays.com/pt/483958/\n\nO programa Diabetes em Movimento inicia atividade na Covilhã, a partir de outubro de 2026, de modo a…",
+        "created_at": "2026-08-12T14:30:29+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3msvcapdh5b2l",
+        "author": "fogospt.bsky.social",
+        "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Teixoso - Mato. Saiba mais em https://fogos.pt/fogo/20261140698 #IRCovilhã FogosPT  ⚠🔥",
+        "created_at": "2026-08-12T14:03:29.740028Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3msszyy6sdih2",
         "author": "observador.pt.web.brid.gy",
         "text": "",
