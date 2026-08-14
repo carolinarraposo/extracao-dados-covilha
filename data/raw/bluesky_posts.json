@@ -1,6 +1,30 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mt2mandvas2y",
+        "author": "fogospt.bsky.social",
+        "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Covilhã E Canhoso - Mato. Saiba mais em https://fogos.pt/fogo/20261152537 #IRCovilhã FogosPT  ⚠🔥",
+        "created_at": "2026-08-14T16:45:43.768113Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mt276xqlzf2y",
+        "author": "fogospt.bsky.social",
+        "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Ferro - Mato. Saiba mais em https://fogos.pt/fogo/20261151338 #IRCovilhã FogosPT  ⚠🔥",
+        "created_at": "2026-08-14T12:52:08.923160Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mszibusrkb2y",
         "author": "fogospt.bsky.social",
         "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Orjais - Mato. Saiba mais em https://fogos.pt/fogo/20261149184 #IRCovilhã FogosPT  ⚠🔥",
