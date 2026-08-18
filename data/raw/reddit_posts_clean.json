@@ -1,6 +1,54 @@
 [
     {
         "source":"reddit",
+        "platform_id":"1vs04y8",
+        "title":"Nail artist e esteticista na Covilhã",
+        "author":"clementina2",
+        "text":"Hello! \n\nEspero que estejam todos bem \n\nVou mudarme para a Covilhã daqui a um mês e preciso de recomendações de uma nail artist e esteticista, por favor  \n\nQual é mais ou menos o preço de umas unhas de gel por esses lados? \n\nObrigada! ",
+        "created_at":"2026-08-18 19:56:56",
+        "url":"https:\/\/www.reddit.com\/r\/covilha\/comments\/1vs04y8\/nail_artist_e_esteticista_na_covilhã\/",
+        "metrics":{
+            "upvotes":1,
+            "comments":0
+        },
+        "comments":[
+
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
+        "platform_id":"1vryr85",
+        "title":"Recomendações para obras - Covilhã",
+        "author":"O-Garfield",
+        "text":"",
+        "created_at":"2026-08-18 19:07:22",
+        "url":"\/r\/TudoCasa\/comments\/1vryqz8\/recomendações_para_obras_covilhã\/",
+        "metrics":{
+            "upvotes":1,
+            "comments":0
+        },
+        "comments":[
+
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
         "platform_id":"1vmbihr",
         "title":"Companhia para uns mergulhos",
         "author":"fingerprank",
