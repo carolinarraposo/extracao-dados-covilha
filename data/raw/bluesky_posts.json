@@ -1,6 +1,29 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:rlitjl477yqvbfzo5y4b3ytr/app.bsky.feed.post/3mtf6dyqef22h",
+        "author": "imutley.bsky.social",
+        "text": "Há o Arcos em lx. Mas tugal não é só lx. E Cuf (e afins) até na Covilhã há. € é € e se o Estado se \"oferece\" para pagar, pruridos vão desaparecer em segundos quando começarem a fazer as contas.\n\nAliás é capaz de ser a melhor arma contra tentações de abolir o aborto.",
+        "created_at": "2026-08-18T21:36:21.404Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 2
+        },
+        "comments": [
+            {
+                "comment_author": "fcancio.bsky.social",
+                "comment_text": "não. a clínica dos arcos é o único estabelecimento privado q faz interrupção de gravidez em portugal.",
+                "comment_likes": 0
+            },
+            {
+                "comment_author": "shyznogd.bsky.social",
+                "comment_text": "Sei q n é só lx e esse era um dos problemas das mulheres açorianas, tinham/têm de vir para cá (vide os vários trabalhos sobre ivg da @fcancio.bsky.social durante o ano de 2023 no DN)",
+                "comment_likes": 1
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mteksp5aik2p",
         "author": "fogospt.bsky.social",
         "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Covilhã E Canhoso - Mato. Saiba mais em https://fogos.pt/fogo/20261174636 #IRCovilhã FogosPT  ⚠🔥",
