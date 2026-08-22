@@ -1,6 +1,54 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mtowxiqrke2l",
+        "author": "terminal.goalbot.dev",
+        "text": "GOAL! 81' — S. Traore scores for Atlético CP. SC Covilha 0–3 Atlético CP. Liga 3\n\n#sccovilha #atleticocp",
+        "created_at": "2026-08-22T18:50:42.858Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mtowudp7252z",
+        "author": "terminal.goalbot.dev",
+        "text": "GOAL! 75' — H. Suker scores for Atlético CP. SC Covilha 0–3 Atlético CP. Liga 3\n\n#sccovilha #atleticocp",
+        "created_at": "2026-08-22T18:48:56.896Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:vjtfrmm5mpvr57bnp5ez5cey/app.bsky.feed.post/3mtovlxm2ye2e",
+        "author": "haha.yes.goalbot.dev",
+        "text": "🟥 Red Card 60' — R. Dias (Atlético CP). SC Covilha 0–1 Atlético CP. Liga 3\n\n#sccovilha #atleticocp",
+        "created_at": "2026-08-22T18:26:22.051Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mtovbcsyoh2m",
+        "author": "terminal.goalbot.dev",
+        "text": "GOAL! 56' — J. Martins scores for Atlético CP. SC Covilha 0–1 Atlético CP. Assist: B. Lourenco. Liga 3\n\n#sccovilha #atleticocp",
+        "created_at": "2026-08-22T18:20:24.690Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:2e42ofowixkurvywhyfmffjy/app.bsky.feed.post/3mtmej22nyw2n",
         "author": "rss.dfaria.eu",
         "text": "Município da Covilhã quer ser capital da Cultura em 2028 e já reuniu mais de 500 contributos da comunidade\n\nO Município da Covilhã junta-se ao grupo de cidades que querem ser Capital Portuguesa da Cultura em 2028 e, para […]\n\ncomunidadeculturaearte.com",
