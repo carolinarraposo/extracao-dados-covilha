@@ -1,6 +1,30 @@
 [
     {
         "source":"reddit",
+        "platform_id":"1vx02ag",
+        "title":"Pokémon TCG",
+        "author":"clementina2",
+        "text":"Hello! \n\nAlguém joga Pokémon TCG na Covilhã? E se sim, onde costumam jogar? \n\nThank you! ",
+        "created_at":"2026-08-24 11:24:47",
+        "url":"https:\/\/www.reddit.com\/r\/covilha\/comments\/1vx02ag\/pokémon_tcg\/",
+        "metrics":{
+            "upvotes":3,
+            "comments":0
+        },
+        "comments":[
+
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
         "platform_id":"1vv238i",
         "title":"Indicação de bares",
         "author":"Sparhawk23",
