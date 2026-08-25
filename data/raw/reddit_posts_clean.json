@@ -1,6 +1,39 @@
 [
     {
         "source":"reddit",
+        "platform_id":"1vxex9g",
+        "title":"Mecânicos",
+        "author":"DepartmentClean6392",
+        "text":"Que oficinas costumam frequentar ?   \nQueria ver mais opções  acho que a minha anda me a roubar ",
+        "created_at":"2026-08-24 20:44:32",
+        "url":"https:\/\/www.reddit.com\/r\/covilha\/comments\/1vxex9g\/mecânicos\/",
+        "metrics":{
+            "upvotes":8,
+            "comments":2
+        },
+        "comments":[
+            {
+                "comment_author":"malbardeiro",
+                "comment_text":"Costumo ir ao HelioCarService, não é o mais barato mas até agora gostei do serviço.\nJá utilizei a top care não gostei, respostas lentas tive lá o carro uma semana ligava não atendiam, depois pedi que analisassem o problema e veio de lá a dizerem que só precisava de uma limpeza de motor quando andava a perder gasóleo.",
+                "comment_upvotes":1
+            },
+            {
+                "comment_author":"DepartmentClean6392",
+                "comment_text":"Vou pesquisar . Obrigado! ",
+                "comment_upvotes":1
+            }
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
         "platform_id":"1vx02ag",
         "title":"Pokémon TCG",
         "author":"clementina2",
