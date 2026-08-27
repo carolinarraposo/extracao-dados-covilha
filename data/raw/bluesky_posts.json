@@ -1,6 +1,42 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:w47ambm6qest2nyi5rcyxxob/app.bsky.feed.post/3mu36cwviwc2i",
+        "author": "jcangaia.bsky.social",
+        "text": "Guarda-Covilhã, partida às 18:30",
+        "created_at": "2026-08-27T15:34:20.160Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:owrlc3sxkdctrqapjpoamvyp/app.bsky.feed.post/3mu2xqoye2s2g",
+        "author": "echoboomer.pt",
+        "text": "Action alarga rede nacional com lojas em Alcobaça e na Covilhã, ambas com mais de 860 m².",
+        "created_at": "2026-08-27T13:36:45.439Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:dzyt7vqzcsuj2ld5epcqt2gq/app.bsky.feed.post/3mu2uxrkwio2c",
+        "author": "lusa.pt",
+        "text": "Covilhã foi o município com maior área ardida entre 2020 e 2025 – INE",
+        "created_at": "2026-08-27T12:47:01.1416645+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:aoifpyfe77nl5km4vjs66ycr/app.bsky.feed.post/3mtwyysbgn3u2",
         "author": "rr.pt.web.brid.gy",
         "text": "",
