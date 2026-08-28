@@ -1,6 +1,49 @@
 [
     {
         "source":"reddit",
+        "platform_id":"1w0tzds",
+        "title":"Conselho de poços e lojas",
+        "author":"Felzinha",
+        "text":"Olá! Estou a passar uns dias na Covilhã e queria conselhos de\n\n um poço ou piscina natural para dar uns mergulhos ao sábado de manhã. Idealmente perto da Covilhã e que não fique completamente cheio ao sábado...\n\n lojas para comprar produtos locais, nomeadamente mantas e outros produtos de lã e fios para crochêtricô.\n\n uma loja para comprar uns queijinhos também era bom. \n\nObrigada ",
+        "created_at":"2026-08-28 15:38:04",
+        "url":"https:\/\/www.reddit.com\/r\/covilha\/comments\/1w0tzds\/conselho_de_poços_e_lojas\/",
+        "metrics":{
+            "upvotes":6,
+            "comments":4
+        },
+        "comments":[
+            {
+                "comment_author":"Ambitious_Celery8087",
+                "comment_text":"Olá, bem vindo á Covilhã \nO poço natural mais perto que tens da cidade é na Vila do Carvalho, a 10 min de carro\nQuanto a lojas com produtos locais tens no centro da cidade, na praça do município tens duas com queijos , enchidos e tecidos\n\nBoa estadia ",
+                "comment_upvotes":3
+            },
+            {
+                "comment_author":"fingerprank",
+                "comment_text":"Tens montes de poços e piscinas naturais na zona das cortes. Procura cortes de baixo, cortes do meio, piscina natural do Paul e bouça. Quanto à queijos e afins podes sempre ir até as torres na serra da estrela, tens montes de opções de charcutaria da zona. \n\nBoa estadia ",
+                "comment_upvotes":1
+            },
+            {
+                "comment_author":"Felzinha",
+                "comment_text":"Muito obrigada!!! \nJá agora! Restaurantes? Já sei a clássica taberna laranjinha ",
+                "comment_upvotes":1
+            },
+            {
+                "comment_author":"DepartmentClean6392",
+                "comment_text":"Tens a casa das muralhas . Também se come bastante bem. Porta 32 ",
+                "comment_upvotes":1
+            }
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
         "platform_id":"1vxex9g",
         "title":"Mecânicos",
         "author":"DepartmentClean6392",
