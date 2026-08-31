@@ -1,6 +1,39 @@
 [
     {
         "source":"reddit",
+        "platform_id":"1w3oyr0",
+        "title":"TCG Covilhã",
+        "author":"clementina2",
+        "text":"Hello!\n\nVi agora que o Café Beira fechou. \n\nOnde é que as pessoas jogam TCG agora? \n\nObrigada! ",
+        "created_at":"2026-08-31 19:55:56",
+        "url":"https:\/\/www.reddit.com\/r\/covilha\/comments\/1w3oyr0\/tcg_covilhã\/",
+        "metrics":{
+            "upvotes":9,
+            "comments":2
+        },
+        "comments":[
+            {
+                "comment_author":"pqpm",
+                "comment_text":"Se não houver mais perto, em Castelo Branco tens a loja monster trainer. ",
+                "comment_upvotes":1
+            },
+            {
+                "comment_author":"gabriolis",
+                "comment_text":"Jogasse magic tcg na Covilhã. Antes era num café no jardim. Agora so jogo online e não te posso confirmar, mas posso dar contatos de quem ainda joga",
+                "comment_upvotes":1
+            }
+        ],
+        "Título":null,
+        "Autor":null,
+        "Texto":null,
+        "Upvotes":null,
+        "Total Comentários":null,
+        "Conteudo_Comentarios":null,
+        "Data":null,
+        "URL":null
+    },
+    {
+        "source":"reddit",
         "platform_id":"1w0tzds",
         "title":"Conselho de poços e lojas",
         "author":"Felzinha",
