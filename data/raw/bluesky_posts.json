@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:aw56hsoqalyggqedfzafj36k/app.bsky.feed.post/3muhc5x5r222x",
+        "author": "nachrichten-fr.bsky.social",
+        "text": "[PT] Covilhã hat 2020 bis 2025 die größte Brandfläche in Portugal\n\nhttps://portugal.laenderblick.news/covilha-hat-2020-bis-2025-die-groesste-brandflaeche-in-portugal/",
+        "created_at": "2026-09-01T11:15:04.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:vbfpsenn4udlelrmxujq7gj4/app.bsky.feed.post/3muehlgha2i22",
         "author": "jaseph.bsky.social",
         "text": "Psst, hast du schon gehört? In Covilha feierst du Silvester komplett umsonst auf der #Silvester-Party vor der atemberaubenden Serra da Estrela! 🎆 Livemusik, ein Festzelt und um Mitternacht zündet der Himmel über #Portugal ab – das ist echte #Neujahrszauber mit Bergpanorama. Die genauen Acts werd...",
