@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3muhu6csntlu2",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2026-09-01T15:50:51.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:aw56hsoqalyggqedfzafj36k/app.bsky.feed.post/3muhc5x5r222x",
         "author": "nachrichten-fr.bsky.social",
         "text": "[PT] Covilhã hat 2020 bis 2025 die größte Brandfläche in Portugal\n\nhttps://portugal.laenderblick.news/covilha-hat-2020-bis-2025-die-groesste-brandflaeche-in-portugal/",
