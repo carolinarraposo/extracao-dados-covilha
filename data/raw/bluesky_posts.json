@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mujdtac4tw26",
+        "author": "sapo.pt",
+        "text": "Quercus denuncia possível abate de 1400 sobreiros para ampliar parque industrial na Covilhã",
+        "created_at": "2026-09-02T06:50:10.944291Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3muhu6csntlu2",
         "author": "observador.pt.web.brid.gy",
         "text": "",
