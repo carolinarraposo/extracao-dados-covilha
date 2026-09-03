@@ -1,6 +1,29 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:svvgl2o3inltbe5orau7puxy/app.bsky.feed.post/3mumdhpi3ps2r",
+        "author": "paulocarrasco.bsky.social",
+        "text": "Caso queiram montar um bar de alterne, aqui está um bom investimento. O @sharkinho.bsky.social que o diga.",
+        "created_at": "2026-09-03T11:21:44.419Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 2
+        },
+        "comments": [
+            {
+                "comment_author": "sharkinho.bsky.social",
+                "comment_text": "Sim, tem até espaço para um balcão e um pé direito generoso para instalar a iluminação apropriada.\nEstou, naturalmente, a basear-me em informação obtida junto de terceiros.",
+                "comment_likes": 0
+            },
+            {
+                "comment_author": "dpaxorales.bsky.social",
+                "comment_text": "de facto, parece um barco.",
+                "comment_likes": 0
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:4mfcve4csgl3se25slyj3bnt/app.bsky.feed.post/3mujdtac4tw26",
         "author": "sapo.pt",
         "text": "Quercus denuncia possível abate de 1400 sobreiros para ampliar parque industrial na Covilhã",
