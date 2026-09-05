@@ -1,6 +1,78 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mus2gar56n2r",
+        "author": "terminal.goalbot.dev",
+        "text": "PENALTY MISSED! 90' — B. Sambu's penalty is missed for Mafra. Mafra 1–0 SC Covilha. Liga 3\n\n#mafra #sccovilha",
+        "created_at": "2026-09-05T17:55:49.598Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:vjtfrmm5mpvr57bnp5ez5cey/app.bsky.feed.post/3mus2eljyoc25",
+        "author": "haha.yes.goalbot.dev",
+        "text": "🟥 Red Card 90' — Jailson (SC Covilha). Mafra 1–0 SC Covilha. Liga 3\n\n#mafra #sccovilha",
+        "created_at": "2026-09-05T17:54:54.157Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:vjtfrmm5mpvr57bnp5ez5cey/app.bsky.feed.post/3murzj5tlxw25",
+        "author": "haha.yes.goalbot.dev",
+        "text": "🟥 Second Yellow (off) 74' — Y. Maiga (Mafra). Mafra 1–0 SC Covilha. Liga 3\n\n#mafra #sccovilha",
+        "created_at": "2026-09-05T17:39:33.693Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3murzfsz7wl2y",
+        "author": "terminal.goalbot.dev",
+        "text": "GOAL! 70' — Xico scores for Mafra. Mafra 1–0 SC Covilha. Liga 3\n\n#mafra #sccovilha",
+        "created_at": "2026-09-05T17:37:41.705Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:vjtfrmm5mpvr57bnp5ez5cey/app.bsky.feed.post/3murzaga3rk2u",
+        "author": "haha.yes.goalbot.dev",
+        "text": "🟥 Red Card 73' (Mafra). Mafra 1–0 SC Covilha. Liga 3\n\n#mafra #sccovilha",
+        "created_at": "2026-09-05T17:34:40.446Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3murxmuxpco2c",
+        "author": "fogospt.bsky.social",
+        "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Teixoso E Sarzedo - Gestão de Combustível. Saiba mais em https://fogos.pt/fogo/20261264196 #IRCovilhã FogosPT  ⚠🔥",
+        "created_at": "2026-09-05T17:05:51.191583Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:shoj6xul2xcebbp7c373g2lg/app.bsky.feed.post/3mup3ahvdo226",
         "author": "fabio14andrade.bsky.social",
         "text": "O IC6, o IC26, a conclusão da variante da EN 329, o IC35, o IC13 e o IC3 não saem da gaveta assim como a Linha do Vouga entre o Porto e Aveiro c/ramal para Águeda. Portugal perde milhões de euros com estes atrasos. \n\nwww.tsf.pt/sociedade/ar...",
