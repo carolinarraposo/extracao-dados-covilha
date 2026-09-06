@@ -1,6 +1,24 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3muuifsa3lm2c",
+        "author": "movebeiras.pt",
+        "text": "O troço Abrantes - Covilhã completa hoje 135 anos. Um aniversário atípico, pois desde o início do ano que a linha se encontra interrompida devido a um aluimento próximo da Barca d'Amieira.",
+        "created_at": "2026-09-06T17:11:26.790Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 1
+        },
+        "comments": [
+            {
+                "comment_author": "movebeiras.pt",
+                "comment_text": "A reabertura já não veio a tempo deste aniversário, mas virá daqui a duas semanas e com ela, esperemos, o retomar integral da oferta que a Kristin levou!\n1 minuto alimenta um ego.\n8 minutos, a mobilidade de uma região.\n\nwww.cp.pt/pt/detalhe-a...",
+                "comment_likes": 0
+            }
+        ]
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:oemcoxermljgssqma5m5wpi6/app.bsky.feed.post/3mus2gar56n2r",
         "author": "terminal.goalbot.dev",
         "text": "PENALTY MISSED! 90' — B. Sambu's penalty is missed for Mafra. Mafra 1–0 SC Covilha. Liga 3\n\n#mafra #sccovilha",
