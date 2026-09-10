@@ -1,6 +1,30 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3mv6ikczoti42",
+        "author": "observador.pt.web.brid.gy",
+        "text": "",
+        "created_at": "2026-09-10T15:52:35.000Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:ak23bdrwetsoskfil5bh3ff6/app.bsky.feed.post/3mv66tznrvk2b",
+        "author": "redatapt.bsky.social",
+        "text": "⏰ 𝐎 𝐩𝐫𝐚𝐳𝐨 𝐞𝐬𝐭𝐚́ 𝐚 𝐭𝐞𝐫𝐦𝐢𝐧𝐚𝐫!\n\nNão perca a oportunidade de se candidatar a este 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩.\n\n💻 𝐒𝐞𝐬𝐬𝐨̃𝐞𝐬 𝐨𝐧𝐥𝐢𝐧𝐞: 2, 4, 6, 9 e 11 de nov. \n📍 𝐒𝐞𝐬𝐬𝐚̃𝐨 𝐩𝐫𝐞𝐬𝐞𝐧𝐜𝐢𝐚𝐥 (𝐨𝐛𝐫𝐢𝐠𝐚𝐭𝐨́𝐫𝐢𝐚): 18 de nov.(Universidade da Beira Interior | Covilhã)\n\n👉 𝐌𝐚𝐢𝐬 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐜̧𝐨̃𝐞𝐬: redata.pt/cursos/bootc...",
+        "created_at": "2026-09-10T13:47:04.323Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3muxar76upd2u",
         "author": "fogospt.bsky.social",
         "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Ferro - Mato. Saiba mais em https://fogos.pt/fogo/20261275002 #IRCovilhã FogosPT  ⚠🔥",
