@@ -1,6 +1,30 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:zl5cznnw3xblkez7ho6irtzm/app.bsky.feed.post/3mvbap3vl2o2x",
+        "author": "portugalbinario.bsky.social",
+        "text": "📰 Da Covilhã para 100 países: Motorola compra a DeepNeuronic\n\nA Motorola Solutions adquiriu a startup de inteligência artificial DeepNeuronic, incubada...\n\n",
+        "created_at": "2026-09-11T18:58:05.521079+00:00",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mvalwrbbin2x",
+        "author": "fogospt.bsky.social",
+        "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Peso - Mato. Saiba mais em https://fogos.pt/fogo/20261292854 #IRCovilhã FogosPT  ⚠🔥",
+        "created_at": "2026-09-11T12:46:34.000176Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:pqg5owrrd3mand2ptkmffe6h/app.bsky.feed.post/3mv6ikczoti42",
         "author": "observador.pt.web.brid.gy",
         "text": "",
