@@ -1,6 +1,114 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:7kwvecjzjdauibmbhwjgheth/app.bsky.feed.post/3mvdvoirj722e",
+        "author": "chronicle.goalbot.dev",
+        "text": "🏁 FULLTIME — Lusitano Évora 1911 2–2 SC Covilha. Liga 3\n\n#lusitanoevora1911 #sccovilha #portugalliga3",
+        "created_at": "2026-09-12T20:18:53.532Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t7h7tso4c5olyx6bi2gidm6w/app.bsky.feed.post/3mvduyhs2ua2m",
+        "author": "movebeiras.pt",
+        "text": "🚆 Sabias que podes ir de comboio, quer da Guarda, quer da Covilhã à caminhada ao Cabeço das Fráguas no próximo dia 20?\n🧗 Aproveita o regresso integral dos comboios da Beira Baixa e vem conhecer este castro com muita história! \n🎫 Inscreve-te. É grátis! www.facebook.com/photo/?fbid=...",
+        "created_at": "2026-09-12T20:06:34.352Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:7kwvecjzjdauibmbhwjgheth/app.bsky.feed.post/3mvduquy6522e",
+        "author": "chronicle.goalbot.dev",
+        "text": "GOAL! 79' — D. Silva scores for Lusitano Évora 1911. Lusitano Évora 1911 2–2 SC Covilha. Liga 3\n\n#lusitanoevora1911 #sccovilha #portugalliga3",
+        "created_at": "2026-09-12T20:02:19.676Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:7kwvecjzjdauibmbhwjgheth/app.bsky.feed.post/3mvdtqinurk2e",
+        "author": "chronicle.goalbot.dev",
+        "text": "GOAL! 52' — C. Niang scores for SC Covilha. Lusitano Évora 1911 1–2 SC Covilha. Assist: D. Silva. Liga 3\n\n#lusitanoevora1911 #sccovilha #portugalliga3",
+        "created_at": "2026-09-12T19:44:13.057Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:7kwvecjzjdauibmbhwjgheth/app.bsky.feed.post/3mvdtclfuas2e",
+        "author": "chronicle.goalbot.dev",
+        "text": "⚽ SECOND_HALF — Lusitano Évora 1911 1–1 SC Covilha. Liga 3\n\n#lusitanoevora1911 #sccovilha #portugalliga3",
+        "created_at": "2026-09-12T19:36:26.182Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:7kwvecjzjdauibmbhwjgheth/app.bsky.feed.post/3mvdsd5z4vs2e",
+        "author": "chronicle.goalbot.dev",
+        "text": "⏸️ HALFTIME — Lusitano Évora 1911 1–1 SC Covilha. Liga 3\n\n#lusitanoevora1911 #sccovilha #portugalliga3",
+        "created_at": "2026-09-12T19:18:51.849Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:7kwvecjzjdauibmbhwjgheth/app.bsky.feed.post/3mvdrxaro3s2e",
+        "author": "chronicle.goalbot.dev",
+        "text": "GOAL! 43' — H. Innusah scores for SC Covilha (penalty). Lusitano Évora 1911 1–1 SC Covilha. Liga 3\n\n#lusitanoevora1911 #sccovilha #portugalliga3",
+        "created_at": "2026-09-12T19:12:12.200Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:7kwvecjzjdauibmbhwjgheth/app.bsky.feed.post/3mvdramw3ps2e",
+        "author": "chronicle.goalbot.dev",
+        "text": "GOAL! 25' — R. Batalha scores for Lusitano Évora 1911. Lusitano Évora 1911 1–0 SC Covilha. Assist: M. Soares. Liga 3\n\n#lusitanoevora1911 #sccovilha #portugalliga3",
+        "created_at": "2026-09-12T18:59:33.116Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:7kwvecjzjdauibmbhwjgheth/app.bsky.feed.post/3mvdprdh5ok2e",
+        "author": "chronicle.goalbot.dev",
+        "text": "⚽ KICKOFF — Lusitano Évora 1911 0–0 SC Covilha. Liga 3\n\n#lusitanoevora1911 #sccovilha #portugalliga3",
+        "created_at": "2026-09-12T18:33:06.183Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:lraaieoo5iizgtqgqrmp3brw/app.bsky.feed.post/3mvbqjpsck72c",
         "author": "fogospt.bsky.social",
         "text": "🔥⚠ Novo incêndio em Castelo Branco, Covilhã, Cantar-galo - Mato. Saiba mais em https://fogos.pt/fogo/20261295641 #IRCovilhã FogosPT  ⚠🔥",
