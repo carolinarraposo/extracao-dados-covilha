@@ -1,6 +1,30 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:wbak27dzbeehw2uc4fbeeeiv/app.bsky.feed.post/3mvlesackms2k",
+        "author": "oiedecravan.bsky.social",
+        "text": "They were probably working on the album but that was not a tour. I think they only played a few shows in 1995 & that was a one off in Portugal. A friend of Ana Da Silva who had a store in Lisbon's Bairo Alto told me  about it a few weeks in advance & I made the trip by train from Lisbon to Covilhã.",
+        "created_at": "2026-09-15T19:38:03.238Z",
+        "metrics": {
+            "likes": 1,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
+        "platform_id": "at://did:plc:t6xm4zrxilskfwjta2x7lu56/app.bsky.feed.post/3mvl27bqqp32n",
+        "author": "publico.pt",
+        "text": "Programa de valorização gastronómica, cultural e turística, intitulado “A Caminho das Estrelas”, foi apresentado nesta segunda-feira, na Covilhã.\n\n",
+        "created_at": "2026-09-15T16:28:29.7390067Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:4mejutssxdqcsl4we2v524vx/app.bsky.feed.post/3mviixhr6ys2q",
         "author": "on-centro.bsky.social",
         "text": "Foram realizadas 11 ações e fiscalizados 200 condutores. Destas intervenções resultaram 15 autos de contraordenação, seis graves por utilização indevida do telemóvel durante a condução e dois graves por estacionamento indevido em travessia de peões.\n👇\non-centro.pt/index.php/pt...",
