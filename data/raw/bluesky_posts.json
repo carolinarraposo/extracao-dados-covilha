@@ -1,6 +1,18 @@
 [
     {
         "source": "bluesky",
+        "platform_id": "at://did:plc:t6xm4zrxilskfwjta2x7lu56/app.bsky.feed.post/3mvnmabep5q2l",
+        "author": "publico.pt",
+        "text": "Juíza estranha que antigo primeiro-ministro desse ordens ao amigo da Covilhã e que este lhe obedecesse, pagando despesas suas e dos seus amigos. Sócrates acusa-a de “dar muitas cambalhotas”\n\n",
+        "created_at": "2026-09-16T16:56:29.7273653Z",
+        "metrics": {
+            "likes": 0,
+            "replies": 0
+        },
+        "comments": []
+    },
+    {
+        "source": "bluesky",
         "platform_id": "at://did:plc:ypuqnhnow5voaqjqb6gb62ui/app.bsky.feed.post/3mvlxnmgmji2j",
         "author": "football-transfers.bsky.social",
         "text": "Tomás Silva completes loan transfer move to SC Covilhã\nhttp://www.transfermarkt.com/tomas-silva/profil/spieler/1041169\n#football #soccer #transfer #SCCovilhã",
